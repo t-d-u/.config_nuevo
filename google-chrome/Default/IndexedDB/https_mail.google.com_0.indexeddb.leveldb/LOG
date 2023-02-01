@@ -1,0 +1,6 @@
+2023/01/31-18:11:33.695 66b52 Reusing MANIFEST /home/tdu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/31-18:11:33.695 66b52 Recovering log #14
+2023/01/31-18:11:33.707 66b52 Reusing old log /home/tdu/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000014.log 
+2023/01/31-18:11:50.459 66b5f Level-0 table #19: started
+2023/01/31-18:11:50.507 66b5f Level-0 table #19: 1994733 bytes OK
+2023/01/31-18:11:50.525 66b5f Delete type=0 #14

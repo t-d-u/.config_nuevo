@@ -1,0 +1,45 @@
+[Data Source]
+DisplayName=tommy.deudaeta@gmail.com
+Enabled=true
+Parent=
+
+[Authentication]
+Host=
+Method=OAuth2
+Port=0
+ProxyUid=system-proxy
+RememberPassword=true
+User=
+CredentialName=
+IsExternal=true
+
+[Collection]
+BackendName=google
+CalendarEnabled=false
+ContactsEnabled=false
+Identity=tommy.deudaeta@gmail.com
+MailEnabled=false
+AllowSourcesRename=false
+CalendarUrl=
+ContactsUrl=
+
+[GNOME Online Accounts]
+AccountId=account_1672369542_0
+CalendarUrl=https://apidata.googleusercontent.com/caldav/v2/tommy.deudaeta@gmail.com/user
+ContactsUrl=https://www.googleapis.com/.well-known/carddav
+Name=
+Address=tommy.deudaeta@gmail.com
+
+[WebDAV Backend]
+AvoidIfmatch=false
+CalendarAutoSchedule=false
+Color=
+DisplayName=
+EmailAddress=
+ResourcePath=
+ResourceQuery=
+SslTrust=
+Order=4294967295
+
+[Security]
+Method=none

@@ -1,0 +1,2083 @@
+{
+   "checksum": "7ec1e29da451846692f05cb6dbb3c5ef",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13301322546000000",
+            "date_last_used": "0",
+            "guid": "bc7e27a7-8799-4bd5-85ee-2420e9ed90a3",
+            "id": "296",
+            "name": "SIU Guaraní - 3W - Carreras",
+            "type": "url",
+            "url": "https://inscripciones.exactas.uba.ar/exactas/inicio_alumno"
+         }, {
+            "children": [ {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ed83b586-2e19-499a-bd3a-86762976c243",
+               "id": "298",
+               "name": "Curso: Ecología General 2do cuatrimestre 2021",
+               "type": "url",
+               "url": "https://campus.exactas.uba.ar/course/view.php?id=1991"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5c235acf-3f37-4104-8593-1e68f64124b8",
+               "id": "299",
+               "name": "Principal | Laboratorio de datos – 1er Cuatrimestre 2022",
+               "type": "url",
+               "url": "http://materias.df.uba.ar/ldda2022c1/sample-page/"
+            }, {
+               "date_added": "13305264543000000",
+               "date_last_used": "0",
+               "guid": "ea624bc2-7341-4d32-8184-9ed1b9abe406",
+               "id": "300",
+               "name": "Curso: Neurofisiología Integrativa",
+               "type": "url",
+               "url": "https://campus.exactas.uba.ar/course/view.php?id=3269"
+            }, {
+               "date_added": "13310326634000000",
+               "date_last_used": "0",
+               "guid": "15218c6d-d7b9-4415-b570-a7d8aa3a7c01",
+               "id": "301",
+               "name": "NAM - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLCXW5Z_0St8oTye4FzDi_UcgnB2YjzRBQ"
+            }, {
+               "date_added": "13311093490000000",
+               "date_last_used": "13318012240563783",
+               "guid": "a8329486-73da-477a-afa1-f9f45fa58559",
+               "id": "302",
+               "name": "Dinámica No lineal. Clase: 22-04-2020. Profesor: Gabriel Mindlin - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cv7LX6kiAkQ&list=PLNbPNPgqTfs6KTbMalNwTqoRNhaoci9Wg&index=6"
+            }, {
+               "date_added": "13311093510000000",
+               "date_last_used": "0",
+               "guid": "f1866a4f-cd9e-4a1d-9ecd-058dda60e675",
+               "id": "303",
+               "name": "Cronograma | Dinamica No Lineal – 1er cuatrimestre 2020",
+               "type": "url",
+               "url": "http://materias.df.uba.ar/dnla2020c1/cronograma/"
+            } ],
+            "date_added": "13317242264420931",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "92230294-34cc-4fc8-b536-7a3a49b4ad8d",
+            "id": "297",
+            "name": "materias en curso",
+            "type": "folder"
+         }, {
+            "date_added": "13303517730000000",
+            "date_last_used": "13319118380718834",
+            "guid": "69d29e77-42a4-4a85-9fea-d47a15d80234",
+            "id": "304",
+            "name": "lervag/wiki.vim: A wiki plugin for Vim",
+            "type": "url",
+            "url": "https://github.com/lervag/wiki.vim"
+         }, {
+            "date_added": "13301322546000000",
+            "date_last_used": "0",
+            "guid": "91296c16-0d1b-4043-b27b-9ae6346852f6",
+            "id": "305",
+            "name": "10 hours Zen monkey (aphex twin - stone in focus) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=yVDwxZIBjwA"
+         }, {
+            "date_added": "13301322546000000",
+            "date_last_used": "0",
+            "guid": "1471d596-3ae8-4c69-8fc7-91fe4914f030",
+            "id": "306",
+            "name": "Aphex Twin - Avril 14th (10 Hours) - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=LQ5M1xXLnh8"
+         }, {
+            "children": [ {
+               "date_added": "13318548727501479",
+               "date_last_used": "0",
+               "guid": "3d840d18-8b7b-4312-8d9d-65b74c6c92a6",
+               "id": "568",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "End to End Machine Learning",
+               "type": "url",
+               "url": "https://end-to-end-machine-learning.teachable.com/courses"
+            } ],
+            "date_added": "13318548714104495",
+            "date_last_used": "0",
+            "date_modified": "13318548730908534",
+            "guid": "2fe4fff3-f3c2-4805-9ea9-9de6ea0a4ff2",
+            "id": "567",
+            "name": "rn",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "40b262de-8913-4ad6-9918-b164dbc3a3a4",
+               "id": "308",
+               "name": "Getting Started · Biopython",
+               "type": "url",
+               "url": "https://biopython.org/wiki/Getting_Started"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8ad5e75d-5ea4-468b-b8cc-5213561e55a2",
+               "id": "309",
+               "name": "Getting started with conda — conda 4.8.3.post4+df77c06e documentation",
+               "type": "url",
+               "url": "https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a02ec1be-529f-4098-8dd6-d99e81497a15",
+               "id": "310",
+               "name": "Why you need Python environments and how to manage them with Conda - protostar.space",
+               "type": "url",
+               "url": "https://protostar.space/why-you-need-python-environments-and-how-to-manage-them-with-conda"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "bbcd7f19-d7da-4f42-a9a3-42d3d85f19a7",
+               "id": "311",
+               "name": "Linux File System/Structure Explained! - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=HbgzrKJvDRw&list=LL3lAE7EmcpET3r0xto56tUw&index=18"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "c06037ee-ac44-47fb-a58f-093287f7631e",
+               "id": "312",
+               "name": "Automate the Boring Stuff with Python",
+               "type": "url",
+               "url": "https://automatetheboringstuff.com/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8797956e-4661-4491-98fc-2b3a01d16fa9",
+               "id": "313",
+               "name": "Linear Regression in Python using numpy + polyfit (with code base)",
+               "type": "url",
+               "url": "https://data36.com/linear-regression-in-python-numpy-polyfit/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "f337255f-062a-40c5-8587-009d4451e698",
+               "id": "314",
+               "name": "5 Pandas Functions Inspiring Data Scientists Must Know | by Christopher Zita | Feb, 2021 | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/5-pandas-functions-inspiring-data-scientists-must-know-dff59580b307"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5549202d-89f1-4cb9-ad00-075f21be948f",
+               "id": "315",
+               "name": "7 Useful Tricks for Python Regex to Learn | by Christopher Tao | Mar, 2021 | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/7-useful-tricks-for-python-regex-you-should-know-ec20381e22f2"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "6da5608f-8340-452f-ac51-f504f6900977",
+               "id": "316",
+               "name": "Three-Dimensional Plotting in Matplotlib | Python Data Science Handbook",
+               "type": "url",
+               "url": "https://jakevdp.github.io/PythonDataScienceHandbook/04.12-three-dimensional-plotting.html"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "dc446df1-84f2-424f-8575-7fe118aa49b2",
+               "id": "317",
+               "name": "Glossary — Python 3.9.2 documentation",
+               "type": "url",
+               "url": "https://docs.python.org/3/glossary.html#term-iterable"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8dda808b-6e9a-4663-a476-19a981a38fe1",
+               "id": "318",
+               "name": "python-3.x — ¿Cómo se comportan los parámetros 'c' y 'cmap' en un diagrama de dispersión matplotlib?",
+               "type": "url",
+               "url": "https://www.it-swarm-es.com/es/python-3.x/como-se-comportan-los-parametros-c-y-cmap-en-un-diagrama-de-dispersion-matplotlib/807324958/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "495961ec-0192-4a2a-ac22-deae2a38b104",
+               "id": "319",
+               "name": "Custom Markers",
+               "type": "url",
+               "url": "https://petercbsmith.github.io/marker-tutorial.html"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "84dfa6e4-7ef5-4793-8b7a-fe9179373efc",
+               "id": "320",
+               "name": "VISTO-How to Run Your Python Scripts – Real Python",
+               "type": "url",
+               "url": "https://realpython.com/run-python-scripts/#:~:text=To%20run%20Python%20scripts%20with,python3%20hello.py%20Hello%20World!"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "bf88f23a-99a3-49d8-9a5f-d9e3bd437a9c",
+               "id": "321",
+               "name": "Gradient Descent | Coursera",
+               "type": "url",
+               "url": "https://www.coursera.org/learn/machine-learning/lecture/8SpIM/gradient-descent"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "f2977480-2d65-4fb9-a950-a9711d548a76",
+               "id": "322",
+               "name": "VISTO-3 Essential Questions About Hashable in Python | by Yong Cui | Better Programming",
+               "type": "url",
+               "url": "https://betterprogramming.pub/3-essential-questions-about-hashable-in-python-33e981042bcb"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "4e218d75-3d66-4d84-8289-f169ab2e1a09",
+               "id": "323",
+               "name": "tipos de errores ",
+               "type": "url",
+               "url": "https://stackoverflow.com/questions/11921705/what-is-the-difference-between-nameerror-and-attributeerror-in-python#:~:text=NameError%20Raised%20when%20a%20local,Attribute%20references)%20or%20assignment%20fails"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9653c417-4a1c-4a34-9d2a-5892a4b76737",
+               "id": "324",
+               "name": "variables globales, locales, nonlocal",
+               "type": "url",
+               "url": "https://www.python-course.eu/python3_global_vs_local_variables.php"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ba2067e9-042b-4a0b-a1b7-5ea0d83fa46a",
+               "id": "325",
+               "name": "Feature Selection in Python with Scikit-Learn",
+               "type": "url",
+               "url": "https://machinelearningmastery.com/feature-selection-in-python-with-scikit-learn/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a2f30c0e-8050-47f7-8ad8-5ef8bc4ab9fa",
+               "id": "326",
+               "name": "Data normalization with Pandas and Scikit-Learn | by Amanda Iglesias Moreno | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/data-normalization-with-pandas-and-scikit-learn-7c1cc6ed6475"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "50ece4cd-4442-4b01-b37b-6b49687b6d14",
+               "id": "327",
+               "name": "Write Clean Python Code Using Pipes - KDnuggets",
+               "type": "url",
+               "url": "https://www.kdnuggets.com/2021/12/write-clean-python-code-pipes.html"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "05b16588-649c-45fe-a248-add28e2f02a4",
+               "id": "328",
+               "name": "GitHub - HIPS/autograd: Efficiently computes derivatives of numpy code.",
+               "type": "url",
+               "url": "https://github.com/HIPS/autograd"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "63aca385-4afb-4e50-a228-9262c714e97b",
+               "id": "329",
+               "name": "6. Modules — Python 3.10.1 documentation",
+               "type": "url",
+               "url": "https://docs.python.org/3/tutorial/modules.html#packages"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "d08f22a3-78b6-479b-a7d7-7ecb25fe4d6e",
+               "id": "330",
+               "name": "Usage — Matplotlib 2.0.2 documentation",
+               "type": "url",
+               "url": "https://matplotlib.org/2.0.2/faq/usage_faq.html#what-is-a-backend"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e3340065-6057-4844-97db-5f1947d529ba",
+               "id": "331",
+               "name": "11 Practical Tips You Need to Know to Personalize Jupyter Notebook | by Rizky Maulana N | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/10-practical-tips-you-need-to-know-to-personalize-jupyter-notebook-fbd202777e20"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "02a391a2-3770-4ac9-872c-21e270e6fd50",
+               "id": "332",
+               "name": "Write Clean Python Code Using Pipes | by Khuyen Tran | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/write-clean-python-code-using-pipes-1239a0f3abf5"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "fa05b0e9-d53e-4d99-89b5-1ac9d70df58a",
+               "id": "333",
+               "name": "Python 3 Installation & Setup Guide – Real Python",
+               "type": "url",
+               "url": "https://realpython.com/installing-python/#how-to-build-python-from-source-code"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e97112e5-650c-4a65-a34d-3e303f680812",
+               "id": "334",
+               "name": "con esto instale 3.10: How To Install Python 3.10 on Ubuntu 20.04|18.04 | ComputingForGeeks",
+               "type": "url",
+               "url": "https://computingforgeeks.com/how-to-install-python-on-ubuntu-linux-system/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9b4b644b-119c-4efc-a3a5-3ef8f49f0170",
+               "id": "335",
+               "name": "de aca me copie como setear python3.10 default de python3:update-alternatives for python3 on Ubuntu",
+               "type": "url",
+               "url": "https://gist.github.com/patrickmmartin/5b6b2ddecd29d6a1b2ffee2d8eea31ec"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a2b14eca-b4c0-4d45-9e41-15fe0461d991",
+               "id": "336",
+               "name": "Upgrade Python to latest version (3.10) on Ubuntu Linux",
+               "type": "url",
+               "url": "https://cloudbytes.dev/snippets/upgrade-python-to-latest-version-on-ubuntu-linux"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "b4219191-68f6-4460-8374-b786d95969aa",
+               "id": "337",
+               "name": "How can I add ~/.local/bin to my PATH? | Newbedev",
+               "type": "url",
+               "url": "https://newbedev.com/how-can-i-add-local-bin-to-my-path"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a5ac47e9-42f4-4b83-861b-453465586ab1",
+               "id": "338",
+               "name": "con esto instale pip y con un bookmark de stack arregle distutils: How to Install Python Pip on Ubuntu 20.04 | Linuxize",
+               "type": "url",
+               "url": "https://linuxize.com/post/how-to-install-pip-on-ubuntu-20.04/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "20e8146d-8d97-44e1-a3d2-98e456f3d79c",
+               "id": "339",
+               "name": "Python List Comprehension (With Examples)",
+               "type": "url",
+               "url": "https://www.programiz.com/python-programming/list-comprehension"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "bde5f7da-c9f4-4c75-b3b2-9a2f526644dc",
+               "id": "340",
+               "name": "5 Advanced Tips on Python Decorators | by Michael Berk | Jan, 2022 | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/5-advanced-tips-on-python-decorators-113307d5a92c"
+            } ],
+            "date_added": "13317242264437155",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "9a8d6ce5-7888-4554-a654-b5048f248ae0",
+            "id": "307",
+            "name": "py ",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "d3be6b07-02ce-4a8a-b0de-b674c154310c",
+               "id": "342",
+               "name": "MyOpenMath",
+               "type": "url",
+               "url": "https://www.myopenmath.com/info/selfstudy.php"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "f511135e-0b36-4a03-a5a5-8a86fac02b14",
+               "id": "343",
+               "name": "Slope Field – GeoGebra",
+               "type": "url",
+               "url": "https://www.geogebra.org/m/z9c3ndaf"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "cf0e411d-d7b6-45dc-92f1-17a913ba40f0",
+               "id": "344",
+               "name": "ODE trefor",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=B5IjsTONKkw&list=PLHXZ9OQGMqxde-SlgmWlCmNHroIWtujBw"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "87471a17-94ea-466f-be5b-c35a9a64ad20",
+               "id": "345",
+               "name": "Ecuaciones diferenciales | Matemáticas | Khan Academy",
+               "type": "url",
+               "url": "https://es.khanacademy.org/math/differential-equations"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "63b6d502-03eb-406f-80fd-a342605cd3c6",
+               "id": "346",
+               "name": "mathispower4u",
+               "type": "url",
+               "url": "http://www.mathispower4u.com/diff-eq.php"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "10e42104-dcff-4c28-ba04-6b80bb6e53f1",
+               "id": "347",
+               "name": "8.4: The Logistic Equation - Mathematics LibreTexts",
+               "type": "url",
+               "url": "https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax)/08%3A_Introduction_to_Differential_Equations/8.4%3A_The_Logistic_Equation"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "0165dd3e-5f8c-434c-8a55-32de38118376",
+               "id": "348",
+               "name": "Analytic Solution logistic equation",
+               "type": "url",
+               "url": "https://math.usu.edu/~powell/biomath/mlab3-02/node3.html"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "149b35f2-a2db-4ed9-80af-54a651d35556",
+               "id": "349",
+               "name": "Wolfram Demonstrations Project",
+               "type": "url",
+               "url": "https://demonstrations.wolfram.com/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "6f18cb84-67de-4bb5-a891-df755b10854f",
+               "id": "350",
+               "name": "intro a ec dif",
+               "type": "url",
+               "url": "https://www.palermo.edu/ingenieria/downloads/CyT3/CYT306.pdf"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5aeadcf0-6379-4a7d-83a7-13dea978f697",
+               "id": "351",
+               "name": "EcuacionesDiferencialesComplementoSobreEstabilidad.dvi",
+               "type": "url",
+               "url": "https://www.fing.edu.uy/~eleonora/Recopilacion/Archivos/NotasEnsenanza/Calcu2EcDifComplEstabilidad.pdf"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "225b7c2e-6485-424a-9f5b-519395d8ec6b",
+               "id": "352",
+               "name": "pelado matemática ppalmente linalg",
+               "type": "url",
+               "url": "https://www.youtube.com/user/dafdasg1/videos"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "b3cfe19a-553d-4168-9ba9-f34f0f087d7f",
+               "id": "353",
+               "name": "Complex Eigenvalues",
+               "type": "url",
+               "url": "http://faculty.sfasu.edu/judsontw/ode/html-20180819/linear04.html"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "027820c2-f7b9-4319-99f9-8de1e3db99d7",
+               "id": "354",
+               "name": "18.03SCF11 text: Complex Eigenvalues",
+               "type": "url",
+               "url": "https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/unit-iv-first-order-systems/matrix-methods-eigenvalues-and-normal-modes/MIT18_03SCF11_s33_7text.pdf"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9867e982-d600-4f23-bc1f-f45acb444950",
+               "id": "355",
+               "name": "la segunda respuesta está buena; complejos y radio de convergencia",
+               "type": "url",
+               "url": "https://mathoverflow.net/questions/30156/demystifying-complex-numbers"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "bc0a8cdb-8d14-4964-a41f-d03c67ba399b",
+               "id": "356",
+               "name": "Differential Equations | Separation of Variables - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=30CVhA6FV_I&list=PL22w63XsKjqxWUzDlkrbtifIx-XbKYnge"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9918e394-32bc-4846-81f3-10750179011f",
+               "id": "357",
+               "name": "The Plan for Differential Equations (Differential Equations 1) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=xf-3ATzFyKA&list=PLDesaqWTN6ESPaHy2QUKVaXNZuQNxkYQ_"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "4d41f811-3b21-46f9-8b3f-710bf73e6e56",
+               "id": "358",
+               "name": "mrgonzalezWHS - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/user/mrgonzalezWHS/videos"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e856450b-21b5-44f7-bb74-132c8a8c3a1e",
+               "id": "359",
+               "name": "Ejemplos de funciones generadoras - Wikipedia, la enciclopedia libre",
+               "type": "url",
+               "url": "https://es.wikipedia.org/wiki/Ejemplos_de_funciones_generadoras"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ea9a47d7-9941-45b9-a429-0be1cdf7b85a",
+               "id": "360",
+               "name": "diagrama de poincare plano de det(A) vs tr(a)",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=BHYznBz4KNs"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ee715b05-f100-4861-bf36-40863009643b",
+               "id": "361",
+               "name": "Douglas Hundley - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/channel/UCBMFNUSwuEHU-5r7hv_H3KQ/videos"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ad605de3-3517-4a0b-b378-393785c88805",
+               "id": "362",
+               "name": "Complexity Explorer - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/user/ComplexityExplorer/videos"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "71e44cd1-cc9a-4a39-8c7f-11da7030bc89",
+               "id": "363",
+               "name": "Nonlinear Dynamics: Return Maps - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=hacajxYy_3w"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "361208ac-0434-4d7e-aeeb-635c7c8b0604",
+               "id": "364",
+               "name": "Math Insight",
+               "type": "url",
+               "url": "https://mathinsight.org/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "b29a812c-964e-408a-8a0b-28d50814910c",
+               "id": "365",
+               "name": "Análisis Complejo",
+               "type": "url",
+               "url": "https://complex-analysis.com/es.html"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "533a64f7-737a-4156-aaf7-5f28e418aa49",
+               "id": "366",
+               "name": "Indeterminaciones",
+               "type": "url",
+               "url": "https://www.fisicalab.com/apartado/indeterminaciones"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "04b734fa-46f4-4bb6-b194-9b52e77276e3",
+               "id": "367",
+               "name": "Las siete indeterminaciones | Superprof",
+               "type": "url",
+               "url": "https://www.superprof.es/apuntes/escolar/matematicas/calculo/funciones/indeterminaciones.html"
+            } ],
+            "date_added": "13317242264459584",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "51df0a4c-5bc4-4a25-b286-d29fe9f809fc",
+            "id": "341",
+            "name": "recursos matemática",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "f9b5df51-c954-439b-9e06-8603927b368f",
+               "id": "369",
+               "name": "Computational neuroscience resources",
+               "type": "url",
+               "url": "http://neural-reckoning.org/comp-neuro-resources.html"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "f2ad445b-073e-459f-8bb1-d7f1f7ee751f",
+               "id": "370",
+               "name": "Search BioNumbers - The Database of Useful Biological Numbers",
+               "type": "url",
+               "url": "https://bionumbers.hms.harvard.edu/search.aspx"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "beb3bca0-ca9a-43a9-8ee3-786e203ccadd",
+               "id": "371",
+               "name": "in consciousness we trust: how (not) to apply to a phD program in psychology / neuroscience (to work on consciousness)?",
+               "type": "url",
+               "url": "https://inconsciousnesswetrust.blogspot.com/2020/06/how-not-to-apply-to-phd-program-in.html?m=1"
+            } ],
+            "date_added": "13317242264470228",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "998094c4-4723-4507-986d-6748e8b0c70a",
+            "id": "368",
+            "name": "neuro random",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a05e305d-0064-41d2-b46b-6e82fdafc80e",
+               "id": "373",
+               "name": "neural engineering phd - Buscar con Google",
+               "type": "url",
+               "url": "https://www.google.com/search?q=neural+engineering+phd&sxsrf=ALeKk00GHgA7EDvgABDyQGWL615C9Qvjpg%3A1627171554950&ei=4qr8YP76OIvL1sQP9KuA4A4&oq=neural+engineering+phd&gs_lcp=Cgdnd3Mtd2l6EAMyBQgAEMsBMgUIABDLATIGCAAQFhAeMggIABAIEA0QHjoHCAAQRxCwAzoHCAAQsAMQQzoFCC4QywFKBAhBGABQ6UlY4E5g2k9oAXACeACAAZ0CiAGfBZIBBTAuMy4xmAEAoAEBqgEHZ3dzLXdpesgBCsABAQ&sclient=gws-wiz&ved=0ahUKEwj-85S09vzxAhWLpZUCHfQVAOwQ4dUDCA8&uact=5"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a9dc5a61-85ad-4ca7-90d2-f14f265b3563",
+               "id": "374",
+               "name": "Biomedical Engineering (brain) PhD Projects, Programs & Scholarships",
+               "type": "url",
+               "url": "https://www.findaphd.com/phds/biomedical-engineering/?20gcp0&Keywords=brain"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "c040f0d2-e801-45e8-a7b8-86867cd535fd",
+               "id": "375",
+               "name": "Neural Engineering | Duke Biomedical Engineering",
+               "type": "url",
+               "url": "https://bme.duke.edu/research/neural-engineering"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "c52f44ba-cca4-4035-849c-69b9ba3da1b7",
+               "id": "376",
+               "name": "Computational Modeling of Biological Systems | Duke Biomedical Engineering",
+               "type": "url",
+               "url": "https://bme.duke.edu/research/computational-modeling-biological-systems"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "4fe8690a-789b-4646-abf5-78ba71132741",
+               "id": "377",
+               "name": "Neural Engineering | Duke Biomedical Engineering",
+               "type": "url",
+               "url": "https://bme.duke.edu/research/neural-engineering"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "c62c3e86-3547-4d26-8531-dd429fba84b8",
+               "id": "378",
+               "name": "arch",
+               "type": "url",
+               "url": "https://wiki.manjaro.org/index.php?title=Arch_User_Repository"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9670d5cc-f3aa-430a-8507-bb2aaaa0df2b",
+               "id": "379",
+               "name": "Davide Valeriani, PhD 🧠+👨‍💻 (@DavideValeriani) / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/DavideValeriani"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "db0a6a79-f40b-4800-ae9f-07d617a395e1",
+               "id": "380",
+               "name": "So you wanna BCI?",
+               "type": "url",
+               "url": "https://lu.ma/so-you-want-to-BCI"
+            } ],
+            "date_added": "13317242264470911",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "e6f5095d-5192-475b-9e78-b6b9b1951a7b",
+            "id": "372",
+            "name": "bci",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "bd25367c-36fd-4968-9871-f342e80193ee",
+               "id": "382",
+               "name": "Brain folding shapes the branching pattern of the middle cerebral artery",
+               "type": "url",
+               "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245167"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a51562f6-e95c-4744-be3a-9e11271390c0",
+               "id": "383",
+               "name": "Neural oscillations are a start toward understanding brain activity rather than the end",
+               "type": "url",
+               "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001234"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e7f09a4a-54b7-4686-b51f-f7eb1b8f72dd",
+               "id": "384",
+               "name": "Oxford Calculus: Jacobians Explained - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=YqMelRryG8U"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5079b4f9-90c5-4b2e-be74-551fc5351aaf",
+               "id": "385",
+               "name": "Física 1A: Oscilacdor armonico - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=7jgUHAd7oIw"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "28058755-1ed0-4e77-9c38-0be929583185",
+               "id": "386",
+               "name": "The Jacobian and coordinate transformations | Calculus in a Nutshell | LetThereBeMath | - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=SB3JHQfEsvU"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5e2428e5-3898-482d-ab4a-d771b60a218c",
+               "id": "387",
+               "name": "Data Driven Control using Dynamic Mode Decomposition and its extensions using Koopman operators - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=8AkdgXFMgGA"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "3bb04203-da01-438d-ac21-6569dc69d8a0",
+               "id": "388",
+               "name": "Git and GitHub for Beginners - Crash Course - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=RGOj5yH7evk"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e91fcb52-277b-4c89-aed7-a92efb60ccfb",
+               "id": "389",
+               "name": "Jonatan Kon Oppel 🟢 (@jkofinanzas) / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/jkofinanzas"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "12d23aae-16bf-4f34-98e5-13eff9c4b79f",
+               "id": "390",
+               "name": "Victoria Peterson",
+               "type": "url",
+               "url": "https://sites.google.com/view/victoria-peterson/home"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9aae1272-3b95-4662-89ab-2572dfe10a33",
+               "id": "391",
+               "name": "manifolds and neural modes",
+               "type": "url",
+               "url": "https://towardsdatascience.com/manifolds-and-neural-activity-an-introduction-fd7db814d14a"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "140940e1-0cb2-44a2-9027-8fb533f9f2ae",
+               "id": "392",
+               "name": "Comparison of nonlinear mappings for reduced-order modelling of vibrating structures: normal form theory and quadratic manifold method with modal derivatives | SpringerLink",
+               "type": "url",
+               "url": "https://link.springer.com/article/10.1007/s11071-020-05813-1"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "fa5dde7f-0896-4556-8bf8-c9b513a6dc7c",
+               "id": "393",
+               "name": "Sets & Maps - Preliminary - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=RW5lJiKZHd8&list=PLxBAVPVHJPcrNrcEBKbqC_ykiVqfxZgNl"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "3e3fa119-7a3a-4cc8-a8dc-6e9011c05d76",
+               "id": "394",
+               "name": "Neural manifold under plasticity in a goal driven learning behaviour",
+               "type": "url",
+               "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008621"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "4cace2db-aa42-4c27-864b-8e5c952cae16",
+               "id": "395",
+               "name": "Perturbing low dimensional activity manifolds in spiking neuronal networks",
+               "type": "url",
+               "url": "https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007074"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "18b53c39-3385-4c99-8ae3-cfb70d49ef19",
+               "id": "396",
+               "name": "Non-linear normal modes and invariant manifolds",
+               "type": "url",
+               "url": "https://core.ac.uk/download/pdf/88382266.pdf"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "55e2416c-b464-454c-80c5-f7fd8ed27bd7",
+               "id": "397",
+               "name": "Slow and fast invariant manifolds, and normal modes in a two degree-of-freedom structural dynamical system with multiple equilibrium states - ScienceDirect",
+               "type": "url",
+               "url": "https://www.sciencedirect.com/science/article/abs/pii/S0020746297000176"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ee76136f-fafa-450b-aa50-6e2c29f49372",
+               "id": "398",
+               "name": "Normal forms for vector fields near equilibria - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Wv_b3u1wfKE"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "fcaf1042-d292-4222-bb3d-89af751870b1",
+               "id": "399",
+               "name": "Center manifold theory, computing center manifolds - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=_jUb0gCe3N8"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8ed2eb38-b018-4bb6-8d51-6ce66b6c40d5",
+               "id": "400",
+               "name": "labo 3 físicos",
+               "type": "url",
+               "url": "http://materias.df.uba.ar/l3ba2017c1/guias/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "52c6f752-eea0-4067-9e03-4bd8e1ae4b17",
+               "id": "401",
+               "name": "The idea of a probability density function - Math Insight",
+               "type": "url",
+               "url": "https://mathinsight.org/probability_density_function_idea"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "512323e3-b4b8-48ab-a4dc-a54e5b92c4e0",
+               "id": "402",
+               "name": "GitHub - clusterai/clusterai_2021",
+               "type": "url",
+               "url": "https://github.com/clusterai/clusterai_2021"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "15835aaa-aef8-4306-aebf-06614cf5090d",
+               "id": "403",
+               "name": "Covariance vs Correlation — Explained | by Soner Yıldırım | The Startup | Medium",
+               "type": "url",
+               "url": "https://medium.com/swlh/covariance-vs-correlation-explained-34d1b4142e28"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ac131395-aaa0-4111-8b35-ac7eee6235a5",
+               "id": "404",
+               "name": "A Definitive Guide to Understand the Difference Between Covariance and Correlation",
+               "type": "url",
+               "url": "https://www.simplilearn.com/covariance-vs-correlation-article"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "92ee5dd7-5da8-416d-9ab9-aa436209b343",
+               "id": "405",
+               "name": "Sistemas Dinámicos e Inteligencia Artificial: Formas normales - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=jVCVgR4pdK4"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "1bcc7cf1-f442-44e7-8e90-276de3d7a1c8",
+               "id": "406",
+               "name": "Sistemas dinámicos e inteligencia artificial aplicados al modelado de datos: clase 1 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=FDRsFzesJnE&t=114s"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "364e7b07-8bf9-43a2-9c23-71d92f90bed2",
+               "id": "407",
+               "name": "Para plotear: Física 3 A: Práctica 31 de mayo 2021- Cálculo numérico del campo magnético de una cinta infinita. - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=vPfvWVUDcF4&t=914s"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a0b3e8c6-6bd2-4ea8-9ddf-369d7cb9fae9",
+               "id": "408",
+               "name": "Física 2 A: Clase 1 A - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=VNI7eyywfk8&list=PLNbPNPgqTfs66aMP-QNA7jYImaihPkZbI"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "4d50675b-58e3-481c-af6b-c8dcb869aa51",
+               "id": "409",
+               "name": "Estadística: Física Teórica 3. Clase 20-04-20. Profesor Pablo Mininni - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=V57erQ7aTG0&list=PLNbPNPgqTfs41JhSZjGINWnP1LIzmAoK4&index=3"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8dde1d78-f1d0-4a95-ab11-5bad12271be0",
+               "id": "410",
+               "name": "modos y fourier: DMD Explained! (Dynamic Mode Decomposition) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=_qjSprLvGS0&list=PLldiDnQu2phvYaTSaFes0XdWkhphBHpwt"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "166fc9ff-9bf1-411d-848b-894e16044900",
+               "id": "411",
+               "name": "MODO!!! Empirical Mode Decomposition (1D, univariate approach) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cJXRFZhHcrI"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "348cad68-c7ae-4ebe-b4bd-f9d48e1186cb",
+               "id": "412",
+               "name": "Sistemas Dinámicos e Inteligencia Artificial aplicados al modelado de datos: Sistemas dinámicos - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Ob_yTPXYUzU&list=PLNbPNPgqTfs59fZc7fjetWtJJ5XUZzZlX"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "04c469d2-e8ab-4d78-9337-fc0ec9539470",
+               "id": "413",
+               "name": "Modelos para Análisis de Series de Tiempo con Python - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=W_41RP0oiYQ"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "db8b6aa8-4485-4c8c-ac26-bf1415c47813",
+               "id": "414",
+               "name": "SIGNAL PROCESSING Y DELTA FUNCTIONS Y ML: What is a delta function? From distributions to reproducing kernels. - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=kA3r4Td2E3E"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "45365e8a-b17a-4027-994a-bfd6229b5756",
+               "id": "415",
+               "name": "pos-def matrices are a manifold: Riemannian manifolds, kernels and learning - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=MtZV82LCNHc"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ef79dc1a-2d32-4eb2-9fc6-6cbc07556881",
+               "id": "416",
+               "name": "QUÉ ES UNA MANIFOLD INVARIANTE Neural manifolds - The Geometry of Behaviour - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=QHj9uVmwA_0&t=90s"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "1a4463ce-3948-4e74-8422-324092c4894a",
+               "id": "417",
+               "name": "riemannian manifolds: smooth manifold con inner product:An explanation on Riemann geometry/manifolds : 3Blue1Brown",
+               "type": "url",
+               "url": "https://www.reddit.com/r/3Blue1Brown/comments/81xf7f/an_explanation_on_riemann_geometrymanifolds/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a08f11da-2949-46f1-8e7e-46ab907a9e13",
+               "id": "418",
+               "name": "waves-modes: frequency - What is meant by the term \"Fourier mode\"? - Physics Stack Exchange",
+               "type": "url",
+               "url": "https://physics.stackexchange.com/questions/276763/what-is-meant-by-the-term-fourier-mode"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "704168fe-2d2a-4d13-b4aa-1b30c1ec8c29",
+               "id": "419",
+               "name": "waves-modes: Microsoft Word - Waves and Modes",
+               "type": "url",
+               "url": "https://www-personal.umd.umich.edu/~jameshet/IntroLabs/IntroLabDocuments/150-12%20Waves/Waves%209.0.pdf"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "c6613b90-b7f2-4fca-bcd2-85cfd4aa2ec8",
+               "id": "420",
+               "name": "Normal mode - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/Normal_mode"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "89920175-187b-4fff-9647-561ef2526b8c",
+               "id": "421",
+               "name": "modes and SVD: Waves, modes, communications, and optics: a tutorial",
+               "type": "url",
+               "url": "https://www.osapublishing.org/aop/abstract.cfm?uri=aop-11-3-679"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "1728fdf5-77d2-4fbb-b0a0-7f592a74e21f",
+               "id": "422",
+               "name": "Normal mode: 6.1: Spatial Degrees of Freedom, Normal Coordinates and Normal Modes - Chemistry LibreTexts",
+               "type": "url",
+               "url": "https://chem.libretexts.org/Bookshelves/Physical_and_Theoretical_Chemistry_Textbook_Maps/Book%3A_Quantum_States_of_Atoms_and_Molecules_(Zielinksi_et_al)/06%3A_Vibrational_States/6.01%3A_Spatial_Degrees_of_Freedom%2C_Normal_Coordinates_and_Normal_Modes"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8568f89b-ceac-4c1c-a7bc-ba984012451a",
+               "id": "423",
+               "name": "modos clave: Física 2A. Clase 17-04.20. Profesor: Ricardo Depine - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=XeWDLdbZkSw&list=PLNbPNPgqTfs78jDMwcVMOCWy_BbwXfI7O&index=2"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "6ea59b3e-8aec-4738-b6ac-faec9f105341",
+               "id": "424",
+               "name": "MODOSMODOSMODOSNORMALES: F2Depinev02.PDF",
+               "type": "url",
+               "url": "http://users.df.uba.ar/rdep/F2Apuntes/F2Depinev02.PDF"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "b361cf70-ae7b-42a3-9874-3c7e8cafd12e",
+               "id": "425",
+               "name": "misma clase versión 2021:Física 2A: Clase Teórica 2 -20 de agosto de 2021 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=K8jLloVrsAo&list=PLNbPNPgqTfs7HsYJb_xPpbugTZ5qoFNnR&index=3"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e54bd1b3-bdd3-4d19-a3be-4580729ecf21",
+               "id": "426",
+               "name": "que es una variedad topologica excelente la 1era hora:Relatividad General: Clase 4: Espacio topológico. Variedad diferenciable. Espacio tangente - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=yoNCg_lmw2Y&list=PLNbPNPgqTfs5Q4OWanJznynqCVLzsz90r&index=6"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "80da0042-a440-4e0a-86fb-73f2f6698eda",
+               "id": "427",
+               "name": "Nonlinear normal modes: Identifying the significance of nonlinear normal modes | Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences",
+               "type": "url",
+               "url": "https://royalsocietypublishing.org/doi/10.1098/rspa.2016.0789"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "1c22e428-34dd-4584-b402-cb29349332db",
+               "id": "428",
+               "name": "bifurcation theory via perturbation methods: Center Manifold and Normal Form theories - A. Luongo - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=EMv56IE3adQ"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "daa531ae-c22e-4f61-9985-65a33572418c",
+               "id": "429",
+               "name": "tengo este pdf en biblio de dnl: Nonlinear normal modes, Part I: A useful framework for the structural dynamicist - ScienceDirect",
+               "type": "url",
+               "url": "https://www.sciencedirect.com/science/article/abs/pii/S0888327008001015"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "3d76e1e2-9885-4762-a1c8-55623f4b3f4f",
+               "id": "430",
+               "name": "AppDynSys : Bifurcations : 2-D Bogdanov-Takens - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=FTa4vit1ddQ"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "43e0924f-edd5-4c5a-9f6b-5701cf398a64",
+               "id": "431",
+               "name": "MIA: Sam Lewallen, Manifold discovery of neural circuits; Ila Fiete, Cognitive maps of the brain - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=vGAhQwH6-90"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "363def5b-eae6-4c0b-a3fd-2556173f5a33",
+               "id": "432",
+               "name": "Manifold Learning Yields Insight into Complex Biological State Space - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=E-5AXUrdW2c"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "32231fe5-d56f-4608-8881-2b80f17732d4",
+               "id": "433",
+               "name": "Departamento de Química Biológica - FCEN, UBA",
+               "type": "url",
+               "url": "http://www.qb.fcen.uba.ar/index.php"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "376a3b45-9565-4ec1-9d47-583c94359702",
+               "id": "434",
+               "name": "PySINDy tutorial 1: overview of PySINDy for sparse system identification - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=SfIJiuJ38W0"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9cfb5ef7-6a26-4471-814a-2aa025b767f4",
+               "id": "435",
+               "name": "Navigating the Manifolds of the Brain - Yasser Roudi - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=4pI6KLNkoi0"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "b74fb5ce-e645-4599-a26b-c25c187b4e3a",
+               "id": "436",
+               "name": "The Most Important Solution to the Wave Equation is Also The Most Boring - Classical Physics Parth G - YouTube",
+               "type": "url",
+               "url": "https://m.youtube.com/watch?v=x2bD2QhOxd0"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "c9ece502-6f21-429d-a379-218296944ee7",
+               "id": "437",
+               "name": "AppDynSys : Bifurcation Examples : Cusp Unfolding - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=NiT4Z3dysVQ"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ba5de532-d835-48d8-944b-3eacf73f62e5",
+               "id": "438",
+               "name": "Lecture on Dirac Delta Function - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=LZnRlOA1_2I"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "be821bad-0c97-4760-9fb5-4302cfc6f44a",
+               "id": "439",
+               "name": "AppDynSys : Hopf Bifurcation : Full View - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=CwGPPza9Ulk"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "3e5fe4f1-6db1-4d59-860c-361023c5cfe9",
+               "id": "440",
+               "name": "visual math: u-substitution, the underlying graphical connections - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=CoJbL_quLSU"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "1b2a021b-cc2f-427c-a2ea-5cbf46da2c22",
+               "id": "441",
+               "name": "Lecture - 30 Lyapunou Function and Centre Manifold Theory - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=y3AL7iwBbhU"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "7bae7bd0-7080-4312-a835-bb3818eafdd0",
+               "id": "442",
+               "name": "Hopf Bifurcation Diagram with Vector Field (with audio) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=2XGIKPUZc2U"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "3f32787d-b474-4da1-8f13-d493da9b8d96",
+               "id": "443",
+               "name": "Intro to bifurcation theory - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=-KaJpeIvTFA"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a5cb5e38-3ba9-4164-969f-bccea0828db9",
+               "id": "444",
+               "name": "How to Solve 1D Wave Equation using Separation of Variables, in English. - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=UFiTbQeN9UU"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ac7732a5-6146-46a4-8998-21abdcfd665d",
+               "id": "445",
+               "name": "Kaggle Competition - House Prices: Advanced Regression Techniques Part1 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=vtm35gVP8JU"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "0e62f9b8-ae17-480a-a434-7f6ec8978b33",
+               "id": "446",
+               "name": "Mathematical Biology. 21: Hopf Bifurcations - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=C3qjJ8OQAWM"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "2e127390-8331-444a-9a3b-c95dab0a7165",
+               "id": "447",
+               "name": "Distributions Part 1: Motivation and delta function - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=gwVEEUg8PBY"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "d96e71ca-e4cd-460c-ad71-3f1b69f39f33",
+               "id": "448",
+               "name": "decision tree (data mining) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=Fa6eiHf9iX0"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "273fcca0-848f-443c-a81f-26b57b5734d5",
+               "id": "449",
+               "name": "5 Anomaly Detection Algorithms every Data Scientist should know | by Satyam Kumar | Dec, 2021 | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/5-anomaly-detection-algorithms-every-data-scientist-should-know-b36c3605ea16"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "fbc3ef57-c20a-4df1-94f9-1baad5cd4628",
+               "id": "450",
+               "name": "A Beginner’s Guide to End to End Machine Learning | by Rebecca Vickery | Nov, 2021 | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/a-beginners-guide-to-end-to-end-machine-learning-a42949e15a47"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5fcf77d7-2ecb-49b4-bc36-dddd208d0789",
+               "id": "451",
+               "name": "Solutions For a Fragile Lower Body - YouTube",
+               "type": "url",
+               "url": "https://m.youtube.com/watch?v=qwzEiDfemQg"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "fffb0ed3-bb28-408b-89cc-289bc53fd761",
+               "id": "452",
+               "name": "Estadística en Física Experimental. 2021/1 - YouTube",
+               "type": "url",
+               "url": "https://m.youtube.com/playlist?list=PLNbPNPgqTfs4LrjmH39pKEjjksxI4iOsD"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5ac8925b-23a5-4f2c-8f34-738c123ab362",
+               "id": "453",
+               "name": "How to Compute a FOURIER SERIES // Formulas & Full Example - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ijQaTAT3kOg"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "b13aeda7-94f2-4f3d-91f6-53898c830297",
+               "id": "454",
+               "name": "The beautiful geometric view of FOURIER SERIES // The Linear Algebra Perspective - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=1Ez1tn1mei8&t=12s"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "db40201a-3f61-4272-852e-d7e7a60d9c64",
+               "id": "455",
+               "name": "Scripts | Metodos estadísticos avanzados en tratamiento de datos – 2do Cuatrimestre 2021",
+               "type": "url",
+               "url": "http://materias.df.uba.ar/meaetdda2021c2/guias/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a7368d55-ccb3-447d-91ee-87b0959a0f6e",
+               "id": "456",
+               "name": "!!!Jonathan Mitchell - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/c/MathDoctorMitchell/videos"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "f54637be-afc7-42fc-9606-b643cfeaaba3",
+               "id": "457",
+               "name": "Subcritical Hopf Bifurcation of Brake Squeal - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=zclp8vLKJzU"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "89da6a06-f740-4398-86e5-b8b47684b98c",
+               "id": "458",
+               "name": "Dynamical time series embeddings in recurrent neural networks - ScienceDirect",
+               "type": "url",
+               "url": "https://www.sciencedirect.com/science/article/pii/S0960077921009668?dgcid=coauthor"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "80950b1c-43f0-4983-ba8c-0176b0d76b61",
+               "id": "459",
+               "name": "Standing wave - Wikipedia",
+               "type": "url",
+               "url": "https://en.m.wikipedia.org/wiki/Standing_wave"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "461fad66-73b3-4560-b008-4de82a78a908",
+               "id": "460",
+               "name": "The Secret of Delivering Machine Learning to Production | by Inbal Budowski-Tal | Dec, 2021 | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/the-secret-of-delivering-machine-learning-to-production-1f6681f5e30c"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "07b50606-0532-4df6-b341-dcfd1e22a835",
+               "id": "461",
+               "name": "What is topology | What is topological space | Topology axioms | Homeomorphism | Open sets - YouTube",
+               "type": "url",
+               "url": "https://m.youtube.com/watch?v=YyoJ0uU7r_g"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "bf952d3d-5380-4a0a-a22c-df15ce124c99",
+               "id": "462",
+               "name": "Customizing Multiple Subplots in Matplotlib | by Rizky Maulana N | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/customizing-multiple-subplots-in-matplotlib-a3e1c2e099bc"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "0b402ed3-451f-4c8b-a299-8f889bed9e87",
+               "id": "463",
+               "name": "3 Python Libraries for Effective EDA that You Might Have Missed | by Chi Nguyen | Jan, 2022 | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/3-python-libraries-for-effective-eda-that-you-might-have-missed-3320f48ff070"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5af9cbb6-d3cd-4e20-b90c-5fd6892d3a95",
+               "id": "464",
+               "name": "An Extensive Step by Step Guide to Exploratory Data Analysis | by Terence Shin | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/an-extensive-guide-to-exploratory-data-analysis-ddd99a03199e"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "f0954d65-da48-4f76-b9e0-760fe632a582",
+               "id": "465",
+               "name": "How to Rename Columns in Pandas - A Quick Guide | Towards Data Science",
+               "type": "url",
+               "url": "https://towardsdatascience.com/how-to-rename-columns-in-pandas-a-quick-guide-a934aa977bd5"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "c897da81-c13e-4dab-aff3-3c5363d86a2b",
+               "id": "466",
+               "name": "Oh Shit, Git!?!",
+               "type": "url",
+               "url": "https://ohshitgit.com/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "c5f33953-f836-4749-8ea7-52afd8c32b0e",
+               "id": "467",
+               "name": "MATHEMATICA TUTORIAL, Part 1.3: Runge-Kutta Methods",
+               "type": "url",
+               "url": "https://www.cfm.brown.edu/people/dobrush/am33/Mathematica/ch3/RK.html"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "04957e94-b35d-44ce-988a-e5dac7770e2b",
+               "id": "468",
+               "name": "Women in Statistics and Data Science en Twitter: \"You know how excited @daniela_witten gets about SVD? I have about the same thing with kernels. Except that I'm not sure I explain them as well as she does SVD. Still, you're getting a thread on kernels!\" / Twitter",
+               "type": "url",
+               "url": "https://mobile.twitter.com/WomenInStat/status/1470785199294324741"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5373d983-af97-4719-8436-c6f0f7a3e0ae",
+               "id": "469",
+               "name": "Gabriel Peyré en Twitter: \"Matrix decompositions come in many flavors! https://t.co/72XbQoAB9c https://t.co/o9pCJkdibu\" / Twitter",
+               "type": "url",
+               "url": "https://mobile.twitter.com/gabrielpeyre/status/1468460330791624704"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8d590fcc-3528-46a1-ab0e-067a05f67498",
+               "id": "470",
+               "name": "martin palazzo en Twitter: \"ahora en @clusterai : Sentiment Analysis con Recurrent Neural Nets usando @huggingface 🤗. Libre acceso a los codigos + grabaciones + slides desde https://t.co/7SzFB4nDqG 🌸 https://t.co/yW5tqy9yC4\" / Twitter",
+               "type": "url",
+               "url": "https://mobile.twitter.com/boardsofdata/status/1464588138823696385"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "c8f58972-2e6d-43d1-9fb9-15dd359c1f47",
+               "id": "471",
+               "name": "When can we switch the limit and function? - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=H2RQC4PxEM0"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ae85ee5a-3340-4d61-a07a-d58ced78c7db",
+               "id": "472",
+               "name": "What are the big ideas of Multivariable Calculus?? Full Course Intro - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=gsUgDpGWk-M"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "f9d068a3-97a4-4ada-b841-2af36f56e6a9",
+               "id": "473",
+               "name": "The beauty of complex integration - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=EyBDtUtyshk"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "7a6a69aa-a39b-4d91-90a4-a952c6090491",
+               "id": "474",
+               "name": "Angle between vectors leads to defining the Dot Product | Multivariable Calculus - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=MQsZEoUV__0"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8e09fd61-f675-4816-a30e-2a5702797d5f",
+               "id": "475",
+               "name": "Manifolds - Part 1 - Introduction and Topology - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=62WNNkoRCLE"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "eb2a1f74-c740-4f28-b316-f4a1d0df8d17",
+               "id": "476",
+               "name": "Autovalores en python.ipynb - Colaboratory",
+               "type": "url",
+               "url": "https://colab.research.google.com/drive/1bSRDD-CJZn4m-Tizbwy3nom1LGRwJKWP"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "97c97a3a-4d5b-49e9-8b04-d5548d7bf7c8",
+               "id": "477",
+               "name": "Forzado.ipynb - Colaboratory",
+               "type": "url",
+               "url": "https://colab.research.google.com/drive/1Y26cm22GFvkxSAIIXOXBjZ3bdtCBcHdq"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ad41f619-c619-477f-9ce7-16a99716b1ce",
+               "id": "478",
+               "name": "Animaciones.ipynb - Colaboratory",
+               "type": "url",
+               "url": "https://colab.research.google.com/drive/175OXd7JnYK26tG0-0ap4-_pZsPqyMIzX?usp=sharing"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "2e08c692-8e8d-4355-b9a7-cf920be61abe",
+               "id": "479",
+               "name": "Gonzalo Uribarri en Twitter: \"If you are an undergraduate student of physics, mathematics or engineering looking for a book to learn about deep learning, here is a thread with a recommendation for you 👇 Due to the writing of my PhD thesis, I spent the last months swimming in a sea of bibliography 📚 (1/6)\" / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/gonzauri/status/1496312234607366146"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "51a6a933-8871-4d70-ae10-97b990670fc5",
+               "id": "480",
+               "name": "Programa | Fisica 2 B – 1er Cuatrimestre 2022",
+               "type": "url",
+               "url": "http://materias.df.uba.ar/f2b2022c1/sample-page/programa/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "711cf4d9-5063-4a7b-bcb1-a38db01d3fa2",
+               "id": "481",
+               "name": "How to Gain God Level Mobility Ft. Knees Over Toes Guy - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=cEyI2f6umXs&t=137s"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "de2f6a83-f417-4c13-b631-66e9cebdc06d",
+               "id": "482",
+               "name": "Phys. Rev. Lett. 125, 238101 (2020) - Generative Embeddings of Brain Collective Dynamics Using Variational Autoencoders",
+               "type": "url",
+               "url": "https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.125.238101"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "b8d5e0a1-1027-403a-8d5c-6ddabc0b26fa",
+               "id": "483",
+               "name": "What is the connection between statistical mechanics and deep learning? - Quora",
+               "type": "url",
+               "url": "https://www.quora.com/What-is-the-connection-between-statistical-mechanics-and-deep-learning"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e2d1a824-08da-4d0a-aa85-7c8fd5e4c50d",
+               "id": "484",
+               "name": "Neuroscience, Bode Plots, and the Model Matching Problem // H Infinity Control - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=fVivGKGhbqg"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "17242079-d562-421c-84bd-13f2c5c0582d",
+               "id": "485",
+               "name": "The Bright Side of Mathematics - YouTube",
+               "type": "url",
+               "url": "https://m.youtube.com/c/brightsideofmaths"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "795a86a3-b4e9-486c-8a8e-9f0825056672",
+               "id": "486",
+               "name": "Empirical Mode Decomposition (1D, univariate) in MATLAB - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=PbKIYbV4z3c"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "14269d1b-cd6b-4010-b984-c1efc1bb2ca3",
+               "id": "487",
+               "name": "Lecture 10 Method of Conjugate Gradients 1 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=hZVK_PGE0_I"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "5b57a7be-2788-4f7b-920e-71222d562b99",
+               "id": "488",
+               "name": "Kropff Lab (@KropffLab) / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/KropffLab"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "11fe7835-fba1-4b13-8ed1-2b9b375e45ec",
+               "id": "489",
+               "name": "Allen Institute Modeling Workshop | Anna Devor - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=bP5LZCjQxVs"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "682b2091-5228-4b69-9e3b-259f484c3c62",
+               "id": "490",
+               "name": "What is a smooth manifold anyway? – Simplicial Thoughts",
+               "type": "url",
+               "url": "https://www.ocf.berkeley.edu/~kitfreddura/2016/10/19/what-is-a-smooth-manifold-anyway/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "64b56bf0-6fe5-45b4-98ef-76e9b0cfa52d",
+               "id": "491",
+               "name": "Manifolds: A Gentle Introduction | Bounded Rationality",
+               "type": "url",
+               "url": "https://bjlkeng.github.io/posts/manifolds/"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "74b4367e-f036-4ac1-8a44-f702ac31cff0",
+               "id": "492",
+               "name": "Smooth Manifolds ep. 5 - What is a Smooth Manifold? - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=QuWMswclxN0"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "6036296e-780d-4cb6-b7f2-392cb42c753e",
+               "id": "493",
+               "name": "Manifolds - Part 1 - Introduction and Topology - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=62WNNkoRCLE&list=PLBh2i93oe2qvRGAtgkTszX7szZDVd6jh1"
+            }, {
+               "date_added": "13303788584000000",
+               "date_last_used": "0",
+               "guid": "2ac5bed5-41b5-404c-8042-675bb0a7bf3e",
+               "id": "494",
+               "name": "Rayleigh Lord | Javier González Monge (@RayleighLord) / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/RayleighLord"
+            }, {
+               "date_added": "13305582305000000",
+               "date_last_used": "0",
+               "guid": "404939fd-2cf1-4446-90e5-f2715a037e76",
+               "id": "495",
+               "name": "Andy Matuschak",
+               "type": "url",
+               "url": "https://andymatuschak.org/"
+            }, {
+               "date_added": "13305582386000000",
+               "date_last_used": "0",
+               "guid": "e28352df-55f1-47e7-8728-e47c2ee4a34a",
+               "id": "496",
+               "name": "Why books donʼt work | Andy Matuschak",
+               "type": "url",
+               "url": "https://andymatuschak.org/books/"
+            }, {
+               "date_added": "13306112403000000",
+               "date_last_used": "0",
+               "guid": "b6fa9f4f-c572-4a19-91ee-d62a00901d9b",
+               "id": "497",
+               "name": "UNIGE 14x050 – Deep Learning",
+               "type": "url",
+               "url": "https://fleuret.org/dlc/"
+            }, {
+               "date_added": "13306112477000000",
+               "date_last_used": "0",
+               "guid": "186536d0-66bd-46a7-b938-b893c15b5ec0",
+               "id": "498",
+               "name": "Jean de Nyandwi on Twitter: \"First Principles of Computer Vision, Columbia University Really nice lectures on the physical and mathematical foundations of computer vision. 140 videos that you can watch at your pace. Slides are also provided to follow along. https://t.co/zJ7e0VRox6\" / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/Jeande_d/status/1560702999965511680"
+            }, {
+               "date_added": "13311816103000000",
+               "date_last_used": "0",
+               "guid": "517b751d-6ce5-4bf5-917b-02c79a4c9a92",
+               "id": "499",
+               "name": "Latent space - Wikipedia",
+               "type": "url",
+               "url": "https://en.wikipedia.org/wiki/Latent_space"
+            }, {
+               "date_added": "13312300912000000",
+               "date_last_used": "0",
+               "guid": "3dfe4176-d7f7-4a23-8655-51eb4a8f4d0d",
+               "id": "500",
+               "name": "Material Adicional | Fisica 2 A – 2do cuatrimestre 2020",
+               "type": "url",
+               "url": "http://materias.df.uba.ar/f2aa2020c2/material-adicional/"
+            }, {
+               "date_added": "13312388247000000",
+               "date_last_used": "0",
+               "guid": "c8a3274b-47d6-4fe1-ad07-825f5f502ad5",
+               "id": "501",
+               "name": "Física 2 A: Clase 2 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=RVB7Jv_d8JI&list=PLNbPNPgqTfs66aMP-QNA7jYImaihPkZbI&index=5"
+            } ],
+            "date_added": "13317242264472521",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "0c595415-dd79-47d7-b086-999b62dc71c5",
+            "id": "381",
+            "name": "imp",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ec196d8d-4f49-4056-b08b-7ce9a40fd733",
+               "id": "503",
+               "name": "My Favorite Exercise For Knee Freedom: The Reverse Nordic - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=OINA8V8ADpQ"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "2d1488d1-092e-4d96-8422-268b08db0879",
+               "id": "504",
+               "name": "Lower Body Solutions in The ATG System! - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=qwzEiDfemQg"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "0d972cda-7c66-4fd7-8edd-3d48197c037c",
+               "id": "505",
+               "name": "Lower Back Solutions From The Advanced Zero Program! - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=sG6yW7CYHnw"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "7f2e865e-c693-4e2a-bad5-caf2034c1920",
+               "id": "506",
+               "name": "The Long Lunge For Strength + Flexibility Combined! - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=XAvaVBzXXz4"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "cda8f3a8-59a8-48cb-a59c-b92241c58260",
+               "id": "507",
+               "name": "How to Bulletproof Your Hamstrings: The ATG-Style RDL (Romanian Deadlift) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=r4-tSGDTTwE"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8ff46331-633f-40ce-955a-1ddd0df0115c",
+               "id": "508",
+               "name": "2 Must-Do Exercises for an ATG Squat Ft. Knees Over Toes Guy - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=E10hHrHV4MQ"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9e528919-a5d8-4f18-a422-690994fabb2b",
+               "id": "509",
+               "name": "INCREASE Ankle Dorsiflexion: 4 Unique Exercises (NOT Calf Stretches!) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ry3OHAKFMCs"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "2efa3248-7f07-4c01-95eb-6cd082e7707d",
+               "id": "510",
+               "name": "Ankle Dorsiflexion Routine (Fix Tight Ankles) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=jy7SSbxcQnw&t=93s"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "aefa2174-6482-4e46-ac69-ac54e1eb7c39",
+               "id": "511",
+               "name": "How to improve Ankle Dorsiflexion for a better squat - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=X15kOTm_5lw"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e1f3e55d-6c6b-4b3e-9dd5-5bac3a20b204",
+               "id": "512",
+               "name": "Best Ankle Mobility Routine for Impingment improve your front squat - YouTube",
+               "type": "url",
+               "url": "https://m.youtube.com/watch?v=OTO3s9k_GJ8"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "aea961dd-2dc8-4f06-8bfb-f3bdcc7faab3",
+               "id": "513",
+               "name": "The Best Ankle Mobility Exercises - YouTube",
+               "type": "url",
+               "url": "https://m.youtube.com/watch?v=b0GWm5jTDaU"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "f1dac53f-9b8e-4885-b462-82a14d3f8105",
+               "id": "514",
+               "name": "Ankle Mobility Exercises for Better Range of Motion - YouTube",
+               "type": "url",
+               "url": "https://m.youtube.com/watch?v=C51os3TgbaA"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "55879169-9006-420b-988c-68c97068e6ed",
+               "id": "515",
+               "name": "PREVENT Knee Injury with THESE Step Up Variations - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=HQQxNY8nKYs"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "3f3ee55c-96a7-4125-9e1f-8ebc0ace8327",
+               "id": "516",
+               "name": "Which Step Up Variation is BEST? (DON'T WASTE YOUR TIME!) - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=a20sxQOuhz4"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "d157333f-f738-4458-8990-0be36dd5d10c",
+               "id": "517",
+               "name": "2 Proven and Powerful Slant Board Exercises for Patellar Tendonitis - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=pv0DYn1Ksyg"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a82297e6-26d4-4628-8f3a-6c9d4ec57748",
+               "id": "518",
+               "name": "Nordic Hamstring Curl Progressions - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=UN3DTlgBzYE"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "182e4ac3-5d10-4f5a-b070-78ca5f499c86",
+               "id": "519",
+               "name": "VMO Squat (THE MISSING KNEE MUSCLE) - Must Have Movement Series Part 8 - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=6uTDD983SdA"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8f0c06a9-d86e-4530-a864-def2b515fac7",
+               "id": "520",
+               "name": "BUTT WALK your way to a safer, stronger deadlift! - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=KeNta3qY3ew"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e1a75351-793a-4067-b0e1-75b601b20130",
+               "id": "521",
+               "name": "posta: PPP (Patrick, Peterson, Poliquin) Squats Explanation - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=V3o6YFQ9sjA"
+            } ],
+            "date_added": "13317242264492666",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "4c535def-618c-4355-ae7d-d45364338ff9",
+            "id": "502",
+            "name": "kot",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8c58cb91-7903-4f59-a7c6-a41cdce3d2d7",
+               "id": "523",
+               "name": "How To Apply And Get Internship For Data Science Opportunities - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=ntONJmjZUUg"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "a531308a-293e-4d9a-a26e-92e557f619d7",
+               "id": "524",
+               "name": "The One and Only Data Science Project You Need - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/watch?v=c4Af2FcgamA"
+            } ],
+            "date_added": "13317242264494552",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "e1b30548-01a9-42a2-b128-375d94f87d1b",
+            "id": "522",
+            "name": "job",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "15f41b0f-c5c1-408c-8d55-abdd779023d3",
+               "id": "526",
+               "name": "Estudiantes Visitantes | Universidad Complutense de Madrid",
+               "type": "url",
+               "url": "https://www.ucm.es/estudiantes-visitantes"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "6a56d7c4-fa20-4151-8732-9186237c7c02",
+               "id": "527",
+               "name": "Grado en Física 21-22 | Facultad de Ciencias Físicas",
+               "type": "url",
+               "url": "https://fisicas.ucm.es/grado-en-fisica"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "7fde4497-945d-44da-9c54-927c0e5402a1",
+               "id": "528",
+               "name": "guiaGF21-22_v4b",
+               "type": "url",
+               "url": "https://fisicas.ucm.es/data/cont/docs/18-2021-06-30-MetMat2.pdf"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "0c7801d4-69a0-48c7-a820-db337e8cd3d6",
+               "id": "529",
+               "name": "Universidad Complutense de Madrid",
+               "type": "url",
+               "url": "https://www.ucm.es/estudios/grado-biologia-estudios-estructura"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "0947b372-80a3-44ca-ac9f-fd568d38a6ce",
+               "id": "530",
+               "name": "guiaGF21-22_v4b",
+               "type": "url",
+               "url": "https://fisicas.ucm.es/data/cont/docs/18-2021-06-30-TermoNE.pdf"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "fa07fdf5-310a-4ac6-8631-4da483b1ee80",
+               "id": "531",
+               "name": "ingenieria de datos",
+               "type": "url",
+               "url": "https://www.ucm.es/data/cont/docs/titulaciones/2497.pdf"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "8edd645d-a8b2-4df9-94f8-5d01084811d2",
+               "id": "532",
+               "name": "Course unit catalogue — University of Bologna",
+               "type": "url",
+               "url": "https://www.unibo.it/en/teaching/course-unit-catalogue?search=True&descrizioneMateria=&annoAccademico=2021&codiceAmbito=9&codiceCampus=&codiceTipoCorso=&linguaInsegnamento=english&DescInsegnamentoButton=cerca"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "d9010835-860e-4eb7-9f79-b233ccf045f7",
+               "id": "533",
+               "name": "Advanced Analysis of Data 2021/2022 — University of Bologna",
+               "type": "url",
+               "url": "https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/403769"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9b7f2e0f-b02f-4cb1-ac2e-6789ae4b9137",
+               "id": "534",
+               "name": "Architecture and Platforms for Artificial Intelligence 2021/2022 — University of Bologna",
+               "type": "url",
+               "url": "https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/446607"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "3b10d3fe-8746-4156-8870-4a6d270123e5",
+               "id": "535",
+               "name": "COMPLEX NETWORKS 2021/2022 — University of Bologna",
+               "type": "url",
+               "url": "https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/433591"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "9229a4a4-b826-41fc-8f88-d8cf4deef737",
+               "id": "536",
+               "name": "Complex Systems & Network Science 2021/2022 — University of Bologna",
+               "type": "url",
+               "url": "https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/461740"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "ee2dd5c8-59fc-4f4d-8174-20b8fe99ada9",
+               "id": "537",
+               "name": "DATA ASSIMILATION FOR DYNAMICAL SYSTEMS 2021/2022 — University of Bologna",
+               "type": "url",
+               "url": "https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/479298"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "7604be95-de7b-4277-b5a4-3bac1c41e05b",
+               "id": "538",
+               "name": "PDEs 2021/2022 — University of Bologna",
+               "type": "url",
+               "url": "https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/469914"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "57ec16aa-e3d5-4073-989f-84d229512195",
+               "id": "539",
+               "name": "REAL AND HARMONIC ANALYSIS 2021/2022 — University of Bologna",
+               "type": "url",
+               "url": "https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/469929"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e13e861a-aa39-4fa4-8565-39cef1f2d7a2",
+               "id": "540",
+               "name": "Time Series 2021/2022 — University of Bologna",
+               "type": "url",
+               "url": "https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2021/403284"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "337755c0-f127-4fd3-9af8-0d2b68f8695e",
+               "id": "541",
+               "name": "- Course catalogue LMU München",
+               "type": "url",
+               "url": "https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=wtree&search=1&category=veranstaltung.browse&navigationPosition=functions%2Clectureindex&breadcrumb=lectureindex&topitem=locallinks&subitem=lectureindex"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "e7cf0b7b-a75e-40f4-a086-08e1b11d74b0",
+               "id": "542",
+               "name": "- Course catalogue LMU München",
+               "type": "url",
+               "url": "https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=wtree&search=1&trex=step&root120221=612752%7C578515%7C578543%7C590112&P.vx=kurz"
+            }, {
+               "date_added": "13301322546000000",
+               "date_last_used": "0",
+               "guid": "3e3a48c5-8d73-44a7-92ab-785ffcb5c675",
+               "id": "543",
+               "name": "Programs - Exchange Programs - Admissions - Seoul National University",
+               "type": "url",
+               "url": "https://en.snu.ac.kr/admission/exchange/programs"
+            } ],
+            "date_added": "13317242264494825",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "6ec270f8-4b75-4fb3-9848-568a2f83fbba",
+            "id": "525",
+            "name": "intercambio",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13314878614000000",
+               "date_last_used": "0",
+               "guid": "42ac5215-3942-44ff-b633-f2db0d453ddc",
+               "id": "545",
+               "name": "Andrew D. Huberman, Ph.D. on Twitter: \"Creatine, known for its role in improving physical performance, has also been shown (in several quality clinical trials) to improve mood and help the symptoms of major depression. Full episode: https://t.co/aMyOgH77Kg https://t.co/YD95hpU2WE\" / Twitter",
+               "type": "url",
+               "url": "https://twitter.com/hubermanlab/status/1430205375089807361?lang=en"
+            }, {
+               "date_added": "13314878674000000",
+               "date_last_used": "0",
+               "guid": "745fd99d-3e93-4498-a382-c616d90945a7",
+               "id": "546",
+               "name": "Andrew Huberman, Ph.D. on Instagram: \"CREATINE: A COMPOUND TO CONSIDER FOR NEURAL & MUSCULAR PERFORMANCE • - Creatine monohydrate is best known by the general public for its role in being able to bring more water into muscles and thereby enhance strength and performance. Creatine also acts as a fuel source for the brain, however, and can impact biological systems related to mood, hormones and more. - Here Dr. Andy Galpin explains a bit more about creatine. You can find the full description in the full length episode of the Huberman Lab Podcast. - You can find the episode by going to hubermanlab.com or by going to the link in my profile bio. It’s there in all formats (video and audio) and it is time stamped so you can quickly navigate to the specific topic most of interest to you. - Please put your questions in the comments section below this post and as always thank you for your interest and science! - @hubermanlab @stanford.med @stanford @nihgov @nimhgov @nih_nccih @societyforneuroscience @cellpress @drandygalpin - #neuroscience #science #ciencia #neurociencia #neuroplasticity #creatine #muscle #brain #phosphate #forebrain #fuel #neural #metabolic #water #depressionhelp #mentalhealth\"",
+               "type": "url",
+               "url": "https://www.instagram.com/p/Cb8UX10puFr/?hl=en"
+            } ],
+            "date_added": "13317242264496612",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "1868fabc-5460-4579-852a-44ce79a0bbc5",
+            "id": "544",
+            "name": "creatina",
+            "type": "folder"
+         } ],
+         "date_added": "13317241911366547",
+         "date_last_used": "0",
+         "date_modified": "13318548727501479",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13316278410000000",
+            "date_last_used": "0",
+            "guid": "f1b931ea-a2e0-4643-9142-9189947f0c81",
+            "id": "562",
+            "name": "/usr/include/X11/extensions/Xinerama.h",
+            "type": "url",
+            "url": "https://www.apt-browse.org/browse/ubuntu/trusty/main/amd64/libxinerama-dev/2:1.1.3-1/file/usr/include/X11/extensions/Xinerama.h"
+         } ],
+         "date_added": "13317241911366550",
+         "date_last_used": "0",
+         "date_modified": "13317242347815428",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13317241911366551",
+         "date_last_used": "0",
+         "date_modified": "13289086964487696",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CvsBCtoBCIiBAhLTARI8CAISOAoGCgJibRABEDMaEgkAtIRfMvMFACEAtIRfMvMFADIYChYIAhHwZgZwMvMFABgAIQAAAAAAAAAAIABI8OT1gd8wcPDk9YHfMJIBfQo0Cg5jaHJvbWVfc3luY19ibRIFNTEhYm0aEgm79gZwMvMFABG79gZwMvMFACm79gZwMvMFAApFChZhbm5vdGF0aW9uX2Nocm9tZV9zeW5jEgU1MSFiZBoSCQBJP2oy8wUAEQBJP2oy8wUAKRm7BnAy8wUAMICS/dGm5vwCugECCAESACABKhhURXFualZ2S3dMVWJPYTVodGJwVzBBPT0S7AEIogQS5gEKHElRM2E3enJ2MUhhVTFEZCswaHNWRkRra21HWT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjJUNDE1alc0L055MWdEajdsQnVhYlkrQ2RXS0pJZzVvNDdOSG1ETFdYOVl2elk4S0czQ2ZLaklGQVRkYVpybjllbTB0QkE9PRgAIAIoAjDLgfr1/Kv8Ajix56DG1zBAi+igxtcwShxBZ3AvS25rb1ZtSVpOWWFOTHFMVlpuSWxPcGM9Wh4iHDVVVnJuOXUrOVlEaXhmNjF4dHBKYmd5dkoxST1lWU8/LhL1AQi/AxLvAQocMXhGZG04cS8zMWpMOHM3K2E5WlhUVUdEdzA0PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCQ1RpT0ZwejVQNWl2eWZTQ1NxeHU2dTNnTzI0RUVDZ0FSWFhFbmZscllTUDNwdTZZNEtGQ0ZOYUFuRGZ4d3pPQVlwb1lIUT09GAAgAigCMMuB+vX8q/wCOKbnoMbXMEDj56DG1zBKHHcwUmlra0t2SGdFS3NqRDE5dDVHWW12ekxQMD1aJyIl/////wAAAAf3dHFVUE0zUWEyYTlHdXBBSTNhVk1kRGhZRC84PWU4+TkzEu0BCPkDEucBChxZc29vSHVYT1JaTkM5ODdqNE5vaENDMUlSRFU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJOdVJramNIbThOdjY5YzN1N1J6SzdqNjRaaWpMN0h1aHBEbnR5Vm5wK3E5dmQ0R3VyazNPaFZ5U2I2S24xN1JYbkYvWnFRPT0YACACKAIwn9mX9fyr/AI4rOegxtcwQO/noMbXMEocaERBVk5EaXNWTmdiR0dGbGVNdk1Ib2FoSXZjPVofIh3cQzhnRzlucituQVNINkREeGpyZnNMTVZwU0trPWXY1mr0Eu0BCPwCEucBChxtOHpENzl1czdLTTNnUzMwVWZRaHZNM2RMYVk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJmSHRxS3VuRFBKd1Mrd1l1RTVGMEdSUmFwbEtyVm9nMm1oMHU0Zk1rTFBSVkpkaWQzL1NUbEJML2VoVUZBOG5SYlc2bm1BPT0YACACKAIw+IGp9Pyr/AI4mOegxtcwQNDnoMbXMEocVTQvRDViMGJEQlhvSXNRN1d4TXdkSVQ3d3VnPVofIh3+NXpvaXRoeHBRSmR3RjdETkZtQXl1aHR5Mlo4PWXz2LwNEvUBCLgDEu8BChxUdzY0VTNUa3kyRVVSeUVnTnZuUng4V3ZxUU09EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ0aFJjVUxzb3d3aXozYWw0NHIvZDdkamh3T1lSenRQVDRiVlo0a2M5SlNMWVU3RFI2MExRbmRGQTNMdVB0ekcvK21wd2Z3PT0YACACKAIwy4H69fyr/AI4peegxtcwQODnoMbXMEocVmRJSWdqVzZYVG9OZjZZR0cwdksvbVVlWmlNPVonIiX/////AAAABvt1em43OWpEOEJ3OEQ3ZmxVWlFsLy9jNUxlUTg9ZTj5OTMS7AEI9wMS5gEKHEVqQkc0MWNreGFRdUlVMC9kSDRJSFdkZFNScz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlhKeUFpTHBEZ25xVTZjQ0lyKzNCelBFNUg0RGpIOSs4S0I5cDQxaWlpQWZUeFFpamdXbzQzc29IU1lNdG82ZXpCaDBzTVE9PRgAIAIoAjCf2Zf1/Kv8Ajis56DG1zBA7uegxtcwShxsd09LdFhuV2hyZlIyUDliaXZ5VXlUYnVscDQ9Wh4iHHNQdEttK0M3Tm5BYkYxVVpNeEx0cEhxa0wxUT1l2NZq9BLuAQiCBBLoAQocdFkrdFVLTnA5UkxxRTIyR2N0N3F2TExpS3dZPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCc21rb0pRQW12QnBJOFN0eW1OSGswWXI4WXduZmp2aEdJeWowVThJNWV6Qm51RjdtajhvVXFhcEZGYU91Y3ZTNHVJZGxWdz09GAAgAigCMJ/Zl/X8q/wCOK3noMbXMEDx56DG1zBKHCtJNjBWRlR5MGpFMjF6WUpBb25QbzlaN1JHbz1aICIe/9x6WjRyemhiaHdlVjZPbmFZTUJQbUpLWG9oUG89ZdjWavQS9QEIwQMS7wEKHEw3TGMzOHdxVmN5bFJhM1J6eWZHajZpRDZ6WT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQm1YelpLQ3FqZzM1aURMVmtCb3VINjcvaXhiN1YveStwZmhPUy9VbkhReXo3WGg2b0lhOW1nQmdqVDdIWnUwVk5EYXVIOXc9PRgAIAIoAjDLgfr1/Kv8Ajin56DG1zBA5OegxtcwShx4bWZ6WVdSWXFnR3dZbnNXY0tjRlZvMXptSUU9WiciJf////8AAAAH/XFkQmt5WG1nU1gyOGpqYSsrUlB1WFE5NkdBOD1lgIf6BRL1AQi9AxLvAQocMlhjYVBmcmh2UElpRjU3ckJ1enN6T2FxbFI4PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCeWhsYnZPQjBwWVFuODdpNzRiY2twbUZmZ1Y0TW1xdHFocHYvRkZybHRON0VZdXZpaks0U1JDcENaRUlSdlNwcTJBeG1XQT09GAAgAigCMMuB+vX8q/wCOKbnoMbXMEDi56DG1zBKHFc5SG96OGtZTDhPWDhSUzhuSnBNQmNRd3dCOD1aJyIl/////wAAAAfecy9vby9qVmNqR250MEJSOSs1K3BNUWJyYW1jPWU4+TkzEu0BCN0CEucBChx6aUdlRk9uSnQ0alBack9qcmU2cUZBSzdCUlk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkI0Y2NTZGthZ1RPa0tIVTNBeXdXLzhaeUIyaWtGbTB3czA3bElFckUxZVJiRkh1TFR0eSt4TEV4SGJ3TGtsY2p3OTZOZUZnPT0YACACKAIw+IGp9Pyr/AI4kOegxtcwQMbnoMbXMEocV3hGZ2FWaDNjSm00bGdHN2t4NjVRTFRrSjhnPVofIh39eWh6cXFya25WNUVLOHhhbnl2UzZvZnU2eTk0PWUZ6OaVEuwBCKEEEuYBChwvSmwrL3BMQ1g3VlhPbENsV3ltOXR5STJyZzA9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJKTWJGUmwweUlmenpTejFwWmJobkYwUFhkODBvNXpvT2NXN3BabU91MUtOS3NwZ2dVN1VZQ2FVVEhrVzUxYVROaThmWGh3PT0YACACKAIwy4H69fyr/AI4sOegxtcwQIzooMbXMEoceVhoWERFVXJ6ZEhFUE1NTFZYVUdxZkYvNm1jPVoeIhwraHRRaFBIbEh0ZkhoR3NJcjJubU9PaXVuR0k9ZSqVJY8S9QEIxwMS7wEKHHZkV1hHallRMmtyNmZxSE1HeE1BQWRXa1g1ND0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmJlRm9DZVUwWk9hb25YUloyVHJLdllubmJQR3VwbHlvVlY1WEpSeUFHRUxYeGRJdks5dm5MZmhFUndyZ3RYSWtBWVFqZXc9PRgAIAEoATCf2Zf1/Kv8Ajin56DG1zBAp+egxtcwShxLK3FidlVYLzdBWTBQbHljdVVjV2hBekg2TW89WiciJf////8AAAAI20dYVnlodjdZb1NwdVUvU29PVGtFNVNUVytraz1lAAAAABLvAQjKAhLpAQoccit3TDMwV0VKMmRHcHRhRjlDUmJoUjVwRmFRPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCblRFUHc0dW1TdXFyQ0RPVEhDS255Q0Z5UzhSN09sM1R5UHdlekFOMnJ1YU5ueHdJajVYbjkyRkNSQTFqU2p0UHhMY2NOQT09GAAgAigCMPiBqfT8q/wCOIbnoMbXMEC/56DG1zBKHFRoNFc3SXkrUGpTeDVrdGJnOXdOWXgvSEdQYz1aISIf///9YXplZEtJSVgwbUU4OTZzYmdKYUpMQlRLVVFVPWXbWrgLEu4BCI8DEugBChxUaXRGOEM2eVVOQU5SaXJ6SldzR1YzZU9SRkU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJLVlYwYVdqd2Z3QWNhNG5Yb0dieUN1SitlbDFRUm1LOXBMWTNhbS9KTWovTVkrVkNOYjJ6QTlTQnQ5emN4dWFza1AzUkdnPT0YACACKAIwn9mX9fyr/AI4neegxtcwQNbnoMbXMEocVDZ4cTVEajNNdnp4ZjFab01rRGtMMlF4bHZnPVogIh7//1hia0Y2aElSWXA5ZkJYdW5FbExvWGNLOC9jZz1lOPk5MxL0AQjNAxLuAQocMWdHMit1bkJhSzFsMysxODNzY2pOeHQxdE1ZPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCWG5lUUplOW5NMjd6NnpoTlRSVHZnVVZpdEFPclV1NFlreU5wT1ZEM1lVeFIzM3gvWEVxSllPcWlPYVFDNDZjWEF3amRTQT09GAAgAigCMMuB+vX8q/wCOKjnoMbXMEDm56DG1zBKHGlTL0xsQ2hsY0FBb2trNWhHVlZ0VCtWVkNVOD1aJiIk/////wAAAAlza285OFlVTnZnTi9XT2p6VjNYeFVRejhSUDg9ZdjWavQS7wEIlAMS6QEKHEFEUTBXNlV4RndOei9ybTRrN2dxcjRuamFpcz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmp0MlFOMXhtNG1wT0FuRGxjWVJUT00wQ3Jwa2xmWU5haEVuN1lWZ1QvLzNPalFUM3BPR01PaDdrSjRZeG96WUJKYUNndkE9PRgAIAIoAjCf2Zf1/Kv8Ajie56DG1zBA1+egxtcwShwrRHhab1dXU01oTXA3ZVdFa1F0Smx2TjJEUms9WiEiH///93RuaUhUUGFhOHVsUE9aMG1ycVI3YWY1T3lsST1l6VmK8hLuAQjlAhLoAQocSmt2N3BiQjhMVnZsdG93ZitVdnJncjcybnZrPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCU3RVSDdabnpQQ3BsNURINmRPTzB3bTI2bWQ2V2NLNWIrYjRwcW9BYWVmWnZzcmlBN2dmUDFVeUZJZS9tQ2FwVHVobWlYdz09GAAgAigCMPiBqfT8q/wCOJTnoMbXMEDI56DG1zBKHEhya0YvYisrUk5lVnRrbno1Q0lnU1lnUW15Zz1aICIe//d1cE9DZTFwZnRSaHd2L3VBSjdKb2k0QzJrSW89ZTj9dtsS8AEInQMS6gEKHGx2bDE1L3NncFdVK3NDWC9XS0dwUis4SDJEdz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnFiY0pkL0YvOXZlQ1dyK2dOZ3E1ZDdEM1gwWDhoRWxMMGxOckl0bXNhZlJvTlE0aFM5bi9PUG1CR1kyOVNZMS9DMjhxa3c9PRgAIAIoAjDLgfr1/Kv8Ajig56DG1zBA2eegxtcwShxJQ1NZRWxmRnA1Q3dxdmNjSFlMMlpMTjk2ODg9WiIiIP///+9xdm5TYmtTL1R3WWlWLzF2M0MvRjVYeXd6QVk9ZTj5OTMS7gEInwQS6AEKHEpZTnU3R1RtanltMWdQK3FUZUh2VE1UcUN0UT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnl1emQxSmR3WG5ad0s5b2VjUngyek5idStQMGJEQlpDQ1pHVDNsY1dmd0RLQ2hIM2tGb2wxOWVIQ1VQWkZsQW1qZFRCakE9PRgAIAIoAjDLgfr1/Kv8Ajiw56DG1zBAheigxtcwShx1N2YyNk9QT21sN0JOUGlCZkJORmpvbDZGdUk9WiAiHv//YlNGam9yQTB4KzRwRW1NUWZzVE1CdFlkaDc4PWWYSNxFEu8BCMcCEukBChxPSHlMNng3MEdMZ2oxdkcvTnNMOE1QbU1YOUE9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJvVHhXTkp1RjZvS1RHT05qQzhCK2V4NEVsMHpEL2E2NGw2S2JDTkRTRzBmaTRNZ3VxMU9Tc0hoK1F1cEhiQ0I2SXNOcDd3PT0YACACKAIw+IGp9Pyr/AI4heegxtcwQL7noMbXMEoccnVnNW53dVZZL2FWNW5JeTFCZVNXd3NjRDhNPVohIh///+pFbFN5RHFNREwwQld6WVdRcE40enhVaDVHUVE9ZUDuZWgS7AEI1gIS5gEKHFk3czIvakF4L1NIV09Da0N2c29qZzNyREdQdz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQm4zZ1Vnb1RRQkIvK1lMRks5VmpLd09YdU8ySW9IekYyVm96bVYzbUpVeGZVME1IYmwzdU1ROXB0d3huaVBkczJSZTBqWkE9PRgAIAIoAjD4gan0/Kv8AjiM56DG1zBAw+egxtcwShx3Mk9QNlJSeGp0QjVVaUwvaFgwSW9zWWp3R2s9Wh4iHEI0U1RVSmxxRW1YdHA5ekozTHkvQ1h3TTdRYz1lGPJ5vRL1AQjZAxLvAQocbWRTVWI5aFVuak9WY09EMWVERXBsU0xoNlRRPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCYlp5N25mZ2RMd016Z1p6Y0VCSklZQ2JpY05TNEZYOUFiWlVQRFd2OVhRd3JNWmlwVmh6dUdqcUcvYU1VNC9ZYTQ3c29UQT09GAAgAigCMMuB+vX8q/wCOKnnoMbXMEDp56DG1zBKHFQ5b08wL1JRaVk0WEhtcmdaQmN0WGpRT3FZVT1aJyIl/////wAAAAruY0FXVzM1QmpRVVNWK2JQLzFNSFgzV3MvQzhnPWU4+TkzEuwBCP4CEuYBChw2dzBobHZJZ3RTMTM3Qy90bkcwZGNtcVI3Y0E9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJVcTMyZDQ2ck1ham1ybHg5MTFMZ2tsMkhvK0o0QTNvSnp6OHdOY2FpZFlobWk4MWMxQjV1VjhscHFFWmpLKzhINWRpZ0JRPT0YACACKAIw+IGp9Pyr/AI4mOegxtcwQNDnoMbXMEocYzExbFhmYUFvbCtSTEt3TGR2N1FxTWVzSGg4PVoeIhxabmpodlBuWldFdjJTUVJrMlpHQW1hZUpXMXM9ZU8WQooS8AEInwMS6gEKHHl6bEMzZmdtVldpaXkwNVhYYXphb280VjBaND0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlEvTW1NMGxDMnpmU3cxeU53V3RENENiM3ZSaFpPSVJpZlk1bXhSQ2d5T2VBczdQeVJaV3RuWWNGNmduYndYU1VQUlhRV0E9PRgAIAIoAjDLgfr1/Kv8Ajig56DG1zBA2uegxtcwShxnQVhqOHM2blo5dG04SGYrOExpZEgxUGp4Vjg9WiIiIP////tyeWtGbFMrRUxPWXU2NDJNRHJzKzl6ck0wR0U9ZTj5OTMS9QEI7AMS7wEKHEt5SWdmcUdPVHpiNmNZV2hzUHd3cmR4UTAyTT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQng5dlkwRDFSVkNEUkJRcHBuOU9QL1NFUnpkT1NlWnNLRVhGOVprM0k3dzNjVUppaUVTb2tjSDdMUDhTT3E5c1lFV1lYY1E9PRgAIAIoAjDLgfr1/Kv8Ajir56DG1zBA7uegxtcwShx1cFFsVjlHcjMzQzhoYWZqTUFkM3F0Sm93MjA9WiciJf////8AAAAM91R1eVRsSEQwZDBsZzB5YTUvckkzODZXU2huVT1lOPk5MxL1AQjIAxLvAQocM2dwWmgvOEF6V1ljRm8ycHk1ZmY0SHUvUC9FPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCYlY0ZXg1ZWdsOGErM1ptQnpXbEVQZlZXQU1nSmg1ajFwdUVFQjRGczkvcHRIWmxISUdYM2FSSkI0a3lQMDl2disvbnNmdz09GAAgAigCMJ/Zl/X8q/wCOKfnoMbXMEDl56DG1zBKHEJYSlRadjhBM1htWXo1bmNpZ1FwVHpOZmNVQT1aJyIl/////wAAAAjtTGlNWDNuVU8vOERVOWpyU0p0bU1IT1NrQ0dnPWU4+TkzEvUBCN0DEu8BChxIbnk3V2FyVjY5emZFM0JDeXM4VVBqK2huL3c9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJCUHZackMyc20wNXB2cVUzU3R3S0lLZUlWUmc0U0Z2WVFjWlc4bm55SDgyUkp2WEV0YlV2ZHN5Y1RkaGdGL1RqZzBMVGd3PT0YACACKAIwuqfK3Zvm/AI4quegxtcwQNaQvYDfMEocNjhRMlZoRXpBUGh2dW83R1l0eWpWWVJVWXNnPVonIiX/////AAAACv5iV04za0l1TTJ1WlpCVlNnV2w1ZUV3N08yb289Zbh5l8sS9QEI7QMS7wEKHEJwb1NSblZJQTF1cjFNZ290QUFPdkJpWm1Qaz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkpUYmpycmQ0eHU0QUtDNUVJbHlEV2M3R3NvcTMxbkZleWhZMkNhUHJKaG5LcWZINHEvTDhoVzBuVVNXS0l2WTVQRGR2WEE9PRgAIAIoAjDLgfr1/Kv8Ajir56DG1zBA7uegxtcwShwzS0VYenNGZDlya0xaczRSdldCeEdUY1gxdnc9WiciJf////8AAAAM+zV3S2Q3RytTZUF5MXNEK2o0VFp4bmFicGZpVT1lOPk5MxLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWnptQXNLTk53a2EveXU0dUZ4aDRNdEU2dUlQSXE1NTRRcWEyWFU4Um9ObTYzOEZzZEorbzRLeGhPa3dPeHRMaHB6YlF6VG82NzVPVUxiSEE4V0JYOG9WbWNlOEZRPT0YACAAKAAw2bzlkvyr/AI4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABLwAQieAxLqAQocUGNwTVRiTHhFNGthcmVpdUNPU0hmcktOeXJFPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCVlhoRGdWVERuc2hDU1doKysrVit1RmZoOEVzUkdKd1duL0ZTOGZFMzhJRk1qc0ErQVlUYklTMEloczdlb3JHSmE0YU1GZz09GAAgAigCMJ/Zl/X8q/wCOKDnoMbXMEDa56DG1zBKHGhBQ2NiYWhLWkxaU0duMGVnN0toeStYT01Ybz1aIiIg////91lLSHBUZ0V5QXBaRHNSS2w3OGs4NmVtZWZjcz1lOPk5MxL1AQi2AxLvAQocWEFsakZBTmE0b21mSFV5WFAxT2hXMUNDakJFPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCVWxtSmJTcW0xTkdVK09QSEUvQklsdkJVMWRxbGN1K05Wdm5XRGhrV09GZDFEUnNxQ1FVaHpucytzL3lXRWZ3U0Nva1dSUT09GAAgAigCMMuB+vX8q/wCOKXnoMbXMEDg56DG1zBKHFZHYmJpY1A1Q2Z4cmZGZVpDWjEvbXlVKzJ2dz1aJyIl/////wAAAAbudkNveThPd3BBcXdKRHgzeUxZM2Q4b1B1c0JRPWU4+TkzEu0BCJUEEucBChxWZUVxZlFTTlJyeDZQbmtrZlZ6bkRJQUYyN2M9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkI1c1d1eUswQlNPSDkxRGx5Q3I0YVZudlhrM0pMa0JXZy8rQ2N0VVI1VU1kOGJleG9zN3gvYlF5WWZYM1k2Q2FkWUdpYTdBPT0YACACKAIwy4H69fyr/AI4r+egxtcwQPfnoMbXMEocMEtBbE1FUmdIWWNyWTZuemRBNFB4WU9PS240PVofIh3+ek8wR0pYd3pmUGtwaVB5cUhxOUMyQnBiZm1VPWXtt8rdEvUBCK4DEu8BChxZbU9xemVHaXJCakErOU5pNFFJeU5MT3lHMm89EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJoN1RWQ0JQeFlFOEdXVlg3K1RRYXZYR2oxN1pKRTVZaFVGRFd6RlJUeDRxVlBqaUlzcEwxUXhrU2t6RVpTL0lGMFlFWmx3PT0YACACKAIwy4H69fyr/AI4o+egxtcwQN7noMbXMEocQlBWa1BZWjcwZWIwNW5tSHRZYVFsK2NUeVNRPVonIiX/////AAAABfVGdDcyMk5XTDViNTNwTWlhMlI3dHZUa0hIZEE9ZTj5OTMS7wEI6wIS6QEKHDdBUWdBdi9EMVA5b0ZCMjk1NGpMemFkMWVTZz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmNwL01iMEZTYTV1d2dyZjNLSjZBbGl0dUxLT0NmdHNLRFEyU1l3b0F2YXNOMzdvWFFlaGFDY2JuWmdXN0NMOWZjeGt2SEE9PRgAIAIoAjD4gan0/Kv8AjiV56DG1zBAyuegxtcwShxHVWJxdXJiTzRMaWp6ejR0bUdMM0ozd2o2czA9WiEiH///1ktQSE42U0FzNWFQbHVOWEt6TWRyMmVGUnFZZz1lOPk5MxLuAQiEBBLoAQocajhJcHVSTEtnSWx5aGxMZDI3TjhnUXBrVVF3PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCNjBjWnhpKzUzQVlWL3VnNXdqdVVFQVNoWWtMdm4rSWRUa1dMNUFjOThVZzdRc3FnakpRTDVXaHFFR05wTElvUGo1c0xEQT09GAAgAigCMJ/Zl/X8q/wCOK7noMbXMEDy56DG1zBKHEQxNUllbnNZdDRxaVUwS29oZmFHZUJtejBwUT1aICIe//dMOHBHKzNpaFpEZ1FUZWxBaHh1TDRzTGtWM2s9ZTj5OTMS9QEI6QMS7wEKHGFZWnhCVmFFRkRjcVF6dTZ4Wk5vNG0zRjlCMD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlJseStoYlB3TDdFZHpvQUpkTy81bkdiK2FWdDJneFVkdDUvNkVlS2lIOXdaa09QaVNhV1JmekdnU29iTVdvK1RzN29FWVE9PRgAIAIoAjDLgfr1/Kv8Ajir56DG1zBA7eegxtcwShxHRGRxNmM1RE1yMDhYeWk5aVZ1dWwrSGFRMnc9WiciJf////8AAAAMvDBnMWRETHhwV0lpNkxJREQ5c0RaT2xHMGhJcz1lOPk5MxLtAQi5AhLnAQocMThjVUlTNlJXK09pNFQzbjBPTmtRSHVmaERvPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCcEdzMHNPVXpqUXFsc0lSbGFiSFJ4MWNiRG9ob2tZVEhuM3haM054QUc4WmpNWjErc2hJdGZ1cGNjZU5ycDhMVTNtMmFHUT09GAAgAigCMPiBqfT8q/wCOPzmoMbXMEC556DG1zBKHDkyblRnWlB4RDZMeDAyM2QvcXdUS1ZyTGQyRT1aHyId+2s5dkU5RE8xTmlLVy9LWExSL1A5Q253RVgxND1lKq3KyhL1AQiwAhLvAQoceVNGYXo3S0JFNERtZHpNQTJnRExZeW1KMHJ3PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCNmc0V3orQUpOODZ2enRaVCs3L1QrMVdVNUFzZ2VBNnJLRkxnWDA3dENjQmxZWmhibGcrSkVDdHdEMjA5d09MTTlDckxoQT09GAAgBCgEMOaCvfzJ4vwCOO3moMbXMEC8/+3E3jBKHDhzZnJkN29rYUZpYTBiMjdONk1YSFZvb1duaz1aJyIl/////wAAAAjcMWFNb2Z2UzlRK0ZxbHZGNTFFbU50dnBaRnRBPWUo0OGpEvUBCPEDEu8BChwvKzBUQVl2ZmRmTmpYcTZFRzgrUXhmZWJ0UWs9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ3SXdBZi9zb0NhLzBlNEthSCt4U2lBd1BDQ0pWdXRUR3E1RlFnTFVGTDR0VUo4MXM4Rms5UitPTnlKMXpqV2JuUElleWl3PT0YACABKAEwn9mX9fyr/AI4rOegxtcwQKznoMbXMEocWDhuc25xYlZuMTRuWndaMjdEYUFESHZUMlZRPVonIiX/////AAAADbAzYktIMjdlb0xYWGNoMkxVbGFsZ0I1NTZqbUk9ZQAAAAAS7QEIrgIS5wEKHFZ3bzVRLzBmWlcrbHpxNmUrT2VOd1crdjVkRT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjVXV2lKd2Q4R1pQbDVSOGowT1hvbUtIOElBTzZuTW54SHp0UWpKNWpjTFFEUVl1bmtuSE1WblJuU2JaSEtnSnhheXozZXc9PRgAIAIoAjD6+bft5b/8Ajjp5qDG1zBA4sH+itowShx3ZVBzMzBleE9EZHVUQTc4M1ZUbGRwaFQwUkU9Wh8iHelSNnFNelR3VnlpcjFKNGhxalFva0dCWHMxUmc9ZTj5OTMS7wEImAMS6QEKHHFkcEk0dXRhK2c3TTg3QU1ENG9zcnl4TmpYRT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlR2emhxRU5vaEJLMDFxLzZJK3RCUEk5K29tcDBBdlFGMFM3QWx1T21KcW95ZEtkSFNwVjNlYXYvbFBGcE00ZW9MS0tzcUE9PRgAIAIoAjDLgfr1/Kv8Ajif56DG1zBA2OegxtcwShxxUFpOcmtIaFB5bWFTM2U2OXk3aEZyV0Vna009WiEiH////1o5N1RiVmFWLzVyWXF1OVFsT01ONEtOd2FMOD1lOPk5MxL1AQjRAxLvAQocd1BIcTMyQlJpUVpFVHpsQStyRlB0T3d2dGMwPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCaVVuUklFV3FFUDR1MExTYnNiTERWZENGYUNxUmx6OG16L2NIVnJxdDJKQU5BaFRqcEp4RDBXbS9YMXAvL3cweXUzaXlodz09GAAgAigCMMuB+vX8q/wCOKnnoMbXMEDn56DG1zBKHDQvUngvaWppSzhQSytHRXRBTU1IeFZWcjcwTT1aJyIl/////wAAAAn3cDF6NWZhWEZrbjd3N1VzREVMaXE0UGdySUpZPWWAh/oFEvQBCLsDEu4BChwwblIxS3NRMUZVZkE5UzE3czdyRjBXL0dJR1U9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJzelJlZGxkZUNNRjM2VkJjeUlvSllQY25kY2svZ2tnK0J5N1BHdXdiRzF0TTAvTW84OVBkNXZ2OWMzSnBhTjhIVHN4c3pRPT0YACACKAIwy4H69fyr/AI4peegxtcwQOHnoMbXMEocOUxHclVaQ2hmaW9QZlJSVUVhN1RPbm8ySytrPVomIiT/////AAAAB3pJUW9ZN3FmdndPZ2VZVzc3U3dCZ0lWN2J0Yz1lOPk5MxL1AQjOAxLvAQocNDZiMTVDSCt3a1VROVBDMjZzd0J3L2FPQytjPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCRkpQOWNjTUdaeG00NTRMbitsYkFzKzhjdTRiVWJzQlRHeFlkNE5lOE0weUFZbGVaWnNBdHhFUnVXMFZNSGI2OER0Z09NQT09GAAgAigCMMuB+vX8q/wCOKjnoMbXMEDn56DG1zBKHDFvV3hBUHF2Vzh2UFgvQXhLUXpqZFZBN2lDQT1aJyIl/////wAAAAm5alhkN3laMlJsNlBiUW5SUWYwRngzM3N0SDF3PWWAh/oFEu4BCIwDEugBChwxbXhUVmh6V1V3eVFqZmNlRjA1dklQYld5Mk09EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJiQmx5dVd2YlBKUnI4dWFvRmdlMzFXM3Q4QmgrUkJERXRDcGNSUjZ4UkcxOGdXRU5GOXhyeWlkM2RYaGdLOWt6cHJIZHp3PT0YACABKAEwy4H69fyr/AI4nOegxtcwQJznoMbXMEocSE8vM2Y1OWtlT1VXV3QycmxNaWx4YUliejFJPVogIh7/+mFEV29aT1lNNDRNdTExd0phVldqOGJaTDVTdz1lAAAAABLtAQiUBBLnAQocb3FST2M5azhKTW1ybWdPOGtOTm5weVBCVHpRPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCL0VCWmhHdnF6SWlDSDlZdGJPbDFLTUVnQVNNa29yL0hNWDhQYitYenE2bzA3SWpIZjJIdU00NkdEUmU2bnd1d3pWZjczZz09GAAgAigCMMuB+vX8q/wCOK/noMbXMED256DG1zBKHDlnMlZibjZMYWZMMjlOTHAyNjhENFZtRkZBMD1aHyId/XlrcGtNdW9zbFkxTlQ4T3E5cGFoVHFIdEdJaz1l7bfK3RL1AQipAxLvAQocR2N6aXhUeE1iSXg2SElONnE5TkhDN2lSMlVnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCNFpNL1RhT2NEeGZrajgzc2pVbWdDOU9zVkM1Nkw3dVBhMEg5NkpGRkpLVkZUTGE5MXlyZFhuWlBpVEZTNUsvWmZPSy8ydz09GAAgAigCMJ/Zl/X8q/wCOKLnoMbXMEDc56DG1zBKHExWbklCZUdFTjJDOFBRVGRDOWRqQ1JzalFuVT1aJyIl/////wAAAAT+L3VtVzd6cXlHL2daZ2Z5QzQ3bkpka1Bsa3UwPWU4+TkzEuwBCPECEuYBChxBSThIYjdDUDBBQzBLanZCM1FGK1ozWDRwems9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJKK3RzN0thSkNRa2xTVlJrOUJpTVUzbnVQRllLeDkvR0hERkg0QS9nMW40RDl6Y1lxSFlHWnBYSjRxbnQvRmF2VVI0NmlnPT0YACABKAEw+IGp9Pyr/AI4luegxtcwQJbnoMbXMEoccXU3VGtaNGtWd3hpU2Mya0VPUEhGdFBLS1lRPVoeIhxCRzRiRGdWQ2pHV1gxZ2VkUXJPUTNpcDJZRWM9ZQAAAAAS7gEInAQS6AEKHFozUnFRczRsMTVZeVZDT3g0bFNKZGRHZVpQMD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlR4VUNwdytJR3BSZ2hMc1pzaHExdXNzcnFQc005SllWY2Y0TklWS1kvYTBtUFFrTGdKUzVYcWw1R3A3azB3N2tLRWhPc0E9PRgAIAIoAjDLgfr1/Kv8Ajiw56DG1zBA/OegxtcwShxEQjc0SXBqKzFVODZUa2VxWGtzd0d4aUEreGM9WiAiHv/9UVZ5UExaRWFrSnNLZ3VPTDBwdFNoc0Rwa1BNPWXtt8rdEvUBCNwDEu8BChxVMFBXcSt6L3dIWFVXaXZYYi9VNHZPZDZsZms9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJJUVhndENoN01vN1VCeGV6YW5sVmJadGxEVmJua1Y4VWtxandIWjlCUG8xeWdSQW8yLzBnOGhHdG16S29OUGJTQ3Byc3d3PT0YACACKAIwn9mX9fyr/AI4quegxtcwQOnnoMbXMEocU2QzWHhqSjVOOXo3bEhaczF3TnRvY09xbjNBPVonIiX/////AAAACv0vZlZYMGZCN3JHV3pZUDhQTlVtMldBWG9udzQ9ZT1irF0S9AEI1gMS7gEKHGVmUEppQ0wza0VUMU9FUUF0bzlhdWJJR2JrQT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmt0YVJSdm5UMU1BNjExL0lPWWxMQ1IyWHB1TlJoUXJSejVBQ2N2K2haSTBEVDRlUkFteDZDY1FzTm1JZ2tyazBqejVaZmc9PRgAIAEoATDLgfr1/Kv8Ajip56DG1zBAqeegxtcwShw4V296elhPRW1UWDZYVTNsbW9XSHhOT1kzK1E9WiYiJP////8AAAAKd1EzdjkrWi81cFVLQjVIWUlNb0lmMzJtZ1JVPWUAAAAAEvUBCNIDEu8BChxNbnVHVTJuWnVJN3dmOFM2dlhwYVYvVDh1RlU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkI1U2QrcmdRSHEwZFVOMlZFazZwalR6MVlldUVjVEoxK2h6eXp3bnJDQTFqVlFNdXZsa1ZYNHJLTThxSEx1c09mSXh4WFhBPT0YACACKAIwy4H69fyr/AI4qeegxtcwQOjnoMbXMEocUFhMY3k0cW5MQng3NHBYTEVSeUJpd1ZDZEk4PVonIiX/////AAAACftyUHFFekFqd3VKZGROc1pZbFRMbkN4OEJJSk09ZdmkhIsS9QEI7gMS7wEKHHR3Z3hVYUkvQ002R2EySElQa2pscjJPazJpND0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmdWYXpRcmhIRk9uSXJqaXhpNFlSaGdmYnFqclZUa3dXTU1qZjdCSzhqYzFQeGVSUUNCUlNST2taOWFKdjBEaHdzUlJjMmc9PRgAIAEoATDLgfr1/Kv8Ajir56DG1zBAq+egxtcwShxuQjMzQWt1bjJKYWY0KzFaWVpXclN0Zm53bHM9WiciJf////8AAAAM/XNDRjFpVm0wb1ZYUjJEM2hIa29jYUE4WUd6ST1lAAAAABL1AQinAxLvAQocUDJ0cFE1Q3BtTHVTR2NRRUdDNHFrWm4vVE5RPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCQWFOSjdHRldtYXg2c29JNFdOOGJOSkhhYUJNd21VU0tQOFByNzVLcDU3YXVzMUdFU09NWXQ2UitnbHVJNzIvVkI1YjY5dz09GAAgAigCMJ/Zl/X8q/wCOKHnoMbXMEDc56DG1zBKHHI3OU1IYnlQRkNMdHRxWnJPSUhQdlNvb2Zjcz1aJyIl/////wAAAAT7cmIyeEM5YWFCRGJlbUNXTjlhVHEyUVVXK3ZRPWXY1mr0EqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFad2pYeEw5aCtXcEVOYXJOa3dKNkluZXVPWmdSdnN5RWswekN0Nnpic2lwU0NmL2k0cWdaOHRWeTI3SFhSaUlWWjZWcWZyMRgAIAAoADDZvOWS/Kv8AjgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEu4BCOQCEugBChxJYzJGMDVCaU5qY0ErRmRHZVB3TDdVZFlCOWM9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJTL0dCZHBXbGY0NVljcldaQnpzQmVhZkhVbHhpeGNqRWFwNVowR0xVS2p5YWFvam52QzBHcnVZRVlSTThPditUT2ViWE13PT0YACACKAIw+IGp9Pyr/AI4lOegxtcwQMjnoMbXMEocSmJ5SG1CdnB0UkJQL2ZmdHpzd3U4MjZNSTk0PVogIh7/7nBwQWpvek14eEtsQ2g0cVREWTJnRWVjR1lWaz1lOP122xLuAQiXBBLoAQoccnNkSWxIQWRlN1J5UktFVEI5ZldxVlp1NW9JPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCSWRIamdpTEdxeTFoWWhkR2wyTGVSNlV5YmRHMEtoRFBRSVpiM0szZk1TQllvSUFxbHE2MFk5dDdLMTgvaGlZcGs1bWh1dz09GAAgAigCMMuB+vX8q/wCOK/noMbXMED456DG1zBKHEJObnRSUUxKbHBqbjcrTnlsa2wzRFgwcnNDND1aICIe/7pjM2U4Sy9nMHhXZERhTVh5eC9COXFHT2s5UG89Ze23yt0S7wEIlgMS6QEKHFdHcTB5RXpKZUE1Z1FLMFF6Y0ZJQWtla3ZVTT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjVlUDZORFJQZ090b05zSHJOODZqSDR6b2tjaTJkcSt3bUp5MlF6SVZlUDN2MXAvM3NLQ0IwNkcyS0E4OFcwYml0MVNmSVE9PRgAIAIoAjCf2Zf1/Kv8Ajif56DG1zBA2OegxtcwShxTTjNSRnpFSmNKQmhnSk9BYzFUR2hKS3c4ems9WiEiH////TZvVlJwUjJ3Mm5lRjhBaUpiYnFaT0c1T2RUYz1lOPk5MxL1AQi8AxLvAQocaUhPTGhTUVlMRTJRR21QQTNXY1BJNm9DSnNJPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCU3dmUGx6NWYzV0daaEFMRzJXUXNQS2h3YSs3YWpRNVdKdncvbEdDZXBzdU9Dcy91M01TQmdDR1F2dkJSdGZRZlpWQ0ZXZz09GAAgAigCMJ/Zl/X8q/wCOKbnoMbXMEDi56DG1zBKHDFtb0hZRVZJME5RUzE1L1BqamJEcGIxRzk3ND1aJyIl/////wAAAAe9MGhEb2x0TVJJT2hwcitONUwrYzJibHNqaG5BPWU4+TkzEu0BCIIDEucBChxzaC9MM3JpNEpVbnFrRllrTDJ0b3N5a3d4dEE9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJEcEFIQXhwQUpOVWMreU9jT1NUcDdoZkVxeVFEbHVJeUNucmR2bm50VHY5aXdSczNndzNrc0FObUt3VWhtQkgvNVBJZUN3PT0YACACKAIwn9mX9fyr/AI4meegxtcwQNLnoMbXMEocS2gzL0lid3l3dnlPazh2dGNhNjliMyt6SkVzPVofIh3uVldFWE5QOEJWZ3pqTkdSelQ1RVY5S01SRlljPWU4+TkzEvUBCI0EEu8BChxrVHFoTDU5YnlSMEFmM2NZVFVRanRsVnlIVVU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkI5eVRPS0xTUXZmdVg4SFRlNzhrVWlQRHcyUFZJWnNZcWlMNDhaTGlRWU5MdW40dVJ6NFpxRm01YzNGZDZzV3JlamU1NDJRPT0YACACKAIwl5bfj/2r/AI4ruegxtcwQKHWpMbXMEocZmJtYXVkTDFWMTA4RC93N1h4bTlqTnIrYWNzPVonIiX/////AAAACdpDL3BsRTJtcWtVR1Y4clE4V1NlRkNpSnlkQ2M9ZQAAAAAS7wEIzgIS6QEKHE93ZGU2cTlsNU1zdFpJSndFY3gzVTdMQXZFVT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQm1pSVp0RWs1WXN5UTRtUVNZcFkzRE9WRlJMVHl2bTUveUtOR2J3YzZCU3JHMVFQVkkwaHYyZU5NZjFieGNNNDUzeEJISmc9PRgAIAIoAjD4gan0/Kv8AjiH56DG1zBAweegxtcwShx2Y1JGK09DSlhiaUdiOFhSZ2Jjd2dQVnhCVE09WiEiH////1lHQ2xjYnd0WEFkeCt6eDIvbEVDZFJuWFVwOD1lGs+kRhLtAQjzAhLnAQocOFM0endFU1c4UjN1RkxhZlBJYTZMV2lJcSt3PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCdVB6QTZFb2dnNUhwcXFETW1RdkJ5L2J4WUtHTEFKaFQ2ZGViRFRxWGoxMGd2dEtZUm42YlZ2VXlMeXc5SjRlRkVGUmJsZz09GAAgAigCMPiBqfT8q/wCOJbnoMbXMEDN56DG1zBKHDVrZ2wwSTdib3F4emlEWlh3MUhsODF1TStvbz1aHyIduGxkTlJWS3d2WVkzcm5KbmZGbW5ZRFVualFtTT1ln1DhahLsAQj/AhLmAQocbGVtQnNJbEk3em8yWklxUmNFM2xJWHVwSWhBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCZ3NjRG95eGE5dDR1V2NqZHdSS0Mxb0cyRHVYRWhkNHRneGhFK0w5dVhmWjlNWVFzRGRORUJkK2NFNjk1SkZyUnpuWW15UT09GAAgAigCMMuB+vX8q/wCOJnnoMbXMEDQ56DG1zBKHFlnUUVGU2xWSmQ3bXdMbnBOMjllMDh0SkpNRT1aHiIccWN0Mmg2bVRmb0Q1SnR5d1EyWFY4M1FVSHdFPWVPFkKKEvUBCKsDEu8BChxsdVlLMzJVQU1YR2YxNDFGWi9Bb3FZd2ZieVk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJCQzlJdTQ2ZEdqa3dTbDVDTXM4V0VqYUVHc1V3VVhOazlYTTYxQUl6OVVhcFRzWFNTTGF6dml0d3VuYU0weStPb3BYcStRPT0YACACKAIwn9mX9fyr/AI4o+egxtcwQN3noMbXMEocVHZYbi9oR1FTaForOVZmTzBkQTJrM25LTzBZPVonIiX/////AAAABagyTG53MHpXa2dnb3I4SVdOWk9RM1BVQjFDa289ZR9nWDkS7gEImwQS6AEKHDhHSlQvejBlYXh6bTRKOU44ZkNHeE9yMmpwdz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjFZSDJHeGZ6OFlCYzFsZnl4M1pxY201U3pxbkpwdVMzbFg2d0laWldqcXVrVG5pQzhHdU0wTEhqalpreFJiOXc2Z08zSEE9PRgAIAIoAjDLgfr1/Kv8Ajiw56DG1zBA+eegxtcwShwvR1BpeUZSQXN5YWExcnBiVFVRcFQwRkdhSXM9WiAiHv/7NE9YS3FENmZZdk9xTXdpbXgySzZlbnBxVHo0PWXtt8rdEvUBCMwDEu8BChx4VHAwNTErb3Y0NmtoeUhhWWQwV0pGLytybFk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJTWFN6SS9LeFJsL2NCVG56ak9Kd3JKSTBtMnhUckhjV3JqcmpvR3dmc3hjTzBHaG4zNnQ1Zjc3dTcwaFpreFNkVTU5MzB3PT0YACABKAEwn9mX9fyr/AI4qOegxtcwQKjnoMbXMEocNVpsSFpzL3hVRVJCNnYzcEhwb1NYWkx3OThVPVonIiX/////AAAACP4ra0J1dEhDM3B0YmRmMUZJOWs1clBHQXIwRkE9ZQAAAAAS7gEImgQS6AEKHHF5U0E0amdGWXBvMTVjTG9vb2RhbWQ4QVhxMD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnVYU3hVaDVNejFSNEU1ZGc3RmFNNG5GSUkyRGZXcXNodWVCemtpWWdnamM2U0RWNlhzbW5xaUlMd3FqTGNqcngzOUN5YUE9PRgAIAIoAjDLgfr1/Kv8Ajiw56DG1zBA+eegxtcwShxKQjBtU1laRVFPWW0vd294WFNBcmozSHdaSGs9WiAiHv/3SmU1a3MwQnNFczQwdTBTTWovbDJwTkkrRncwPWXtt8rdEu4BCJkEEugBChx1eStianBBQlBmTkNmYTgzREVDZDFpRm55QjA9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ3WkZLeVZSVStwQkdUQ0tHc243bDF5aitxR1RmOHFXWWlzRVZpR2RpWStaNzFwdFhPbVcwVGF1OFptTkNzdjRGRjRDMUNnPT0YACACKAIwy4H69fyr/AI4sOegxtcwQPnnoMbXMEocOHM3d0pVaU9PTjJoSTJnV3crazN4ekpiTk44PVogIh7/7nhqUGVOYXhYTFo3TmswcjNLQzRYUXhEb2JRWT1l7bfK3RLuAQidBBLoAQocSkFzOHBVYVIrb0ZkaDZ2VDFWWmNOV2I4SU9BPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCTXRHOGdGbm9ub3RMQ0VjRFZPVmluOFFNZkhuV1V6aWt1SVdobm5EajROS0FQVkt0MitaUjRrY3FwQ2Y4M2NPazFLZ1V6QT09GAAgAigCMMuB+vX8q/wCOLDnoMbXMED+56DG1zBKHGR1QlFSUEIreDJ1WlRqaTFSYUdRd0Y0VkV0Zz1aICIe//4rQXYwWTcwZWQwTzJ5ZXY1Q2tDVUp4aFBLSjQ9ZdbLD+oS7AEIqwIS5gEKHEZmN3NaSUJZOUJQdkl0V0NEUWh5QStRZnZiQT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjZTNzg2ditmSm01ZXpnVXVNVjJQSXY1ZWhaYTkwdjAwMFdGUU04RFNmNzluVS91aDVLRFVnUmFrKzl6Uk9ZSHRYYjNlTnc9PRgAIAIoAjD4gan0/Kv8Ajjm5qDG1zBAteegxtcwShx1V21nTG56aFlhSFVnbHNyWU1BZUF4V3RMbU09Wh4iHEwxWmZiMEhhQTVlbHNDYU5CQ1RRNTJ4dEszWT1ley2KhBLuAQiBBBLoAQocWDdLYnJYM3J5YzR2VEFlanNrUElSbjR6NmlvPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCOHVuM1F5NWEzeHI3YTFVRHQ2TGZFTTIvbWRFZzNQWEJ5U1RlTzU3WC83RlUwbnAwdW9hek50OGc4cHdneFYxTS81K3IwQT09GAAgAigCMJ/Zl/X8q/wCOK3noMbXMEDx56DG1zBKHHFxSy9JSXRUSXNGaE1hYm5LczdMSGJQcjJqcz1aICIe/7gvaHVBaGZaRjBqVkIwbjFJYkpmRFBBTU1TSU09ZdjWavQS7QEIhQMS5wEKHCsvL2txTnpKUE4wR3R6cDFlMy9GMTRxZjVpQT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlRGSENzYWJEVHdGYUJDeFM4OCtDTmw2SEZUZmt5UFU4RnJKOGVrZzI2T0VJOGdsOEZYWXFVS25WSkFIZlRKdU5MV29rSVE9PRgAIAIoAjCf2Zf1/Kv8Ajia56DG1zBA0+egxtcwShx4Mml1aHVWdUYzdExrT1ErbG1ma1NubEpKQk09Wh8iHf12V25OTXlaSmVIRlRvWGMvNUxoaUtMenhTYmM9ZSIXBh0S7QEIkwQS5wEKHFRBWk9FUGpVei8xN04rSXV2cEtkRFR6Y2s3QT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlJkWEVMc2YyOVUzdUlxbmtjdUtBZVIzOGhFVmpuRlhscittNHlpUTZrZnNWQXA4eXVxUld6VEZFTTVMRUo0UXYrRG9NL3c9PRgAIAEoATDLgfr1/Kv8Ajiv56DG1zBAr+egxtcwShxrN0F6K1ZHMVZaQzhIa0R5b3FSTDVYck9JdGM9Wh8iHftMWFRiZm1FcUZyaWhwUitaenpLQW9INm9LUUU9ZQAAAAAS9AEIwwMS7gEKHHByUUNFNFZHdVRZOWR3N3BJTEJydWFTTHcyUT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQldxcndYUTlOZ0xTTTc3RXRCeWFXVlFuc21EZEdYWDZBaGR2TDdvcHV2Y1BsYW5IbEcxaWYrUXZ1Zk5uQmNLK1l6cGkwY0E9PRgAIAIoAjDLgfr1/Kv8Ajin56DG1zBA5OegxtcwShxNaWZ1ZFlBNk96Rll6dXFmM3FxTmNGSXFIdUE9WiYiJP////8AAAAIMEl5YzdMbVNWUXNzZlBlcmN3VFhQVkJYSExBPWXY1mr0EvUBCMoDEu8BChxLTXpNSzNlRVVmcWQrNkNMbkNLMXNGRjcyNWs9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJXQTRxRmxKem9MNUZBM0lHT1NUWG5OZVFoMzdTWndRdFdYUE9WZE9ybElhUWkxYXhyTnV0WGRibTUwem1MdHdkNDBiVnNRPT0YACACKAIwy4H69fyr/AI4qOegxtcwQObnoMbXMEocOUV5aDhEMndrVEtMK1VUakxheEhTSTlGR2xJPVonIiX/////AAAACPtMcTU1UjFhT2FmNHRWcFhTdkg2aWFYL1ZvbTQ9ZUt/55IS7wEIkwMS6QEKHDhPSkFFcjQrMlFxQlR4QUttN0REZ0V4RGJvVT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjBJT1BNSHMyZmxwWHRiRmM4ZVQvMEtvQ3IrQkI3MmluUUFkbi94OUxvb3VTV1VSQkRGZ3R2UjQ5VXptcjdYMFcxU1dtWWc9PRgAIAIoAjCf2Zf1/Kv8Ajie56DG1zBA1+egxtcwShxtM1BLYTFyMkIzUFRPUWJxenhLaWFWT2I0VEk9WiEiH///7nRLSGtpMFVLWTZ4WmJJKzhwZnMxVTE0ajRDWT1lW4VDYxL0AQjVAxLuAQocclIrUDBkdldqNTFtQVJKeTVONWxwbnJPMkpRPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCVkJJSHRDemFvejFsZUo0M3k2bk1FTFMxNmFjaXYzR1I5K0NxbHEzZ3VLaUZ1OVJnaE1vQnlCelNQaVdOQzhZRWJwUWREQT09GAAgASgBMMuB+vX8q/wCOKnnoMbXMECp56DG1zBKHEJQNjRqRTcwSHNYKzl2c0dtajM3VjBWc1l5VT1aJiIk/////wAAAApkZ081dkxTMDg5ay8zRTBadkhDSU0wNnhSWEk9ZQAAAAAS9QEIywMS7wEKHDkyUWdLYXVLZXBSbWUzY3NYc2t5WHEwbmFrcz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlJoV3JseW91VjZjRmRwbGRnZkkwbmxJajBpMzl0Um9vSjRBbW5LV05OVXcyMCtTTS83UGpWQ1NuQ21ET29xbnZJc0VZMUE9PRgAIAIoAjCf2Zf1/Kv8Ajio56DG1zBA5uegxtcwShw3M0psQmJ4TTM0d2o0bWtib3BZdFpvalAySGc9WiciJf////8AAAAI/WFuMUZ4QXo1MStIMzZRc2o3R2FJOVMxUXd2Zz1l+JXEcBL1AQi5AxLvAQocS3BXTnpPd1VVODVncDdmVzJFK0FGb084b0JvPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCK0JpWExiME42QmFDMTVsdUhwL0xuWmlxNThoR1hadktGSVkzSkZsTm1pRHFtOUJHTlB5RU1ES2VkUHhPeTBpQ3lPVmZmQT09GAAgAigCMJ/Zl/X8q/wCOKXnoMbXMEDg56DG1zBKHGVaSU8yb2hEbkgyZTIyejhxSmpUbkphdzBUND1aJyIl/////wAAAAb9SzdXVXcreXNiK2hhY2hYWTV3L3RWakF4TGNFPWU4+TkzEu4BCIMEEugBChw0QTNleWFBSHk4TGdDZEhQQ3JWRjlXZTFmYVU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ6UlYxWStNek12Sk1lUjlndTg4RHlwT3l0Z0t1cDJ5dlZlREU4ZnA4dXFWQ2NoL1VJNE9CaWVKOVZRc0psUjVQSXJxT2RBPT0YACACKAIwn9mX9fyr/AI4reegxtcwQPLnoMbXMEocZkdqYUdYTkRIWHFCd2hIRzV3N1IxaTduOWx3PVogIh7/7mNtN1BkdE1mMEV3TElBdmF3RWJjeThodm5CVT1lOPk5MxLtAQiDAxLnAQocQjI2YUo2Rmk5STZLREpiOW84MDAzRys3Z3dBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCUEgwMmFwbXRWL2dTSDFOUkdLQzZZOVdPNWY0VjZ2OC9yUlhjL3FBMnQ3aFROQnExRXlPSVZTQTIyKzlrLzNKN0R5YzZLUT09GAAgAigCMJ/Zl/X8q/wCOJrnoMbXMEDS56DG1zBKHGNPdFprbDg2Y1BBaWJYeGdDQS9jcVpUQTlXdz1aHyId93g1OTF0LytiZVhrdG1VUmpxbXRLcHRwMlZTUT1lOPk5MxLtAQj7AxLnAQocbzhsaEVYRnQ4U09wdUN6d2REb3NsT2RFSWFnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCeWwyL3RPNTlCR09iSU1BQTJmSU1NVzBiTWVBR3V3bWFzSFA2RFhKOEhKaFM4Wk1VVnZCQnRtZU9VSU5GbjhHWjBiVlM2Zz09GAAgAigCMJ/Zl/X8q/wCOK3noMbXMEDv56DG1zBKHC9LbWlydGNnNjFwdEJycVpncGp4UkRmRlliQT1aHyId93FMaTBJcldmRWpvT2dLQ2pITWxNckpFait2UT1l2NZq9BLtAQj3AhLnAQocdE4wbDVtYkFZbHI5dUdTUzZFcW1vNUZZSU5BPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCQ1FlNWduYk1JY2M1Ny85Um1sU3VYOFQrckpPNk9sSW1neU96WnQwVW1Ic2JZV2ROMWVYQUZGaGE0OEFnc25NVHdGWExJQT09GAAgAigCMPiBqfT8q/wCOJfnoMbXMEDO56DG1zBKHGptaVBaQ3EydGNBV1Rxd1R0OVdSYnJKdG43MD1aHyIdzERMbzk1L2ZWWnRIVERJanJ2UWJVeFZRWG9yTT1lqYfvJRLuAQiNAxLoAQocOW9rays1aFlOU0M4YlNsbTVkclNtdTlvSkx3PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCQ3dTRG1PYkpFcG9JVFM4N0t3WWp2QmdVVE5tc3dlT2ZPRElKQllrb0Q4aVA5UjBESUFWVHFZMW03T2VyTEFNS0xSUUxVZz09GAAgAigCMJ/Zl/X8q/wCOJ3noMbXMEDV56DG1zBKHDE0OFJ5dzFYSTY5TXZBRWEvb0x2dm5yditsYz1aICIe//1CL2ZCQnBvRG51c1liczI0SVNFU2xVWk50QzQ9ZUt/55IS7AEItAIS5gEKHFRCcVRaU0RvdFVtUVBXYStnS1kzYytzdjk1RT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnRPQW4vTFNiR1ZIODJzZjdVb0NRN1JjeXhSdFpNQW0yMjBoclhKZmxlY0tHS1dsSXV0QjB0VjkxN0I1aWlBTlpmKzlOMlE9PRgAIAEoATD4gan0/Kv8Ajj15qDG1zBA9eagxtcwShw1QkovZG1IT2Uvb2IyOXM3VWJnYkx0TmlMN1U9Wh4iHHhsbkJzejV3elVuQmt4RVEzRVFDaDZ4dnQxVT1lAAAAABLtAQj4AxLnAQocaVZDb3BnS1B3NFB0ajBLM3Z0dit6bWdFMXJnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCcHhHWkZUYm1Dc3d0ZGgyTGZCclRnQjdGYTFPMmorYzZGbC83NXg0c29UcTlsMFFFYW5qQkp2WWFSS2RFRWo0bzVsNzhmdz09GAAgAigCMJ/Zl/X8q/wCOKznoMbXMEDu56DG1zBKHEJRTUlBNmZkWEwyMUU3Y2pvMHVmSU5rcDVqST1aHyIduWQ2Rk1keUNJK0pLc1NaeS9aUXM3dWs5SEtzVT1l2NZq9BLuAQiGBBLoAQocOW40UkJIRlpNYnpIUDFHMTF4QkRYaitRMW1jPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCY0J2Ukw5c3pQN0l2NHMxV3Ruem5FQzN0UVlZYkZqeTdzUS9Da0Z1SytmbVZ2QUxUMzVhZEIwU0o3N3lFSU5QNGJKSHlOZz09GAAgAigCMJ/Zl/X8q/wCOK7noMbXMEDz56DG1zBKHFNQN05iakNsWFVxWFBFK29tMlpld0NJUFpZVT1aICIe//14SG8vTjZHaVQxNmdyaFZ6RDNROHRZRXRXbFE9ZTj5OTMS9QEI9QMS7wEKHFJXZnNMaXdDeHVvS2xYRSthZEJGS0Jkb2MrWT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnpiNk5XOHdYMm4zbWFDRFVlbVFtU1dnQ2s1MzI5QXVhaFdUSDd6ZTU3T21xaFB3OGFOQU5pTXdSb0NXczhybzd2eEZtUGc9PRgAIAEoATDLgfr1/Kv8Ajis56DG1zBArOegxtcwShwza1pSNlpJd3lJTFN3TDZqcDNMTXB5UVdxWTQ9WiciJf////8AAAAN+zBJRzF5blJkMTZSdnQ5UjQzeWlNc3hJLzFtYz1lAAAAABLuAQjpAhLoAQocWHFjR2Voc1FUVHQ0clBXcWt5dVFCMzQ1MUFjPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCY3JIMlk2cVBqQnd0c29lV25OWXU0ZTlMVjJ5QVJvMjBPaHdkSE5UVWtYQWZTdFpRQlVqNlpXYjZXTXFxRVJkNkFJaDZYUT09GAAgAigCMPiBqfT8q/wCOJXnoMbXMEDJ56DG1zBKHHg0OWlYbkZNVGtpQ2I4VnBuZDJ3UjlybWNlaz1aICIe//9YZVpFZTVTK3N4eCtsYk9zaWI4dlB5UUpHNjQ9ZTj9dtsS8AEI0wIS6gEKHFBLOVkwbURiaDhiNm1ZLzRyRXNnRmZnSGFmND0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjZxbUphWjc5UFEveXVkTEUxZzVXVDIzNWw4QlEwcmVFZkQ5NFRucDJVb1ZycVZKTGFhb0locVdlMEphZ0FRdGpEV3paQVE9PRgAIAIoAjD4gan0/Kv8AjiK56DG1zBAw+egxtcwShxmRTZLWVNXM0RFRnJWTHNGb0lQRHVWT0JYZDg9WiIiIP////pVL0M2VjY3ZG5aU0E1Q3BxNzEvRmZHMW1OM1k9ZRYpKgMS7QEI3wIS5wEKHG1nU255ZUVyNEQwTklGbmpFTHYxMnhYeDkwND0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlRQa1E5RGc5Sm9xVzkyZWxmbE1TeVIySEJwL2k2VTczTHUyYkZoUkhSMzNnbHJhT2dUelhRVGtBSUdKK0x4TmI3NGt6Nmc9PRgAIAEoATD4gan0/Kv8AjiR56DG1zBAkeegxtcwShw4eDFFWkpDQ0lTWFIwY20waDd3L1V2UzRTeDQ9Wh8iHf9XZEw0dTV4R2J2aHJveXZWVEdjbWl5WExwaWs9ZQAAAAAS9QEI5gMS7wEKHHhMcTF2bmk5OXVEMnd3UVBTTlpCVGdDTTdYRT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkNTbWdiNGd4Yllzb21kNmIyQW96QmFjcDJnZjdQNFdMeUh1MXMwUDdMdXE2cVByV055M2hRQlcyRUZZVHh3a3R3cnFRQVE9PRgAIAIoAjDLgfr1/Kv8Ajir56DG1zBA7OegxtcwShwrMVp4SndwTWFTWEtqSmQ1U3ZPVGdWUUpPUEU9WiciJf////8AAAAL/jBIZzRJZzhCUGllYjlsYTdxRjFLdi8vVGhFdz1lOPk5MxL1AQijAxLvAQoccDVtOTRkQk53alpaSVQzd1ZMenVGNFhKbnVnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCWE4xazcvN3pWT0cwYzAxa2JkNkNwMm5zN2dHR1laMTJSN2drbWxXaHBDUE5DT2o3bEtPSGVma1RwTW1OQkNteGRGSk1VUT09GAAgASgBMJ/Zl/X8q/wCOKHnoMbXMECh56DG1zBKHFRuRGdQdm9aWGRDWTRRdStpRWJHUDR4OFFBMD1aJyIl/////wAAAAS5WCt4R3A4Z3Z5VzdzU1pjck56UUlFaWFKSTJvPWUAAAAAEvUBCKwDEu8BChwrVGhNS1k2UnQwSkhraUVCbXkyR0N3TVduQzg9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkI5U1VLRGJzeWlYUTBLOUFhYnhIcUorR1MwdzNleTFVWTlUemZYTTVYdnhHT2hjYXUrMXQ1NFNGSTIzbFRqTnI0dmtwYWVRPT0YACACKAIwy4H69fyr/AI4o+egxtcwQN3noMbXMEocNFZFTzFuVG5NLzdkSER4WmIwNTlwa2wraU9FPVonIiX/////AAAABdQ2NldXa3NQR0YxSVp2endNd2t3c2F0T3VMVms9ZTj5OTMS8AEInAMS6gEKHDFwUjZNanN2NVBtUG5nSWJ2WDRaVUt4Y1Jsaz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQitJQ2xLbXV3TG16TXFGZnl5TnEwdzZTMzBYUTlPWlViUjFISFFxSytFcVRsTDExOHJVZGtXUHhzUXhBWnZXSU4zbjF5WFE9PRgAIAIoAjCf2Zf1/Kv8Ajig56DG1zBA2eegxtcwShwrbHllcjZYaFYwT0w0L0tqSFdKbXkxV3JzQjA9WiIiIP///945YnI3a2EySU51YVFEWjRuTFVNQlQ0TVNjQ0k9ZTj5OTMS7QEIkgQS5wEKHFJDR0txNmc1bk0zaVA1azZIRGhyYVYwM0FHaz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnhEdGVwZDdoWGpJOENwUHhKQ0Y3cWRLZkFleEJjQ2s2dzl1QVVDeE1LeUw1OXc1VHk5OGd0QXVmQkE4c1p2K0RKeDVkVXc9PRgAIAEoATDLgfr1/Kv8Ajiv56DG1zBAr+egxtcwShxId3RnbXQ1RXFMTk92ZDBBRkNPVEViNjdRVzA9Wh8iHfcvd3RHNDA2ZkFTR2h6MVZOazVyaXNyc3FONTg9ZQAAAAAS9QEIrwMS7wEKHHU3cHRQU0cwQnRlbHVSMVYrNHE0akJiTVZjaz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkpaMHlJYVluQU5TejZYZ3pGU25PMmtzdzNxRkp0SDR0MWV0T21KN0thWmo3Q3JUNTZHS2JQODdKbnR1cVIvNTgrVHBSNmc9PRgAIAIoAjCf2Zf1/Kv8Ajij56DG1zBA3uegxtcwShxhQ011dFZGc0FSVEFpdEwxMGJjSEk0VVdMdTQ9WiciJf////8AAAAF+jdEMnlwZnRGTUcyWkYxbFAzS0hpdURhc2o4az1lOPk5MxLuAQiYBBLoAQoca1ZxZUNhVGN1bmZ5a3hTOEtGQ3MwSm1STjBVPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCMlVCWk1LdEdoMkxoNHppVEZaYU80d3VIOEM5TXBFVzBra0IyUnJyR2VlVmw1RzF6RG05N21PUHl3SGJ4S0F3MnQ0a2ZTdz09GAAgAigCMMuB+vX8q/wCOK/noMbXMED456DG1zBKHERiTEdmYUF5YldQTEV3V01Rd0tJOWdQaC9ybz1aICIe/91KUzlCanRHRjI1YzJEN2w3RUJ0aFBJYXZTTHc9Ze23yt0S7QEI+gIS5wEKHGZ1aThuY0tNbTZLRkwrNGpTT1FrWVBTV1lHQT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlM2VzFzRFhGWWZXZE9nOVgyTW0rK1lEYjRYb2ttdm8zNE5Gai82WUI0ZjJSbWYrb09VNUhBOUxCdjBWeTdxRkZOOWxLcGc9PRgAIAIoAjD4gan0/Kv8AjiY56DG1zBAz+egxtcwShxJY3FsempPQnpjNHhnSnhiM0ZONldSVDE3d009Wh8iHflBa3hFNFFLRGVVNFhDbWZXV3N2WktVQ1V4R0U9ZcNHfK8S7wEIlwMS6QEKHEFILzJZclJjTXdpVkM1K1FYMTdoTVpDLzJjcz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjVGOVY3WWExS212emordCs4SysrVS9vVXBrR0tvQWxXSnJRWkJNN3RWSVdHSUhZL1JsRFhaUW0xeC9VSHN5bytuWHVJc0E9PRgAIAIoAjDLgfr1/Kv8Ajif56DG1zBA2OegxtcwShxSWWdITW53WVMzbHpGV2YyOUxsb0NxRGllblk9WiEiH////mZIbDZETzlhV2NJVVZZbEtMN09PRUEzc0hoZz1lOPk5MxL1AQjGAxLvAQocRU53VGRVZUR2Q2UwR0h5bU1BQTF1NkJidkVnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCcEUxZlpMWmJsaVdWelJkbTgydE9hZ1hVcEF2U2NSek5sV3Jvd0pJQzBsY21mUHZYalZPU1c5NHhROW5yTnJZbitjTlFVUT09GAAgAigCMJ/Zl/X8q/wCOKfnoMbXMEDl56DG1zBKHEhXOTJYTVJJaW9pM3pzUXJKNXRiSmd1NHZzMD1aJyIl/////wAAAAi3TFp6QkpLTkIvQWtVeU8rNldBV0YvQ2lHUHJnPWU4+TkzEvUBCPMDEu8BChxmVG9GaCt5UVMvVVkrUWJ6NUVlTzZYVzY5M289EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJRVVJYc1ZCM0NkRXEzbW52aXdSZFgraTlJYVBCTUd4YXAwUTY3RzJWVXJFbnV3dkUzRllTa1RxVzNFWktNb3N4SGg1ZUJnPT0YACABKAEwn9mX9fyr/AI4rOegxtcwQKznoMbXMEocYkNoZVV3NllMWkpEUWgzY0hxL21xQUpwRkJNPVonIiX/////AAAADexCK3J5aFIxaHhadkhsR1pjMytVbHhvVGVKVUE9ZQAAAAAS9QEIwAMS7wEKHEtoS2pKcURWTDljWGxDMG8zRk05ZjFpVUNQND0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQm1iOFozTVZiRlZpWEJJajBuUDAwZzVGZFgyaFRYbVB0c29VSUdUbzdWV2oyUis2Mlk2c3QxTWt0VmtQYnAzV3htREhSV1E9PRgAIAIoAjDLgfr1/Kv8Ajim56DG1zBA4+egxtcwShxEQ09DR3Bxa0lVZmFzZndtcUlEWDFzcGluU1k9WiciJf////8AAAAH+1JLU1FWM24ycHJSWHNrQTJKWmphOG92RklmZz1lOPk5MxLtAQj7AhLnAQocWFUwVVZTeXRZaGZ2eWZYOEVRYTI0N1hGOE5nPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCdjUvMVNnbityNTlpdmo0ZG00bjRxWmJVZnVnY2huZHhHYkZnaU1CMWlHWStsaDgwelFiN09GdUthMTFrelVNRGoxUlozZz09GAAgAigCMPiBqfT8q/wCOJjnoMbXMEDP56DG1zBKHE1PcHZaTDB6czBEMmdORE5USmNBMWprVFpVOD1aHyId/DFXeFdYQWI0K2ZJSThVeHY1MkQ2UTM4blZVRT1lIhcGHRLsAQiMBBLmAQocOWcwM2Y4dG5DcFRVR2pacnRhbm9kd2pOZ2tBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCRzFQQjhiamJBQkEzOHlkcTRqVVdOUUljcGdBNDhBRytMNWt3SEt1VmkvbHhZWlZ1WTRKMUJ1b285ZWhJUXdxdVBFZ3RyUT09GAAgAigCMJ/Zl/X8q/wCOK7noMbXMED156DG1zBKHE1XekpRZnd6cWNDSWdIdEp1bmNVVHdZd0dXMD1aHiIceDZTVnhkRnRHSm0wMHdlN1lIcER3ait0SUlRPWU4+TkzEvQBCN4DEu4BChw0MWJtMVc3cTR6QjJ3NVlTTlRLRDFtam9DbGM9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJPektYbzhoMzlHbGZTSzNjNDY0aTd6K3c2dmhnNitEYVlVQTJBeEQrNTd4RkxBZGlZaWtDOU12VDc5U1VPYjR2b3JBZCt3PT0YACACKAIwy4H69fyr/AI4quegxtcwQOrnoMbXMEocZlAwUUR4S2xLS1JidkxGUHFLRWRJeU5iL1ljPVomIiT/////AAAACy8vWVRxWlcxbUhIazRBSW82RTh4TDdlUi9HOD1lPWKsXRL0AQj2AxLuAQocN3BRV2pwTXdVTlBVZ0tzN0N5bUw4R2Fnbi9rPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCdytnZWN0KzlNbG5NRXlEOEhqUEJQdUJMK3FmTGpoZ0FkWWxGQTlsNVBDZmVBT3Z6YTF1a1JuNGpzZ25QZzMzRGpHSnlPZz09GAAgAigCMJeW34/9q/wCOKznoMbXMECg1qTG1zBKHHRzbk1JQU1SQTFKcVJTWmpya2orcWpwSkN6RT1aJiIk/////wAAAAloODNtUE1JdWg0UE5WR1JPWjluc0ltcGZpWFE9ZQAAAAAS7QEItwIS5wEKHGVPQ3FoaCsycUNRdHVoY1NuQWxBWXpTS2c5QT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnEzaWgrbVFHWHBsTEVhS1hqMXV5dDg1MlBZbVhlamRQbU4xR1hSU0RITkd6LzUwczd1WnRzenl0NjYvVFlQY2JIdDQ2NHc9PRgAIAIoAjD4gan0/Kv8Ajj65qDG1zBAuOegxtcwShxBeGxtTTdtR0VralU3bnNUNVl4WU96SHhSK0U9Wh8iHe9UdEJOVXRnMmw2dnYrTmFSWDVkWHhKOFROb3M9ZTj9dtsS7QEI2wIS5wEKHDNnaVFUSlBKK0hKYld1bzZtTkVIaEo3YlhyWT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnlScFVBdEJYU3o4dnY1eDlGcTdvZGcxMWRHRTlRNW9HK3g3cDNBMjc5bUVFK0UvSkZZVGg4Y2VwTWVSSExVdlNZWVZXQ0E9PRgAIAIoAjD4gan0/Kv8AjiP56DG1zBAxeegxtcwShxrcGpHMGszbEFNMmVWcWFSMTlTcUtJSG4wWjA9Wh8iHfRYL09ZWXAzZFBqUmhRUmlSSUNmenZZcWpuUmc9ZXZxaxgS7gEIhQQS6AEKHEtvcFpHZEZ2UHNzOFJOUUdXa2hTUDJ5ZlJ5UT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmwyNmpCSUNFTGFuQW9lK2JNR0crMkRxbndscU9ma3ZPVjRKOWMyM2JBemJtUGlKN0RhZUZXVHg5aGtTU0hHL2hRcWJZblE9PRgAIAIoAjCf2Zf1/Kv8Ajiu56DG1zBA8+egxtcwShxRWTR0OTgrYTFqejQvclBxOENrdmJwZVB5ck09WiAiHv/7YWJ4NndVcWw2WWo4ZllPOHgxMEZHNUZXRytNPWXY1mr0Eu0BCIEDEucBChxHdFBsemxHYWNNLzdrWjc1Q3pNSklOMlpFOVk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJqZFVraENZVENXTlhlYTB6LzFaamMySTArL3ljbDE3L3k4QmgxUWN3ZnNNTktkNGtDU0xodlR6RUJ1SDJVZkxOSE1JRVpnPT0YACACKAIwn9mX9fyr/AI4meegxtcwQNHnoMbXMEocK2lhN3RzVVl1QVFFclBQN2JOTEJXSWNNcndvPVofIh3cNlozaFd5R2d5NHd4MVJaMlpJUUprbEh1YU13PWU4+TkzEu0BCLsCEucBChw5TGR2WmMvaU5XWkFJRVR3RzNmdkVzU2UzaXM9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJwUTZlcXV1Tm1xdlZPNDZOMUtick02OWIyeWl6ZUNZbzhwK2N1QUx4cmhic0VhdnliYXFxVWdqRWhYR1UrUGdtQVBLckFRPT0YACACKAIw+IGp9Pyr/AI4/uagxtcwQLrnoMbXMEocTDl0Zkg3cVVkSjkvOFFwY2dON2NMcUhOdDhJPVofIh3+Q0NWTGpFeHI4U1o2RXc4MWFkajFrMG5CWkdnPWXbPJyyEvUBCNgDEu8BChx6SnFqVS82QWxGS3FUYy9MY1prdmRvUG1HSEE9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkI2OWxtQ0hjRkxQRHMwLzUvZ1ZidTVVdFNxdEJwdksxYlBmUm9mUk5pYytldUF0WVkxd3o2TWhabnVia1gxODZGd2xXYTdBPT0YACACKAIwn9mX9fyr/AI4qeegxtcwQOjnoMbXMEocM29YQUszS3JWR3o3OVVQSlRDTVRwV0R5Z1dzPVonIiX/////AAAACt1nWndUeDg1blBlc1NqYjJOWmp4T2lnd3ZzOGs9ZTj5OTMS7QEI+QIS5wEKHGNoTGY4WUYxZC9JN2ZLOUEvRTlUYmgzNDllUT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkpIV2I3azQwMUZXbEYzTGRUZnU3VGlwbDc0b1pMb2l2NlpOMWhndEczRzYwWGxGWVhDYUY5RkRyeGNVdEJ4WTVUa2tzS3c9PRgAIAIoAjD4gan0/Kv8AjiY56DG1zBAz+egxtcwShxHWHNDODRaZEFnSG1ZRG44RkREdzMrV0lWZlk9Wh8iHfNkZFdoMktSNGFLOVRRSDBvUUFxR2F3eEhZblk9ZamH7yUS9QEIoAQS7wEKHDRLVk5VZ3BXTTlZVU5lS2duVDhhK1lmUXVpST0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmhhRWlKZysyN0trS08weXUzaFJlOTZtd3Z6UmtYTzJIR3V0RXdOckR5a2FiOXhyOUZLZkYrbE1ERGIyMGo2ZGRQWTVFSHc9PRgAIAIoAjCXlt+P/av8Ajiw56DG1zBAodakxtcwShxqaE9OVGthOXpncmVUbnVHdGlybDBTYkVvNzg9WiciJf////8AAAAJ7URKQ0ZCaWgxRFJKbGZieW9kUUs3OVdPWkdGdz1lAAAAABL0AQj0AhLuAQocOW0ycWtHcFhkQXlpQkFsSkJtbFkwa2pyaEprPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCcWxtTGVwUURiR1pHRnc5T1dXMVhMZlVrbzBDUWw0THBTKyt3NlphaURQeVhsd1QyNW9NTWpKaFBabTh4WHUrbzROems2QT09GAAgAigCMJeW34/9q/wCOJbnoMbXMECg1qTG1zBKHHdvaFFJWC9wWXpTakxha1ZyRk9pM0VId2xVMD1aJiIk/////wAAAAlDQThCaDNBK1g5bk5FUTFJNGNTbVRxMHRqWW89ZQAAAAAS7wEI7gIS6QEKHFhOU3dmM2syNFRsa0Q5aFNuUW41VnVYWnp3cz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmpieWtPZmVlbFFFTlVuTkZOWTMwdHQwQlVNaExQZlkyN1dEcmlyVUVvbTFFUERGZUd0amdwVUZDYnpCdGV1NXA5WTJKMlE9PRgAIAIoAjD4gan0/Kv8AjiW56DG1zBAy+egxtcwShxKZXZ0ODNDNFRGRGp1N1Uxb2pPeFhvd24vNFU9WiEiH///+i9hMG05UTVaSzhldmo4OUQxWTFtM0hEVTljRT1llhB99RLtAQiGAxLnAQocTFlUVzJEZWFBbDdIUVozTHE1WDBEUjVjNDlVPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCbWZTeU1COGt1LzNQVjlQVTJXeWVNdmlTTUhMRDhFUC8wUEFjT3BqRTZRUGxSY3ZWU1UvcXp1cm9yeXVMWVNXNkVJTm8zZz09GAAgAigCMJ/Zl/X8q/wCOJvnoMbXMEDT56DG1zBKHFZXK0Z0ejUvOUdLU20ya092VUcwYjd1VU4zST1aHyId/nhDMktTNG1XdXFqNzllUlBQb2ZHS0xwV3RBRT1lCdwL7RL1AQjwAhLvAQocYVZWM0lBRHpRWTdPOU9IaG93TDByM3ovR29zPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCOGN3dGw5dWt1b3ZGQWNNNGN2TlBlZ1cxclNuT2R4QkQrQ1lXSG14dURIdnRMWW40UXJtaDV5OEc2ckl0MVZTNGZ0Q1pvUT09GAAgAigCMJeW34/9q/wCOJbnoMbXMECd1qTG1zBKHFRFUEVuUW1sanE4cWFaTXFoWUc3S0ZOUG00VT1aJyIl/////wAAAAj+TE50RDkyMDNJaGlmMGNNUllpeVFVMC9SSno4PWUAAAAAEu4BCI4DEugBChxGS2M1b2tUS0lvVVdXSEI0R2RFL3pBSUZqL2M9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJrUElPVlRkbUcyY09RcU1kWVRGTU05c1JMOU10VFJEOWRQL2JXN2Jhb1d3QytNYjZCU2dBOUNiSTZ4TEYyTTd2OVUyNG5BPT0YACACKAIwn9mX9fyr/AI4neegxtcwQNbnoMbXMEocQ3pLL2VUNE5QTlluQ2ptTWVNcVY4MzZPb3FNPVogIh7//m1Hd2MrK1FLN3gzTnZCcS9veEFqdUwvNm5BUT1lOPk5MxLvAQiJBBLpAQocSFFHRGpzVG9ZdklGaUdGcVRDSlEzNUd1c2ljPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCT2RwZG5qdkZEamhxbDBteGlIUm14ZHREZGVWS1FYcGswSHNMSGF3MlZSaFBvYlZiU09ZcUJSTGFzU2lYUDFNYTZOcnhyUT09GAAgAigCMJ/Zl/X8q/wCOK7noMbXMED056DG1zBKHGcwTkVxdXZkQzJoZENsOW5nRDlia3NLNzZ2ST1aISIf//+oMTcrdWlzaCtDWGdhdnFLRWdDWVY4RlZTR0xRPWU4+TkzEu8BCOwCEukBChxONHNlQUhwcFdOa3hNRDBDVzhRVjRiY0VONFk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJRY01YaDNDVUtPRzR5Mm9NNjc4Tkp2ZFBnb2ZONHB0d1FwUVlyMGRjanJmUG9rOEJleW5HaXNDSnE4cCtaVlcxZ29qSDRnPT0YACACKAIw+IGp9Pyr/AI4leegxtcwQMrnoMbXMEocQnVTTG1SRGNOZU00bVZhZGZ6dnlVMVJWWVZzPVohIh///+tnSld1TnVBOUFtOWZWN2ZISWZMVnNVSUxuUHM9ZVIKV0gS9QEIyQMS7wEKHDVyMU1PbzMxTkQ0MnFLdjB2aVQvVy9DVzR6OD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnNOakhNeEVPaGp6bTFTQmF1MVlpY0YzYW5tK0FKVlZKTWM5MVFSdXZCWkN5NzlhaEhGR2tHQitBQWZObkViZHdISTFCdXc9PRgAIAIoAjDLgfr1/Kv8Ajio56DG1zBA5eegxtcwShxHT2d5SWFraFlFRU9KclRpb3d4S1FTVVh0YTA9WiciJf////8AAAAI9kdZN1NSbTFLSlJwNGh1T2FSWEFaQ1RYTEhlTT1lOPk5MxL1AQi1AxLvAQocU3AxSXRVY3VWS2hlcmJCOFlMVndzcG9TMjF3PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCTTdjSFZrRWR3L0M2TXRnck1oR3o0RTA0TVViVmhLcUhIUWd0MGZtNXB2RUZuUzdvNHQzY2VLcUhpT0MzNTZicFFPSGFpUT09GAAgAigCMJ/Zl/X8q/wCOKXnoMbXMEDg56DG1zBKHGNDVEQ2OVNYeDNKY21VQ0lVZGtPZUFnTlFPaz1aJyIl/////wAAAAbceTZQRkdkbDdvY0ZDQmpIZTlrYmVScmthS2t3PWU4+TkzEu0BCP4DEucBChxMekJpWWNodjVoNm9qWERhMmQraDFHalJicUE9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJKK3hXYTNOeWFiRW1Od0REVEwrdGsvQWVLTVJIdW5ZV0Y5WmwzaDE2SEw4aFh5a3VpNlFsNXZFOXRFSHNIalgzRjJtUnBBPT0YACACKAIwn9mX9fyr/AI4reegxtcwQPDnoMbXMEocVmZpZnJCWnk4V1hnMGl0U0dlN0Y5UUkvTHdzPVofIh3+Z1lPSTRxbzl2RVdQMndyV2pDZEpNRmdyVytBPWU4+TkzEu8BCJIDEukBChx1MWJRNHVjT29Xb0R4djBJZ2NyWlIrdDM0cms9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJnNmwvdExPb1ZxZlkra3VpRmdSWStaZ25GNGszTklqYnFPS1ZyMmFqMGRXWGl6bzVUSEUySmJCTHpXTmhrOVNLNzNzRW5RPT0YACACKAIwn9mX9fyr/AI4nuegxtcwQNfnoMbXMEocYjdrL0l3M3NwdkF2TlBwNDVvSUZZR0VYR3NBPVohIh///9xVcVl4TjdOVDJoZUVzR3JCQUg1MldvQUdwU289ZSjQ4akS9QEI8gMS7wEKHDlEZlMvZjRoTStXZE5XVUk0QUNOWjNHVyt0MD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjRjNGs4RlVnR3l6cW9WT29DZkppRUVHY1Q0YTQwWjF6cXZqUWxqNndtUC91VFg4RDNFQ0V5VEVHa1ZpcUQ5OCtGWFBLbkE9PRgAIAEoATCf2Zf1/Kv8Ajis56DG1zBArOegxtcwShx4S01VZlNFQ3V0OXErcHNDc0R0RGI1L295NWc9WiciJf////8AAAAN2HZodlR4OGpPZEliUDRmNkhFdDh5M1dsS1Zubz1lAAAAABL1AQiyAhLvAQocdnZlVHlhRUdMOHpYSFA2UXhkZ3ZKNjBlUTFVPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCVVNlSEttTmx5elB5UWRQUmNpVElDTUZPMmMwdDRwNWRtWkRVa1FPSWJxVzNkaVl4azVGRmIyUmI3L0plQ0RwaHNRaVhBZz09GAAgAygDMJeW34/9q/wCOPTmoMbXMECZ1qTG1zBKHFIyaWNIbVVvdXdIVnlkQVYyRmRpUUZVVTkrUT1aJyIl/////wAAAAj3ZDdqQnFkNTJXbEN4OVRPVVJhYWVKY081eEQ4PWU4+TkzEu4BCOICEugBChxZeDU0cElrRFBUU1AzamtSeXZKS1lMRFJVMWc9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJBcjhzVjJUSVZwVWdUR1NJdjNEUVhaOVB1L1N5SWdKdnlMUm5Id2dRWjI1WlRzTnBsdzcwaDJMcDVmN01oSHpFRkR0UmpnPT0YACACKAIw+IGp9Pyr/AI4k+egxtcwQMfnoMbXMEocd3JYQ0ZDT3YrbWhJRFVPQnRUeWh0T3UzaW5vPVogIh7/uE1JbGIrUmtLOVZ1MGZTT1I1M3dobkpOWFF5RT1l/DxjKBLuAQiIBBLoAQocclMwdEN3UU5uR1FWUEVHZVltUnM2VTNrNnJnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCTG1uZlZENEZhbmhMRTlDM1MreGtoT1Baem1za1VOSFNkVCtDaEVsanJDN3AyUXhlQWR1bFliYWRVQ1lzZmUvYlFIOVh2Zz09GAAgAigCMJ/Zl/X8q/wCOK7noMbXMED056DG1zBKHHRQdHF5YnVuS0RXZW5MaWtiOTBzSDNrQkJPbz1aICIe//9QUk9IdTBUaWx6aCtwOG82bzAxTU05L3gyTmM9ZTj5OTMS7QEI4AIS5wEKHFJwOHRlanlhS1ZQTWxDQlBWMEZ2WEFBZWFnVT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlJtRGs5aEpzM1BqZTV6dVF5T2dOUXUwWUxKNmpsZTY4U2RjamlXaGtHVHRndTUxd1VaOTdRZjVlOW5BbFVTa3pkR1VQUGc9PRgAIAIoAjD4gan0/Kv8AjiS56DG1zBAx+egxtcwShxiMUwxSDl1RHVIN0wwVllzaDRJMC95MmFiOXM9Wh8iHf9jOFphbWlDM3FpSlVVdDh1RWhSWGlOZ3R4dDQ9ZTj9dtsS9QEIsAMS7wEKHDRLdTZ0b2lWRTRlamhhRitFTmNtUHV2TEVFaz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnFNYk1GeDREWE9hUUtpSkZvZUhEQjFwZi9FeWdYeHorY1c1MnFrbVpVSXFkT3Y4aHZHc2huMlcrUzM3RWJlZytOckVLL1E9PRgAIAIoAjCf2Zf1/Kv8Ajij56DG1zBA3uegxtcwShxhSlN6WWdnK3o0UHR2dUo1OUpmU2p0V2xHMlE9WiciJf////8AAAAF/XdNLzNPTytKQUwxMEIzTjhUUGY1dnpQM1dQcz1lOPk5MxL1AQilAxLvAQocY3BwVjhRd2xWV0g3QkFjUVFNaSt6QkZtTVFvPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCcTlBdmNXMUFwOTlQejY0aFVSQkJjMlU1OEJQTFFIMnFSRkxZd0pWVWZ6NzhwTldweURoZm4zWjFBWmRlREdEYTJZblVRZz09GAAgAigCMJ/Zl/X8q/wCOKHnoMbXMEDb56DG1zBKHE5lY2Z0WklRdUt5K3BxSXMwdWdYd0lWOGRVUT1aJyIl/////wAAAATuNFM0SUlmcW13QnNlaG1OS0JJNjQ1a1B0NUFzPWUjNS5ZEvQBCMQDEu4BChw4M05CbE5KQjgyYTdwZVhWZmJTMzhPNUE0Wkk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJSY21SdHlYbnJLSFhrRk1rM29yYitZd0l2cW8zeWRzSUhocHZaVm5UUjN0dnMxUzZBK2FYQWh4cnlDWGxCaGNHM2FKeElBPT0YACACKAIwy4H69fyr/AI4p+egxtcwQOTnoMbXMEocM0ZncU1CN0dYTUNYamtVTUkwelhIakFzeXcwPVomIiT/////AAAACDMwTjlEZ1Z0UDV2Y0lqelhCU0VvdStqWERKUT1l2NZq9BLtAQjcAhLnAQocTnJ1Z1FuTFRBQkNydTJ6aWFTa01CRjNBMUFVPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCVzR4SHJZelF4ZFhVQzZlazdzbEVlZWJyc3hQdW82d0FUem16UE96KzhtWk9YM3EyUlhPZG9OTTBKNStvNmlXOURuRUZ4Zz09GAAgASgBMPiBqfT8q/wCOI/noMbXMECP56DG1zBKHEZzSVNxemNjNFVOVHhGVXpRbmhSTC90dkQ0OD1aHyId+lUvUlZlcCtiRUNodVkvTmQ5T0ZzMHZEVGo3ST1lAAAAABLtAQjZAhLnAQocS1pUeFdzU3pLNjdublE3blJaNUI4SktObGlvPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCQUFLaEZhOXNIenBoc1F4QytBMHNqM01BSjEyTGNZYnZoRXY3UFpmRStnVTNLVDhKck1XeENxcTdWSXJ6aUhxampFOWhuZz09GAAgAigCMPiBqfT8q/wCOI7noMbXMEDE56DG1zBKHGxvTmEwVmZ5VlBEejNoaUpmV0lGZlgyV1ZoYz1aHyId00ZKd1JzdW9Ed2NmZDltVzN3R0YzZExoRDJ2UT1lNiTYaxLuAQjnAhLoAQocWkZ0SDhzQWdEWHk0Wjd5WDF1eWN2TC9QRXBrPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCQ3kraGx5cHF0NCtxN3lMSTFHczBpUW0xck1zTVQ5czU2U3UvdEpsR0s4b3hTeGxRQXM1MnNzS0dDTVZZSE10NEl2ZWt2QT09GAAgAigCMPiBqfT8q/wCOJTnoMbXMEDJ56DG1zBKHE82VVNremZjdldHY0UzWS9ZeGs4Z0s2Znk1WT1aICIe//1UU21RNXUyNThNRmVuRFJIdTMxK2dydFBuL1E9ZeEuWRAS7QEI4QIS5wEKHEpINk9NZ1R5d1hVRzB6a0RkZVNuWGV1Yzg3MD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlNpQ2l5YVp3Q0NjWVcrdW5OdTFnWjNkT1h5ME92NXo4MjFWU3VadElZUjZWdWtLRTV2cVFEZU1lMW5YYUVWeWNnTDhaN3c9PRgAIAEoATD4gan0/Kv8AjiS56DG1zBAkuegxtcwShxrNURFQWRjMVUvTmlhK1Q0QWhWU3VxajVsc289Wh8iHf9xbEZ0eEw2MlZhT0tTb2o3ak9ZRGxhNnpqVUk9ZQAAAAAS9AEIswMS7gEKHDRBOGYvZXcxVHQ0WVE4dlFkRVRpTWw3bHZYTT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmdBemw2b2ZEWGt3STVYTnhFMzM3L0luOWZmelBubzhnRzdadEN5U1BZVU0zTW54aTNBRmJwRFgwNEdHdHZxMzM3NCszUUE9PRgAIAIoAjCf2Zf1/Kv8Ajik56DG1zBA3+egxtcwShxZanJlSHNFSUJJWmFrcHBFVi93S1pGQytyVkE9WiYiJP////8AAAAGc09NSzRZY29XSmJtRnh0OHF5MEFVUkN0cENJPWU4+TkzEvQBCLIDEu4BChxyWHhsVDdGWFhhY2dTd0hxd3hucnZqMXBtWEk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJNWUw2d01naGFBWUppd01XM1JwTnFqbmJkcmRPTjNFNlA1cE9uSVJxK1dYNVMvaUJRSUgrVDlQdXJmWXpYWE92OTB4aTJ3PT0YACACKAIwy4H69fyr/AI4pOegxtcwQN/noMbXMEocWDVxUjBHZjh3bmtyZnQyNGg4Q214ZVU3c29NPVomIiT/////AAAABk1NVTlsYTBEWWZTWGhnYUUwb3BxeEF3N0ladz1lOPk5MxLwAQjSAhLqAQocMG5QZ0lGMzVya3dmMmFQclMrSVdxc2NFYUFVPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCR2U0ZnZ4WlRWNTJQK1hFNHMwdzlTYngzdVZqTWlmYWNVVklnRHNtNTVDNlE3RXJ5cW9LSUk3S0hsZmhJcGdOaGhSaDFPZz09GAAgAigCMPiBqfT8q/wCOIrnoMbXMEDD56DG1zBKHDZBZTZ3YjVVU3ZGTXNWaUVsUHA4SmpYYWYzcz1aIiIg////9W9pSFpZVzRpZ2FUd09YVmhtUlZ1amtPUGMrYz1lbgrQWxL1AQi+AxLvAQocNlAvYkJMMzZRbEt5WkFQTHhMaHc2ZmkrU3JnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCc21DU2JwTG1MVXdqcjUwY3ptYnp3KzVudVJJUGZ0b2Q3VDRLTjRzU2RqVUxIa2p3disyL09iWHNQVi9yQ0tyRXNFOFV3UT09GAAgAigCMMuB+vX8q/wCOKbnoMbXMEDi56DG1zBKHDlEcCt1dm1SelowZHJ0bHZwSmJsYktIZFdTMD1aJyIl/////wAAAAfvSnhod0dNTzBSdUh2UGNtTCtxOWdRY3Y2aDVJPWU4+TkzEu0BCN4CEucBChxyMkNQV1pVTUc3TjBkS2JGT2hPdjB2TjZwdEE9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkI1MGV0dW5DSHRzWHNDWFVGLytRNCtzblFMVjNESTJ3RE9KRzdtU3g2V0tjVDR4dkZkRStjTkV1QlpLbGJtbkU0RFNXTU9nPT0YACACKAIw+IGp9Pyr/AI4kOegxtcwQMbnoMbXMEoccjhCWmRBT2JXMXB4UG1iYndnd3QyaU5hZTdvPVofIh3+SG1WaWpBT0J3QUF4RUhyemlxVTlLSXNuUlJvPWXcqbEaEvABCNECEuoBChxHVit3YUdldFMzSHRlL3JmOG90M0cwWlRSWlU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJSVmMwWUZJNm16MDIzdVQyYmFRZ0tkNEVlRkViOC9tMXVHSDhVOFlsWDh0ckdhQzFsTEtXczZDcTVsMytoc2VmQzNJWkN3PT0YACACKAIw+IGp9Pyr/AI4ieegxtcwQMPnoMbXMEocbEh0Y3JnZ1VqN1Q0dDZrbXBPV1prMXlLRDV3PVoiIiD////rVEkrOHZmNURIMXlZcXo5b3czUUJqa1lGTFd3PWVi8rJPEvUBCOQDEu8BChw5dk8wRHVzQzJDbVFJT1dJL2hSMmZYQ1IxVEU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJISExhWHgvK0h3NzNxV0w5Zms0ek54bWRaTW0zVmFvalNMdTV1R2FrYTJraWd0Zzg3WkdVZnZQN1Y0Qzc5MXZMb3dCZWV3PT0YACACKAIwn9mX9fyr/AI4q+egxtcwQOznoMbXMEocSHBLOG02VC84a3lUZ3JuclNOdEROZzdRVUNRPVonIiX/////AAAAC/pQdHR6ZENNRlowOUpiVzlJeFVsb2c1NkdzNEk9ZTj5OTMS7AEI8gIS5gEKHE1BMDZ3a0NoY3BzWFhrRm1STjJJcjAwbjhjUT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlpXQmxZZ3hQWGJNWkhhTDRFazd4ZkIyWFFnMVFFSVZWUzFTUW8ybWswMFM3L2RheFdkbUhsZko2ZmxTZVBtT3NYR3hxRWc9PRgAIAIoAjD4gan0/Kv8AjiW56DG1zBAzeegxtcwShxKZFJhZEJINFpxaWpERWhyMXQ5NFpZOXUwZGc9Wh4iHHF3ZU0rdTR0ZnV5TzJpQS9NQnM1TjRHVmdCOD1lT+QHGBLtAQiPBBLnAQocc3VzUkFQVytRVjdOTDhjbmlXS0pVMmY2OXNBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCV2RRSjluUW1ORGhMUjBIS1JlR3NGNmFkVlRHdENLY2RRVVJVdFFjS0RGaXpNajBxUVdzKzdoTFN4M2gzbjFPODhYS1AwQT09GAAgAigCMMuB+vX8q/wCOK/noMbXMED256DG1zBKHEdNK0V6SVJpR3doNUpZa1Vla1hJY0l6c0NhVT1aHyIdvG1OYksxamlZK1NmSjExYmsyMkhrQktyYXk1QT1llTmzsxL0AQiiAxLuAQocZ3pSc0VFeWRXKzN6VTRtRmlGN1Vla01qUVpNPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCQThDaDY1eWY1bjBYQUM5RjZPL1dXOUVmME1BdzF5VnlBUk5uUVA0YTRQa2d0WU52MEhxaTZKdnh1MFl3anlya3ZmL3A4QT09GAAgAigCMJ/Zl/X8q/wCOKHnoMbXMEDb56DG1zBKHG5aVFdmbTdiYXFKaTU0NVdjMlRMeU9IWWJMWT1aJiIk/////wAAAARzam1VQU5NanhzQTYrbjF2K2NWUXZyYlhFNWs9ZZmfzcMS7QEI+gMS5wEKHGFMMWZKd3RkZmhWMVVOd0hNTTFzSnBTUFVQcz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQllKdUhJb1YyTDUzZWdOd2w2RDBOYnJSUkpDQStIdjdRaHVZWlBZWTZybTF0d0NIQTVNejNFNnZwbXJYWkI3S1E0VE9RblE9PRgAIAIoAjCf2Zf1/Kv8Ajit56DG1zBA7+egxtcwShxEVEhYOTNHaUhyeFRKTXRxeHZwMFNPc2lOZ2c9Wh8iHe5zTFNtbm5saGpJWG50NkkyMDM4Q0hqWGFwMFk9ZdjWavQS8AEIzwIS6gEKHGNHNnlKdTdUNUZKTkZ0VWw0ZmZlWjBoVFlqUT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnlBM202Z0ozaGJHbE9CenBQSXNueUFnT1c2ek5vS2VFMk16SVdoVjhYc3BnUVpiNzBPeE9CeEdQWURNV0c0WGl6STNheWc9PRgAIAIoAjD4gan0/Kv8AjiI56DG1zBAwuegxtcwShxLQTJyVjlldUJkdlI0WWdVN0RZbC9QbWlQTzg9WiIiIP///6xIeW4wNmNWVmdqRUpEdWQ1Wm9KMEZhcXhCSlE9ZSjQ4akS8AEImwMS6gEKHGR0S1FCd0xCZXhXR29BK1NqU0l1elJyUGJ3OD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkRuTFhyaVlFMzU4Z001QkNsUTVBVEwrMGFicXQ0L3BDenFlR09INGFVNldUdDlEcWtjRDBVdDIrc2l4alVWMEVSTThGQUE9PRgAIAIoAjCf2Zf1/Kv8Ajig56DG1zBA2eegxtcwShwrVC9pb2d1ZFV2emhCcytLNzBkZlA4RkluNzA9WiIiIP///7wyNFkzS1lGQU9EdzBzdzAraFBFVWZVM2FSbXM9ZTj5OTMS9QEIpgMS7wEKHGlHdmlxWWk1dFRHY2tORy8ySkNUMFpWaFp4UT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkszMmM2NmpjU0pRcXUxMWhWNjRBZ2s4QjRWeFV6c2plSXhVTEV3VGNKd1NncVZLZDEwMGpCMSs0bFpvd3labys3ZUlyUlE9PRgAIAIoAjCf2Zf1/Kv8Ajih56DG1zBA3OegxtcwShxJcTBUdlF5QnRDcE0rb3ZCU0JTSzVReTZHSXM9WiciJf////8AAAAE91ZxU3dDdEx2THZlQ3pFdzR5eDJQSVlYZDFuYz1lQGDrMhLvAQjtAhLpAQocbUVmVmxQRWhKYVQyWWpMRjlxOGZ6cGkxV21BPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCM2FQMnpHQUJTZWhLa2Z6RFlIUFdXSnZGYUw4eTFncmJpY09vanhKb2tPSk1SQlRVTUkxbmdaMGJscGJZcCtxQTV4VWhuQT09GAAgAigCMPiBqfT8q/wCOJXnoMbXMEDL56DG1zBKHHNGQzU1RWplWjNzeUhGVmxaODZGb3EzaGtYND1aISIf///1T0VnenFQYlUxV2ZDeXJ0SEdpY1JpY2VPS1FrPWW79j8EEuwBCPUCEuYBChwwRnpDT2VNNmRBVVFSazR3SWkxUmoxNjF0WDg9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJXdmo1OWVoQzRWRkJzUjlTd0pHWW5HQ050RW1JZnhVbzV3NDROV2VlMk14Q29vYUlpQ1pOallhSlFuSmluZ3kwa2x5NGN3PT0YACACKAIw+IGp9Pyr/AI4l+egxtcwQM3noMbXMEocS2c4THJJVlIvSlJ4Q1VNRm5teEJZRWZES3l3PVoeIhwyVm9IT0IxNjlNOE93alh5aDhkc1BBaDZqa1U9ZRAw/+QS7wEIyQIS6QEKHGZSZDJDQUhobEZ6ZytkTHZ1dUNDUTViRUdWdz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkdDMGZBdnB2YlpxWjJ0U2d1RmlJY2JTeGRkaWZveXpka245SzFsSVN0RExYVzEzcXdlelRFY0JITGpQMTJ3V0xwdStWS0E9PRgAIAIoAjD4gan0/Kv8AjiF56DG1zBAv+egxtcwShwxeDJnbXBRSVl4bUVaT1hHVEg0bnh4Qi82M0E9WiEiH///+jgwZm1vMDRmVTNleHlpYTZmWldqcy9pellUQT1lX8AXwBLuAQiLAxLoAQocb0ZCQWNhUzk2MlZqYnI0VHpibm9zOVRBRElRPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCVG5RMXlWaWVMMkFJTllXR1FPZjg2QThpcHA2R0NzNzBDMlVHYXpqOHVuVm4xUmxQdVUyem9qZ2dJalRUYjRrVGxpanh6Zz09GAAgAigCMMuB+vX8q/wCOJznoMbXMEDV56DG1zBKHDVLeW9NWDVLQWExdFZpY0VwSWlLOExYbDFUUT1aICIe//RxU0xOTnJXWUZwampFRjVoN1B4aitaay9yd1E9ZU8WQooS7AEI1wIS5gEKHGZ4eXNVQ2FyK2U2Nkc2aGlHRWZOK1k3S1U0az0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlEwNVMyOGpJaGhzWnZTYnYyanYwY0tjblNLcnlsSDlENCttczdGbzhIT2JFUUJxbFNvMUp4RW12K1Y3TGJZZUc3dmlIQUE9PRgAIAIoAjD4gan0/Kv8AjiM56DG1zBAxOegxtcwShw2K1RuY3NCZWNJTFQzWGNJVWYrUE1jSmtnU289Wh4iHE5CUFhGaFNnOXArVDJibENGSklmL2lxcDZ3Zz1l6AKszhLwAQihAxLqAQocakpkQU9BV2M4cWtSY0lwbndCZldtamJvWWVNPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCQ3J2alhZVEVZOFZyMVRlWGJVY2Q3bWk4STBuQ3hCSTRiMDhBVkdlaUhLaldoTkRPOWo5SzBPbER2eGFKN05vcnJtVm93QT09GAAgAigCMMuB+vX8q/wCOKHnoMbXMEDb56DG1zBKHE9Ka3V1SmdMZ0ljSm9tcDk4SE92cXVUdTlnND1aIiIg/////nVLZEVneHR1NW1LN0h0U0RqOHVNTHRka01nbz1ldtEJAhL1AQi3AxLvAQocNU82L2NDcWJGR1hLL0trMmlSMEllV1NpQ2VBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCMDhMREIyZVRYVzczaEFna0JQVXVXQll3SzBKQ0JZWlpjUUVoU280eDNkbjdxQmVtWGduTXRlWmloRXU5L1FSenVaaWdSUT09GAAgAigCMMuB+vX8q/wCOKXnoMbXMEDg56DG1zBKHE9tK1pOeFQvdFBxV01ja3owaG8xSGR5RlIxTT1aJyIl/////wAAAAb3K0tBZ0hnYWVvSUF5K0V2UkQwZ1BhWTF4U1JFPWU4+TkzEu8BCMUCEukBChw2ZElqd3VRL0NpaGd6aVQzc0w2L0xUM2hkS2c9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJESDFsYkFUWmwwN0k2UWcycktuMmxuR1l0L2tjcHM2aEhhRFR1MDhmeGE0dS8xREEwclJXcE5xVEhna25TZHJLSjNROGRRPT0YACACKAIw+IGp9Pyr/AI4hOegxtcwQL7noMbXMEocUnhnUGdBR3dob1VaWTVEdGthS09YYkNiRkRrPVohIh///6pSSHlERHY3UHRmUWNsamFRbUZoSEREY0FlTkE9ZXOh0wkS7gEIwAIS6AEKHDUrL2o3SFkyRmxzQWQzK29vYjIrOGM3MFpIZz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlpyMnN2c0pmaFB2aElLZFF1N0ViUDcxWmxTRVcxeHZobm1YcHNxUTRmanZXcVRQVFZ6WjMxYVFDNUwxOGFCYVk0UDd4R0E9PRgAIAIoAjD4gan0/Kv8AjiC56DG1zBAvOegxtcwShxDc05XazNxNWsyRW9nN0RlNkRHS2diWXBQbVU9WiAiHv/2blQ2eHJXNFpNR1V4NEtsSDZFNVBsSExFNTg4PWWo/kgEEu0BCLwCEucBChw4eTM2bFBZKzNocEtjU0s1WVM3TkR5TjBLMHc9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ0LzZqSlFiVnlPUVduZVI4ejNRQUFWeWJXUWpGdFhxQWVyRzlBaE1iQW5xdXZoTkZrNE5iZzlicWt3NXFmOXplVGFlWk5BPT0YACACKAIw+IGp9Pyr/AI4/+agxtcwQLrnoMbXMEocQ2orek02NHRJNHM2VThxN3lwMG5PQnhIaVV3PVofIh3/ajZ4TER0RWxSUGFRUUI1WnNycTJGb2oyUURJPWW7TklZEvUBCK0DEu8BChx1c3M5NFpHR1VnYkxoMTlGYlI3WXdTNFQ3cTQ9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJBRit2aWNlazJsVXk4V1J0L3VtbVc4TWxzTWE5OWU3VExYMWpuU3hZVXJkRGZ1OWJRVVN6TlU2dWdZSlprMnBwSld4UnZ3PT0YACACKAIwn9mX9fyr/AI4o+egxtcwQN3noMbXMEocUFBzZnFVMHJXV0JJb1orUGVHYWNUbGRPQ01NPVonIiX/////AAAABepacGRWazNMLy9OcmEvUFlzaGVZUE9XUCs4U1U9ZUt/55IS7QEIugIS5wEKHG9kYzQzYnl5b2hESlBlQzE0Y0V4bm5WRXF6dz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnZ1eG40ZXlyNTBKUXJ3VnllTFhSVU1BNFFxSkw4bFg5R2xRb2xvT2dFWk5JR3llMW5Zc0R4cWtqTVhURmI5a1Vnb25QclE9PRgAIAIoAjD4gan0/Kv8Ajj95qDG1zBAueegxtcwShxGeSs5UmQxVlJ1OTN3YWZuNzlrQURSL3NPbGs9Wh8iHf1DOG1GMkVKOE5XY3o2TWxMVWFqeVRPZjFmMU09ZYCH+gUS7QEI/QMS5wEKHGlIQUlyOUt5aTBFeG1nd0ZvZmhYczFCcGEyZz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnUrZkRMS04xZlM1akJGNGNub1VjRTlBZ2NwT3JoNG1DVE1neFFJK1NmdjhicDg0aW5wdllJWG1hT0FtMm9oOE42WTZsRFE9PRgAIAIoAjCf2Zf1/Kv8Ajit56DG1zBA8OegxtcwShxOdVd5UW9LbFlib2lUWW5QTTJLOUhXdnNsZTQ9Wh8iHf1rTk1QcXlNM1E1NVBzcGZUTTBlVkVkWXJMOGs9ZTj5OTMS7QEIuAIS5wEKHEt0WGliMmhHNy9pVmdkNW41UUpXcWdXVFVQOD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnV0dm1DUFAzYXA0Z2xvVTJwcTRqMzRKNEtOV2o0UHlxRTB1OGErS3gxRU9pV2tnZ2lIc1NreEh1dG9LTmxDYnlVekp1ekE9PRgAIAEoATD4gan0/Kv8Ajj75qDG1zBA++agxtcwShw0T2JCdm52NjlBQ3N5UmY0Z3RkN3p2Vm52akU9Wh8iHfdHVW5PUWdIelRJc2Y3MUcwNkNYcnRFcXRyLzg9ZQAAAAAS9AEIxQMS7gEKHG80Z0I2RmkvMFVCUzhoQUZ1TENMWm52bHJIcz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjl1QUtVT1hIaWFOVjZiMHEwcnNmempLYzFvS2k2NVNWVlpaeFJQeGRKNkZpTXR4cDFldysvQ2h3NnhVZjRDVUdWTXpIK2c9PRgAIAIoAjCf2Zf1/Kv8Ajin56DG1zBA5eegxtcwShx4Q2VUcEYxQ2xQTVBoWTBHU0hmVGtGQVNYV0E9WiYiJP////8AAAAIb3A5TVN6bTdGT0pVd1p4N0JDWWxva1dTaVU4PWU4+TkzEvUBCLMCEu8BChx6NitIWGpqQkNxayt0RUk0TWxTNXdGMThtRXM9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ5d054eWpwNEI3NDRiWVVRRnIxZ09rVFhWR1NtYVk2MGVjTVdrTHR3R3dXL1liOXlPVWdOdzhzbXdRbEpWZ2haMmZVWjJBPT0YACACKAIwl5bfj/2r/AI49eagxtcwQJrWpMbXMEocMHdMK3ZzbGlpQkpML1ZKQzFkOEhXd25BOXZJPVonIiX/////AAAACPtDRjdmK2FPcXF3S2tOdU45dkRId3Erb1cxRkk9ZQAAAAAS8AEI0AIS6gEKHHp3M0RzcWhpcFNOWU1nMW8zVkZLeXRLRVdGZz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlcyS2x1Nk9uY1pNTVNhVkZwNXpoTlJ3b0dobDA4OUptbGkyU0ZzNVdwb0ptWXVWc0c0Ym5jNjBEUkJpOEJpa1VpaktoQ2c9PRgAIAIoAjD4gan0/Kv8AjiI56DG1zBAwuegxtcwShxnclQ2SjZ2MmdjRVdueGpMcCs4M1ZwdDhCTmc9WiIiIP///9ZSYmQzbWJKcFFRUTBUemU2UGdNT0VnNUd4Zk09ZahNDzcS7QEI2AIS5wEKHE1LZko3ZnZzSm9WS0JZNlF0REJFNFhVZXg4QT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmRqTDYxZ3BIVHhyd21YaXlmamloOExvb2Z2cVYvcG9JSzdWTWFmTXh4cmV4c0JUNjNnbmNWV3YzZEpvMFBWQUgyWWt6ZXc9PRgAIAIoAjD4gan0/Kv8AjiN56DG1zBAxOegxtcwShwwTEZTbzcwMTBFVXpsYWRFbVhscXVUWU5IREk9Wh8iHacybGl1TUpRZnoyektLamxTcjZxYm5icEVjUWs9ZTj9dtsS9QEIsQIS7wEKHGRsaHl2RWh0NDN1YXNnVjY5NjBiaDRVYm1VST0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkVhL2VZV3p2cVZQTGdNNTQ5eVVqY29Sb21PclJuTzJCMGowU09NTW1mQVpYYUNxSjJBSE1JVkNGY2N3Q1prWlVPc3l3enc9PRgAIAMoAzCXlt+P/av8Ajjz5qDG1zBAl9akxtcwShxhRVVLZGNyZ1ZCVlhZc3h2ZzJRSTdXRzcyRlk9WiciJf////8AAAAI7m4zTnFKLzd2dW1lcjd2bklicXA2dXNxTGdQYz1lOPk5MxL1AQj0AxLvAQocb3FiNlFmR0lMaFZROUNLTVlJVVcxdU9wd1Y4PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCZWFueHpYNVRZc0c3eGZONzdmbXZoTlYxTDJ3YlR4djhIV1RxeVgyK0NpWHF5N25TR3Yvc0g5bExiQVZHV0J5OU5UdkJZQT09GAAgASgBMJ/Zl/X8q/wCOKznoMbXMECs56DG1zBKHHVHNUJUMkJJUU5CZENrcHlyd0JNS3lyQmVXST1aJyIl/////wAAAA32M1BCbGEyOG9kVjRKRWE2TnQ0WG5LN3NHaVgwPWUAAAAAEvQBCN8DEu4BChxzdVZVTjEzc055ZVRubVhmdDE4Y0FaTVFWMDA9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkIvcjVRZCt1OFQ2Mjc4NlgwakdZb1dtL0hrcmpoRi8waldsOVI5di9ramk5SGRoVXJRK0ZxOUcrdTJhVWRGK0pEMzVmaUJBPT0YACACKAIwy4H69fyr/AI4quegxtcwQOrnoMbXMEocKy8vV1I3c1oySmpPMUtVYnZhOUlkQnZLYkU4PVomIiT/////AAAAC004eitkUFJHeXJCWXAzS0ZpY1ZHNVZZazQ1RT1lKpUljxLtAQj2AhLnAQocVXdpV0lVdGl6eS9LUEFQT3BFWEFQLzY0RnpVPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCMkVpQWRKTnRQM2dldzlhV3JMRWRZaDdxYjRhR0FpMklyWXNrdkhvejVtOGdjZEJ2bEJmYUpuS3E5WWZlYXE5c001ZFFWUT09GAAgAigCMPiBqfT8q/wCOJfnoMbXMEDO56DG1zBKHGNUOW1qZi8vWUI4L1ZJbmpraGg5MU9QUU96WT1aHyIdmS81SWVjSlppVm50WjBwSXZZaDYxN2QxKzc4QT1lRXV7zBLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWnlLQXRKOER3eThXbEd1UFN4KzNrVmJkS3QwTVFhOEJzc3c3YVVNWXpVbUdzUTZxOVFmQWR1bVE5Z1VkbGt2enVWc0dLdGlnY2cycXpIYXlnQlJmTUdPdjN0L0d3PT0YACAAKAAw2bzlkvyr/AI4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABL1AQixAxLvAQocZCtIZFFJY045VlBkaGZENXRoZ0x3TW1jdHhBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCWGxmY1RDQUhLdHlxZ1VWMGZqc0hxVUVpMWczWjRtczQ1ejl6a2ZBcTNyT0xFbHI1ekxKYTZKKzhjdzI1cWJCand0UXpyZz09GAAgAigCMMuB+vX8q/wCOKPnoMbXMEDf56DG1zBKHDdZZGdLVEFqWmVPclBwbnZUWjd2Z09Oanl4RT1aJyIl/////wAAAAX+RnlSVE5xNGdWVk5Mc2xvUGlPWWRxZzlkNTNrPWWQ4CA+Eu0BCPwDEucBChxJUGh4OGZJSkVwK1BJSmhqcjFjclQ5WG8xM1U9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJlOTNwYjJ1anl0ZjhiNlNFYlNmUmNSQjBBSkdPa3BNZ0N1VXludGFCRWJUck9yb0hVb01QR0lnWWp1S0kzWTVJU1I1K2hBPT0YACACKAIwn9mX9fyr/AI4reegxtcwQO/noMbXMEoceXFWVEdYaUJwS0x3VDhaYXdOOEhDalZiRG9BPVofIh37OUp2U3Arb2hxZXBHcHVrK3JBbWZ4NFpGcStNPWXY1mr0EvUBCOEDEu8BChw0Nk5tNFJ0eEZmS2hPUzFUU1dpeVI0cE1CaFU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ2UmZnc0I1OEU4NmxKcGpNdUNhL3JEQ2RabUd6cXpnS1o3eHE0ZVZBQUlWNjAweVViZ3huNndoTVRwOCsyQUFyb3VBWEJnPT0YACACKAIwy4H69fyr/AI4quegxtcwQOvnoMbXMEocT0EvR0FWOG1DVlNxdjYxNlFxalFCU1VVSCswPVonIiX/////AAAAC9NaUG9SMWYyRkllMWY3cW9ZNkxmM3M5SGhkWHM9ZTj5OTMS7gEIkAMS6AEKHGpHb0JUOUppR2g0bCtDMzJDR0h6RnlHNVloaz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlhOWXQrS2hsamFaM0RodXlaN3JlWVF6YVJHbytmb1ZLbFd0b0tHSERZR0NhcDVOT2NyS003TXI1ZlZ3dHlKNGN0ZzJvYlE9PRgAIAEoATCf2Zf1/Kv8Ajid56DG1zBAneegxtcwShx5TW1paEx1VXBJVTNsV0IzdklaTXVHcjdiMk09WiAiHv//czVycTJTdGpwMENWSzcyaHc2VlNnTVcwdExJPWUAAAAAEvUBCNsDEu8BChxaZlFySUxhSmFyVGgrcTNhMnZZdnhnN1hpNHc9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJUZXE1WmR5V0tKTitaV1krbkpLUXA4TkFidWRsbHhvZW14d3NVd3U4M3I1MHhaS3ZBSEtmaTczcTFuOVRPd3I4V2hUdDl3PT0YACACKAIwy4H69fyr/AI4quegxtcwQOnnoMbXMEocc2Nsd0pKWHZyT3BaQnc4YW4wYTl1Zm9pM2pNPVonIiX/////AAAACvs5b09YbFdKMzk1bzRTbmVZTTRGNW5ZS2d6c2s9ZTj5OTMS9QEI1AMS7wEKHE9SVUJBTjB4N1VXYXFPb3VEQVZHUDBIQ2Jqaz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjRCWWRua1p0cVJxcXZuVUszemYvdHdtRnlPT2dSTXJoUmlmaGlHNWZMVFI0WWxUOUZGU1YvblpDZTRkZ2pnbTR2dm80eHc9PRgAIAEoATDLgfr1/Kv8Ajip56DG1zBAqeegxtcwShxES1krdmF2ZmszQjZoZmYyQ0lNaUtHcUVZdTg9WiciJf////8AAAAJ/lN0SVZpN1p0elRaYlVyOTI2UXZlNEwvR0Uzcz1lAAAAABLvAQiZAxLpAQocWitnUkl6dXdzclVGQ2xleUhrL3UxUHV3SUhBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCaGl6YnlKUnhzcU1iVFF1NHBucHE3VTJZSHFIWXVoMkc0ZlFDZVZNRVNTRDRjTjhoY1BHWHc3djZSemVRd1BWSGd4VkZxQT09GAAgAigCMJ/Zl/X8q/wCOKDnoMbXMEDY56DG1zBKHHl3ODFEdWFLTWVmK3prb1dlOTdVNzFPQk5jcz1aISIf////Z2tnU0toN096UHUweitiajRCMmxxbVYrMzYwPWU4+TkzEvUBCNADEu8BChxGR3F1ZFZoTEV4VElyY1JoVzYzMktEcXhmajg9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJXaVRJZ2hvZGxqc0lYQ3BETnRSWHhuRGQ3UTlHU3RRTldRcnZBeGk2OW8xQ3lvZ1g3VWJBRUVYa3NiUGVTZFUwd0tnUzdBPT0YACABKAEwn9mX9fyr/AI4qOegxtcwQKjnoMbXMEocZjVkQW84MFlIUDI5MFZRZ3FVdG85MnE0QStRPVonIiX/////AAAACe4rVXJQckFFQWQ4cVFPbnhRV2pxMW8zV01pZFk9ZQAAAAAS7wEIxgIS6QEKHHJKR0FHbWl2Y21QQzdpWDJCeWtsbjVkTmUrZz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkl0SDZGT3VVMDZyUXlqeXVZVE15M2diNDl6TTBmZ2REQVh4RFlqMzBCdm1qdHIwSDFrOFNkbWZzUWlCWnltSzM1MVRSdUE9PRgAIAIoAjD4gan0/Kv8AjiF56DG1zBAvuegxtcwShxFdXZXYnJNZHpiVkNYVU15c3FrSGpWN2VXR2c9WiEiH///1W5GZkd5aHphQkUxcnRISUgydWplRlRzWVR2OD1lgIf6BRL1AQjPAxLvAQocaXR4SFZjdnVNa3NUQ0h0K3RrR2tSMklYUVFvPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCdnBmTWtFM0RMWW5rV3djbVVaNTJWWFBrQXR2cFZjTWdOTC90TGE5UUlPS2lkSit3VVMxTFRzMnlXUXlxa0lFbk9YZCs5dz09GAAgAigCMJ/Zl/X8q/wCOKjnoMbXMEDn56DG1zBKHExkZklkUkgrWkRxUG1QcmNtUmVYVU42THFqST1aJyIl/////wAAAAncNWxhUnB2NDZaV3FBY0ZsN3FSemFxQUtPemJjPWWAh/oFEvUBCKgDEu8BChxicXN5QitrRnNtWit3UTRtYnhya3h0ZnhGUWM9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJKTmE0TGtwcDMzbFFPV1JRNzlSZVlPeDRPMVZIS2VmL3NlS0dQeVBKMUs2dGkzOGFUSXQ2SDJkemg0MkFGZlJRV25lMG1RPT0YACABKAEwn9mX9fyr/AI4ouegxtcwQKLnoMbXMEocdVh4LzArYzdUR3QrL3c3K2E0MGgzZlV3ekFjPVonIiX/////AAAABP1hOXJMT1lZMVVjdFdJWE5WZFJ1eUo2aU8yWmc9ZQAAAAAS7AEIjgQS5gEKHDR4ZHByd1FkbjJ2aGNoS2ZWUHRSOUJjQVgvQT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkJJSVd3Ri8rVmttUFdSY29kM1B2dU9ERVdDRzRLcWgrVW9uUzYzaGF6ZkRVR21RYWpDY0laTW8vdzRsVU5FVEFvcVVlNmc9PRgAIAIoAjDLgfr1/Kv8Ajiu56DG1zBA9eegxtcwShxseFVWZTNHQ3lsc1FKckJXaWx6dkRBblhrdFE9Wh4iHHhnVW1kME9pQTAwelNFOUdiZUZXWUluM3FBRT1llTmzsxL1AQjVAhLvAQocQ3ptMjhFZG5uQnNyK3Nvb0w0TVJ0bFZJaFNZPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCSlgzMDJ3dUVCbHNiSWl3Qml4enFJVlpGTW15Ym0yMXV3ck0vVXBrbmVxZ3pBVGloVTZYak5CMG5mVU9HM0E2dmpma3ZYUT09GAAgAigCMJeW34/9q/wCOIvnoMbXMECb1qTG1zBKHEJ6N0ZTNU5lUlRIUWFzalZ4SFZYQ3FOMUxhdz1aJyIl/////wAAAAj9ZTQzRnhtZEpjOU5kekpaSlpJNkxSTCtVcnA4PWUAAAAAEvABCKADEuoBChxhSTNPb0pyYXpacEQvTVBTUjAvcnBWbmdXcVU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJvNHVFa3hFbnRSc0lRMlJhU0dVcitIUGRWWWptNDZXNU1mOGZ1S0k1NmRURVo1ZGhVN2Q4TFVCaHdvNUJRLzVqZlJDRHh3PT0YACACKAIwn9mX9fyr/AI4oOegxtcwQNrnoMbXMEocSGN3YXVDMitkd2pqQkprT0kxS2JVczI1Z21FPVoiIiD////9SkxPaUx5TmdzVnovVUluaVI0NHFJWFB2NDRBPWXY1mr0Eu0BCJYEEucBChw2SmJwRGl0OGdxODRBUTVlTU1DakxlZGtiVWM9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkI1VEdPakJwbmZObGFTVHNIRXpRM0U2LytOZXV3Q1NkWXlOUFRYdkszckthcmcxamZDNFpaZ3lpRnJYelNvNWlVckVmLzN3PT0YACACKAIwy4H69fyr/AI4r+egxtcwQPfnoMbXMEocVzJhRUJkOWxuN29hR1puRGVSVU5LSDlMd3NvPVofIh3/dC93UTNoWHlVOE8xR2hvZ2ZyQyt1T1M2dGpJPWXtt8rdEvUBCIoEEu8BChwwdHY4VW9lR1dqdVo3c3ZpUCtXS252RmVvZEk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkIxWHJkczdxYTNJRkliOUErMjNDeHZ6T1crZWw2Y3grRE1uc1I2SW12UGJJY1c1cllJa3FweGZwM0ZBakhVNEtLQkRuNW1RPT0YACACKAIwl5bfj/2r/AI4ruegxtcwQKHWpMbXMEocMHlZUTd1VnhUUlhWZ0FQeFFKZE0xMjk1aEtJPVonIiX/////AAAACbRMQ2JlVkxobnhEdEtTdG1jWVU3akNmSnFmcFE9ZQAAAAAS7wEIzAIS6QEKHGxpRnNjNDZBenZtTDdJdEV3UnNHLzNxcVdMVT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmJLcHZTTitaNHlLVUJwWmtYaGtZdGxmaDZDV0FJR09hZzl2UVh2RlZ2ejVoR1EzNitHZ2FSU3luN0hjTHYwSmtGclQ0dVE9PRgAIAIoAjD4gan0/Kv8AjiG56DG1zBAwOegxtcwShxDYWRzL0xoZUVxK2V0cHozdFh6eHdvcExmZFE9WiEiH////0JSRmxzdmEzeEVUMmlRU0M2Wlg5ZzdvZjFoOD1lL2PUQxLuAQjDAhLoAQocQUUzYmlZYmwxN2tXS0VtYUpuaG1rREZWTHBZPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCWWVZejl6QkU0NFNieDl0OHlXRlpOZ2xyd2pjTVEwejlwSk5vQmxodXh6OFhTbDJGbmJrRW9yajNmekhOMW1JS05GV2JRQT09GAAgAigCMPiBqfT8q/wCOIPnoMbXMEC956DG1zBKHEZsdDB3TGwvOVdJUWNhM0xrWkl6eWduUi9Caz1aICIe//4rV1NTTmk3Vi9oTERHaTdyWGhiRjlDdlB6VE09ZQ/MNBQS7wEImgMS6QEKHGpBOGZQU3ZuK21rT0h2WHJSTVlONGMvUHlvZz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnY1WlY1aUpPNDIwNzdWSTQ5REN0eHdZS1hwVUVaOEwvcXVDRm01ODc3V3JlamhvNnVFMXRPLzdxOUROVkxUcGQ3dHFCT3c9PRgAIAIoAjCf2Zf1/Kv8Ajig56DG1zBA2eegxtcwShxUbmc3SCtlbWs0MURiUDRWcFk1MVB5c3doaXc9WiEiH////3hzWFFOcjF1d3NBTkd6QysveEliT3lhNUVZWT1lOPk5MxLtAQisAhLnAQocMlRwSlVqeXZ5UUtrTEl0cWthZ09zUWU4TkRBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCTkdFWkUwV2g2cjdjWlI1dmZ3eFl4V2Yzblo4eXJCb0xUd3l6UXdDdCtaSGVIdjNOZ3IyR2hzaDVGRitrOVo4U0E1eUw3QT09GAAgAigCMPiBqfT8q/wCOOfmoMbXMECK6KDG1zBKHFR1Y2tFb1NNY2lOd1ZPVDV6ZkdOM20xWHMvUT1aHyIdpjhiRkNUV1NncXAxbUZhWllYUUtqV2l5L1lUQT1lahdW2BLtAQivAhLnAQocQUxPK1REWE1FL0YrUkVDc3JyK1ZmTE1SRVJnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCRmNLRWs3S0VXWE9SeFlRTDFDSU8zZFZ0cFRnenVNRkNoWURObXZMejRQV0JTQWp4bGtMdVF4eEM1VGJkSlpBeXA1NGNBUT09GAAgASgBMPiBqfT8q/wCOOrmoMbXMEDq5qDG1zBKHHdscENINDl1SGNyQmNOand3WElvVUpwQm5Saz1aHyId9EhQVnI4K0tqV0ltUUt3MmQ5bm1mU1duWjdKVT1lAAAAABLtAQiAAxLnAQoccnNZY2t6NDNJRmtZWjlQRHZzUzFMQ20rc2VnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCSmJuZzdqV0RDczEwRUI0UFp1TjB6bnBCNmN1Ylo0YzNFZFcyVVBnYVNuTVJVcjdnQzJEWXRhYkFQYW5VMDVIY0dxektGUT09GAAgAigCMMuB+vX8q/wCOJnnoMbXMEDR56DG1zBKHG96S0lyOVA0WXpLdWhtMDhzaWxzM1FRNlR6az1aHyIduGpsRitTUFA2SUNJdHUrczE4TUZpQUJnK3IxRT1lOPk5MxLtAQi2AhLnAQocNVUwRXlHclE1dkFkeWtTT0x4ekNqWFc1Q3p3PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCKzZOZ0gvb1MxMEtEQkY4TUxPUEhpbjIvWEFXY1gvNE45ZDFvOENKSS93MVNzR2RsV3o4QngxakVMN0Z1Sk4yNVZncE5Odz09GAAgAigCMPiBqfT8q/wCOPjmoMbXMEC456DG1zBKHENOQVpWVE4xb2crMWoya1ZaOG9XVUNjS2dLVT1aHyId3m9pbm1WaXJPT1F2YTA2dEpkN3dReVN1VG1SVT1lu3c+ZBL1AQjaAxLvAQocQXBuZ1dVWHVpMVZuLzhwbXU3Y2RrYnUycnNVPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCL0lVRyt0UHFOaUxiMjdwU2Q3QlQvSkY3djNlVUpRZGZhRkRnSGpPSWw1c09vTUQ2WHRtRkpoeHZuWlhLelJ2YzVqZmxPZz09GAAgAigCMJ/Zl/X8q/wCOKrnoMbXMEDp56DG1zBKHHVvSGJ2cjFDM0NXTGVrWEQ2Y0twWjNSVTRHcz1aJyIl/////wAAAAr3K0s0eDRLb0ZnQThjdi83WC9mNVQrbVF1ckIwPWU4+TkzEvUBCOMDEu8BChxuRE95QXhKWlVGZ3U3dVhvMkxPQnBXYVdqS1k9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJrUjJJMHVwS0w0aEZadWVOalZnWDljRktad2V4V0hJbWpxa0h2QkUzSkdsOHZmZmFLTXBza3lFd3QrNVZTdUxPM0djS3V3PT0YACACKAIwn9mX9fyr/AI4q+egxtcwQOvnoMbXMEocWlJlWFI1bHE3Q00ycVZUM1lrTlF1NHBtR2hRPVonIiX/////AAAAC/RhUTZzclE5R3pJbmsxcE9vSTN4Z3ZwbU1vZm89ZTZ2DfcS9AEI/QIS7gEKHDA0TTlnUlR0U1dEbisvRXRrbm1USVgxbWtaOD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkhtL3EybGo4d1hOS3gwYndtekVIam1iczZzVE9yZFp0anoyYWlyR0w1U3dOZmJWVUlPNDNTK3EzL2xFRGl4akw1OVBEQVE9PRgAIAIoAjCXlt+P/av8AjiY56DG1zBAoNakxtcwShw0cWpia1RGNDc2cy94aThrWkFBdFRNSGJuOUE9WiYiJP////8AAAAJYStMVXhuejFKdjI3T3NkMTR4aXJmQW0rYzlFPWUAAAAAEu0BCIQDEucBChxOcWNGekhWVWdhaG82OXNLZWNWL25oemxUL289EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJScURROVk4WFIzLzdZbHF2R1JCdHhkejc3Sjh4M2lrcWtTNHF2K0Q2S3A3SlplRDVaUUc1OCtXcDRUckoxa3JDa3NaRDh3PT0YACACKAIwn9mX9fyr/AI4muegxtcwQNPnoMbXMEocaFlYa2dqNmdEZmYxM1ZqSzBWbGlQanJ2enVZPVofIh37L0RPelNOY3BtTjJjMzY0SlQ3QmxHd0lEc1VNPWU4+TkzEvQBCOgDEu4BChx1S0RXUlk1dGw2T3J1VEx3ZVhoOGhKMFFEbFk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJXb1lYbURDazgvVGFLWVhiekQ3VThiWkJTQ1NreHhkcXdGLzB1T1hWWGRNd0dOYzZDS2d1MDhUakpUdXFZeElwLzdnSlp3PT0YACACKAIwy4H69fyr/AI4q+egxtcwQO3noMbXMEocMmJ3VkRyYk1yRUVvVzkwdWNsa2s4VnlsK0F3PVomIiT/////AAAADHllSjhyNnhQajRxZ252MlJPMEQ4dG95TVNNQT1lKpUljxL1AQjCAxLvAQocK2V5YVlUb2ZDUlZPNWllNXRPMEdPeUJYUkR3PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCcXRPUUF0SWZOR00zejUvODlJMnc5YnhhcU1iL09QalEzSjU1cFJaWU95S3NUN0ZqY0l3ci9QdDBydHNTMDZTcWVoSlpqQT09GAAgAigCMMuB+vX8q/wCOKfnoMbXMEDk56DG1zBKHFg4OGtzWjBxVFQrSXNoZVZRZWV1RTcwNkxoUT1aJyIl/////wAAAAf+V201TnNmbHlxaUE2TjA1YW9OVDArenFtUVMwPWWAh/oFEvQBCKgCEu4BChw1Q2tzUy81RzZTRVEyc3dOUXJ6MHNEaU1XQkk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJQUDJkOUVVVy9GdTNCNFYxNzVMK0N3ZE1TQmhMUzd6b1V6SUJwYUpVLzU2ZzhKZDNSdHVCNWd2aytscjQzTVViS2ROMzJBPT0YACADKAMwl5bfj/2r/AI45OagxtcwQI7WpMbXMEocemJkTm9uRGg2YjRmbjJNQmlkMWo3SWlHMVlFPVomIiT/////AAAACHA2Z2ZFWnhMaXFpU0NWeXc1R1Y4dTJpNmIyWT1l5YKlFhLuAQjjAhLoAQocK3U5alVCcU1zSndIMzZxT3JXVDROZ1IrTkJFPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCNWlnQ2xSajVWTXpKUTN6Q3FMakxIakpSWm9IREJraFBEa1FlZm1kbzJRc2NaQ3BTTE4yczRkMklWSGVHZyt3TXc1VzJmdz09GAAgAigCMPiBqfT8q/wCOJPnoMbXMEDH56DG1zBKHFR0eHVLZFVpYmhuUnR3Y2p5WE1tblRTdE9sdz1aICIe/9xodGdpQTdpZHNNSUJIRTZaKzBaY3IzUG9nNFU9ZYAHOlkS7wEI6gIS6QEKHGFvancyMHZCOERFeUMxQVJ6NmRha0Naem02QT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkw5WHRjQW9hY24xN0JTSHE1VG42K1QvM05EMm9GZC9TVHVuQjBTa01jMlJId09GUkErV0wwNmE1VElqUXVab2Nxd3hDWVE9PRgAIAIoAjD4gan0/Kv8AjiV56DG1zBAyuegxtcwShwrVFdNUmVUMW54Z2NzYS8zZm9nOVVwMnd4cTg9WiEiH///rFNDeTRwQ1dxRC9yZ2FsSlVDeDhkZlduSEx2OD1lOP122xLtAQj4AhLnAQoceFZhbmxRN1YxV1hFSDV0UCtlcTNSNVB3bDhRPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCdDZEemJ0R09oSHlmazZhTy9WT3M4MGFleWxmdjkzWHc0MVMxZzBoS2ZONHgyM21hSTlkYlRZN0JrbmdncUdnRllUK01vZz09GAAgAigCMPiBqfT8q/wCOJfnoMbXMEDO56DG1zBKHGkxLzZ0WmlaUExiT09xdmFvUmpsN3IydWpHcz1aHyId5ldIeUNIQjVkZFhXRUhhOHpPcTgxbVBxQ3lyMD1lqYfvJRLvAQjvAhLpAQocckZOQzRmM3pDbVlRa3pOVDREd0tUQlREek5jPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCTmdLVkswSjJvKzZjN0ovOUtaaThCNDV5eU02alZ1OGtGMkgyNHRtT0Z3MHcwbGxJRUluVnRXci9YaTE1NzhrcHplYmxxQT09GAAgAigCMPiBqfT8q/wCOJbnoMbXMEDM56DG1zBKHC9Ndkk5WExvcUxRcGprelZvK1pYd0czQ1ZHVT1aISIf///9Z1NCY1J5RysrSmVxaXQ0ZGJoMzFyWXBITnJvPWWUPyqbEvUBCO8DEu8BChwvc3ZCcFpqeUpsNG9wU044Yi9VWktOdVhiRkE9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJhN3U4TUhxcytJREtrclFHRldVbHIyRVVTWWtjUGlLbXlRZUVDYUhjakZjSmxiNFVFMldBblA2ejlIS1hxOEE0SktJQ2NnPT0YACABKAEwy4H69fyr/AI4rOegxtcwQKznoMbXMEocRlVIRkQyVkNQb0wyT1hWVGkrUk53MHR1UTdVPVonIiX/////AAAADP5pTTg5STlwSm9BNzJ5NTlRWkNUOGJrVk5sWEU9ZQAAAAAS7AEIiwQS5gEKHGNJb1BESjJuRzVya1QxMFJ2ckNJbnF1VWNiWT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmtjZjVxZVBNb2pmZjBsV2xjQXg5M1Zza2l0S0QvOGJXdnZKU3ZmTW8waUF4T2l0OTFEMU90ZEw4aXVOeHo3TUI4SFdxT3c9PRgAIAIoAjCf2Zf1/Kv8Ajiu56DG1zBA9eegxtcwShxvbktjUEE0blRSSlBRL3M2OGZsa3Z4aHpOdEE9Wh4iHG9wbU1QcGxGdDhWTnBLaXkrN3FkS3VYbVJiVT1lOPk5MxLvAQjNAhLpAQocMHVxL0VKTC83K2Q2aUQ5TytGeklyREltZURRPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCbERRaVBlMTcrSkx2WEZteFpjN2lubWQwUjBCZnB3RmtQQlh3OUVWdVNZV1hzQTJBTmpMUVdIQVZTV2FSSmNJMmRGTGQ4QT09GAAgAigCMPiBqfT8q/wCOIbnoMbXMEDB56DG1zBKHGR0THpjOWlJWEpmSGhpVzZ4dXFQMHc5Rk1DVT1aISIf////V1JqR0lHTkdjS0FHL3draENlcTdBM3dic0F3PWWo/kgEEuwBCKoCEuYBChw1L3pmcXVTOENmMlVEd1hDVFJzalVmclRIMFU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkIvK1lKdG5pOWVVVE1LSVhHbEdCZEtLc3VjV1BRN0F3SDVQQzk3bndvcEtiNFFWUnArL3Jrc094VFhVa3ZvOGZrdnNHN2J3PT0YACACKAIw+IGp9Pyr/AI45uagxtcwQLTnoMbXMEocWGxmazNWTkUyKzRodnYyaGdxMC8xcWxwTitJPVoeIhw5SW5XTGV3aGhUbWI3MUs1QktxUXZCT0kxUFU9ZWsPRrYS7AEIsgQS5gEKHGswUXlLaFFmbVF2MVBLOXpLTFhQNWg4Uk5kRT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmlqY3NKcEtCemRJZ216c0VGeTBEQ09Od1dRVGl3eXhXTEQzaC9QaCtjQ3B0NnVSeU81U1ZOQ2kxeTZZK0F0ZDB0TUZ1VFE9PRgAIAIoAjCmrZaZ/av8Ajiy56DG1zBAqPKlxtcwShxYZjgvQk1JSkk5d25BU21IU2VGL3ZrdU9MaU09Wh4iHHJqSDB2c2sxSTBSZGV1N2FOYVF5TDlxY0ovWT1lAAAAABLwAQjUAhLqAQocdzhOMTBHaGJHVit6VlJiL1RwTWNSTEtqSDNZPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCZ01NZEFXdVJjMVdHcXFSNHA5L05TVUhncm1VT1p4aHdwWCtXTjlFN1F5cjkrR3RVZXN5akNscER5bVJ1M0F0aWZWRVJMUT09GAAgASgBMPiBqfT8q/wCOIvnoMbXMECL56DG1zBKHFhNanNoSTAySEdOVkhVR3d0VVVwUTRvZEpHbz1aIiIg/////VZyb2dvdjVNclB3SkcwZ3dBNytzQ1RzYWptaz1lAAAAABLtAQiQBBLnAQocVHFOTUlueVhpZkhoenBZdXE5QVNWdFJ1Ty93PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCM0Nqbm1ZU0ovSGFQeTVmdmlxMXRsRVhpZTRhd002ajlBNU16SjhBQmtxUTN4NXpFN2wwZnl0SDQ3cjVpRG1OUjRFVUx2Zz09GAAgASgBMMuB+vX8q/wCOK/noMbXMECv56DG1zBKHGtLbGlYaEl5dU1xUFZGUjhRelhXbVhzNE56TT1aHyId3nFIaXRGRHBHS05FSlU4NDhyYlYrank2emVGTT1lAAAAABLtAQi1AhLnAQocV3Q1MENkdVBHRzFzUk1XcElnNVcyRy9BYWxBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCcjNJa0Z2L1pqamExVUl3UUVNYkY2K204WEltcmhudGFmQUFBUitWQkp5bkMrRUxiM21GaWFPTk1LR0M2RXo3bVd4YmNVUT09GAAgAigCMPiBqfT8q/wCOPfmoMbXMEC356DG1zBKHHd5anJkOWltSE03RkpWOTVWYTRQemtJQXF5UT1aHyIdvGF0MmZKNURJS0VHQWRFQmtmREhLS2hvcjhodz1lIcClHxLuAQiIAxLoAQocN25xZHk4NlNaMkFYWmFXdjRGTXBrRWVCUlVBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCaFRsTy9QODF0cElKNTMxMlJ1aG10ZzAzQjF6aUg5RHlEQkt4MDdRbkhXckhUYWFJNllncmlITGZxT1Ywb1Q2S0NKWUQzQT09GAAgAigCMJ/Zl/X8q/wCOJvnoMbXMEDU56DG1zBKHHp5Qlg1M3l5UjlRSjEzR2hDaER2MkRSM3ZScz1aICIe/6Ixcm5scUJreElYcVdDV3hjQTlkditndml1YkU9ZcqV7wgS9QEItAMS7wEKHDB5OGpDYkpaZzIrSjlsS2ovK2Rpa2ppTVBodz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnVwSy9LdUdReHUzQmpBeDQvVStaYlVuVjVYVG1oSWJUR0tKM0pVSEhlUjQ2ZGdsV2lSUE1CeEdKSjRTWmJaYVp6cC85TlE9PRgAIAIoAjCf2Zf1/Kv8Ajik56DG1zBA3+egxtcwShxncHcvRXdibEZ1V1BVNDlWWGZUY0xnY0VHWEk9WiciJf////8AAAAGuVNBZ3N3aWhMaEJBTlkyeXhXVStDa0dJeVhodz1l2NZq9BLuAQiKAxLoAQocWW1DNVBHWjJtUzlCQStUK1pYZWNaR2RnSG1rPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCZDVnb3E3dG80elg4eFFQVTlyRDdQai9xSHM3MGZyYjBXdnpnNUZxZHhoNHE3TGJ2UDB2allxdXh1M1ZuN0dSNHpTSXpTZz09GAAgAigCMJ/Zl/X8q/wCOJznoMbXMEDV56DG1zBKHFNJRXNPaS9WUTl5MENCdUpBTUpVNThxdHhIbz1aICIe/+hlRzJXWmlMdlFvL3lQWHR6S1R0T1VJVlp0bVE9ZU8WQooS7gEIiQMS6AEKHE9HcWVwK3ArVHBsNityRlJ6elV5OXRlcGt3VT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjhBbUdyK3EyN05mTFFueGxTVGlSYU51TEtIeHRTWnZYczkzbjlLQ2licnhkQ3pXSDg1a21oUTB4QmxoeEF0QXZNM3NpVVE9PRgAIAIoAjDLgfr1/Kv8Ajic56DG1zBA1OegxtcwShxYeUU3SS9VSzRKa2RHY0MzcDRXTnZVYzhSWjA9WiAiHv/RamxxdStKQlROMEVFMDZFSVBzcFVYU1l5MHdrPWU4+TkzEu4BCL4CEugBChxVdG5PZ2JyY1lKaW5zcisvQ2Y0QWN4NlZtbE09EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ0Qng1ckZJTUFFcWs2V1FLc2lCVTZGVkM1MmZVVFZSeFRGQ25nNjVMRWsxb3ZkQUxXSi9TS2FYV0JVMlVmVU05N0xHNmZRPT0YACACKAIw+IGp9Pyr/AI4geegxtcwQLvnoMbXMEocY05ndHUyeTl5Mjl0czR2MmlQSDVHOU9NTEJJPVogIh7/2jlqbkFsWHkvOHBCRVljZDhHaWQ2WWQvYmIybz1lNIOZlxLuAQi9AhLoAQocc1BqUU1mOXRjaFAxbEdzZW52QmNmZnkvdkwwPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCcmV4VytFRXpyam1RZzZVazg3T3ZpZzVvVU9vaXNHbmlDK3pWa3liY0pRQXVLY3lBQlVpZzdwZ1pZSVJvS2VDZGZlQzROdz09GAAgAigCMPiBqfT8q/wCOIDnoMbXMEC756DG1zBKHFJhTldZR3p3ejB0TzJqZjY2b0UzSDlLck5sVT1aICIe/7VjYVBuODY0alBMVU1QaDlHUVIxMThIQk1XYnc9ZdVS2/ES9QEI6wMS7wEKHDZtSXZRSjJIcUViV2lOVVF5OHRpN0hsdm50az0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjNCWm9CcjNrQ3EvQjlDbVFKWUc3SG1tWFFnZGhzV2EzeUNDWFhwRFM1NEM2ZnArMHZUeEp6TVlKTVVxNVErTVhYRG42QVE9PRgAIAEoATCf2Zf1/Kv8Ajir56DG1zBAq+egxtcwShwvdXhOMTFpbmZzcXBYa1NwbUpBOWJGTElJbU09WiciJf////8AAAAM70JHK0NyV3B6UUorcmpXV1pTUHpiQmJ4VTVVTT1lAAAAABLvAQjLAhLpAQocMWxqeHdhdHhIOXBtOGI3eXVPZTVBNi9wNk5vPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCVFdrV2tRQ3RCTEJ2aCt0b1Joek41djA3SnZMVXB1R2h0Q1FGTGcyblZoOGp2aFg1ZWtNS1loMTBnWDJuc3plL0J5MFp5UT09GAAgAigCMPiBqfT8q/wCOIbnoMbXMEDA56DG1zBKHFZ1bmdUR2R4RE9jQ0dwTVg3Q0xUMW91UHErVT1aISIf///+V0djSmpuOTFWb2IyanByd1ozQzYwTGtndXJBPWX3HJAmEu8BCJEDEukBChwrVTJxYlhKVHhESlZoNzlLbXNqak9NTS9BWHM9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJIQ2RSUHN2MmVvRnJ5WTYyc3owdTVpWU5sSkdWTHlsbk42Zjk0KzVHL3pzbDg3M3JTNlY4bkhBVHVQWjE0NzAyN1VGTjR3PT0YACACKAIwy4H69fyr/AI4nuegxtcwQNbnoMbXMEoccGI3RmtlaDFHWUo0cXlhUHdxWXJEdDVqNExjPVohIh///7lqSDZLcnVXQVA4dE9hR3EwMkRFY0U4VEx6a0k9ZVIKV0gS7gEI6AIS6AEKHENNWXVYSEJjMS9YNHIzcDVsUDh2RUxzMlVrOD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQk1pOHd3Sk53eW5hTUNKUHZxRi9wenN4ekpNZWlFVjgxbHA2WHRqcDFIc1g3OWlDeExEQ290R21FNG1taDE1RFNsZ0hiM3c9PRgAIAIoAjD4gan0/Kv8AjiV56DG1zBAyeegxtcwShwvN1YvT2ZHTlVTcm8rdVlaSXNFV3VsdjkzNjg9WiAiHv/+LzNST3gzVGh6WXQ3Y0pEYTFEcFhhc0M4ald3PWU4/XbbEvUBCKQDEu8BChx0aUhTZlVjU0ZtQ1pyT0N6c3lUWVg2NVBwSDA9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJwYVM2ZXlRcEVYdmEzWG1EZm1sSEEwMStsaTM5OThranhQVmlzNXdXYUY5WDlaQVpsT1p6a3BIeng3M1ZNRzNneUdmSWxRPT0YACACKAIwn9mX9fyr/AI4oeegxtcwQNvnoMbXMEocTjlVazFhRnNuSWthVDBiRHpuQWJGRGs1Qmk0PVonIiX/////AAAABNxnR3AxdVcwUmJ4dXltUGNteWtMVVp5VU9qM009ZfiVxHAS9QEI0wMS7wEKHC9qR1MrZ29mV3IvQVYzSzVaSkh6cG5LSDVSbz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQmxtcmVET21aOUt6R2VGSldEYXhiaWhSdmYxUHVIRktaMFp4RXBTL2Y0YS9Ed2ZIY3QxRmp6ajRnV2V5bis4TmtSSHc2bHc9PRgAIAEoATDLgfr1/Kv8Ajip56DG1zBAqeegxtcwShxGRkhnUHBQSzZsYWxXcWM1Z0tsL1VTa3VpY009WiciJf////8AAAAJ/TVZdUFLME5tVUF5N1kvcjBROHNaWHZGbFhscz1lAAAAABLvAQjIAhLpAQocUUxpWnJWWXdNSWNmd1lJWnl6Q3RZT0hZRG1NPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCN2NGdW81WTFQV1JKcjVDZy9XbGU3ZFhRSDlJY3N0RTg0Ym1Xdm5kTTVoR2tGTTQ5aGZ6TFIxaTJYTzB5K2lIeDBqdVRWdz09GAAgAigCMPiBqfT8q/wCOIXnoMbXMEC/56DG1zBKHC9CTlZpNlRvcFVRdlIwVW5BL29WOEhCd1lCND1aISIf///1TkgvNHpBRzZROWRZMEhBZUNzMlgzU2M2S2JvPWUo0OGpEvUBCNcDEu8BChxQV3lVSmRlbFZrTUEydVlWR1Z5TWNHblE4WDQ9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ6bDVnTnZWYkVXOGFqbHRsKzZyVjloQ09kVlVEMVJyWHYrR3l2dWd2WjgvRWRIQjFQa0taY0l0QnAzdzlkV0tRZUcvelN3PT0YACACKAIwn9mX9fyr/AI4qeegxtcwQOjnoMbXMEocMnFOVWVaWEI3YzZuWlk5UnE3SU5tY1BNVU44PVonIiX/////AAAACrtWTFdOSTdqL1dVTThhV1dPOXdxUWt2d1V4cVU9ZTj5OTMS9QEI4AMS7wEKHENNTDRjUVpOQ1pHZG4yenFuZ1VSUlBRSk9NND0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlZHaU5yZHR5UHVoai9FSkd3NmE3VEFvdlMvYnpab3hjbWF4WVA1VHc4TUZJdkZmMm5PVTZBNmpxbUZPd01TVHpMTjIxdEE9PRgAIAEoATCf2Zf1/Kv8Ajiq56DG1zBAquegxtcwShwzSjAxY0s1SzRkek0rNjR0VHQ4cW5OUGZTbGc9WiciJf////8AAAALpkRxd25NaCt2UFRUUnNPZ085dVZ3Zy9MRVlwTT1lAAAAABLtAQiRBBLnAQocWUxlZUlKalVyeFVBVVdXeE5BU2lyTy9uWS9JPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCd0pBUThRMGtXVDJDaGJ1cXhPM2xCQTk1eHl5SnJEK3h4b2lUQnlLMm4rZHlKeU9QQXo0SU80TS9vMVJtWVpzR0NBVUNyZz09GAAgAigCMMuB+vX8q/wCOK/noMbXMED256DG1zBKHHZveUZ6RHNKVHFsUCtzdmcxRzNnM3pna2Mzcz1aHyId71V3MG04WWc5N2h4WmNqaXJQSlozeFREQnptUT1llTmzsxL0AQjwAxLuAQocQjQ2Skc1REZHazNuL05QRll2NmdTbktzTlg0PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCWDZRUFk1RmFTSGw0ZDF3RVMyQmpvYTh1WXNZVVI1VFFpWmJ2MHptdUtiYnJ1Y3pPSVNDLzVZR1VrOEFHNllGQ0VWQmNldz09GAAgASgBMJ/Zl/X8q/wCOKznoMbXMECs56DG1zBKHFp2Y2wvUDlycytXVCtWT1B6TnBCRVJPYzdUUT1aJiIk/////wAAAA1hditraGQrMVNpR295OG9GeUFiYnc3bUhTc1k9ZQAAAAAS7gEI5gIS6AEKHExsdlVxRHhUZjF1Vm5NNmg0dlBBcitlamNYTT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnd2TVRiN0psT2ltMmY2bDd1RDVTNjZtSUJLRHlBbjhjaTBpMlBId1Izcmtsd0ZOZWpzYk5BaHJaQ242YXVvN05lc1BmOHc9PRgAIAIoAjD4gan0/Kv8AjiU56DG1zBAyeegxtcwShxaaWlVREw2dkltL1huUDJIc3MweklFaVEwNFk9WiAiHv/7aFVsQ3hIVlRabVpiQ1JaVDJhZjlDWkpHa1RvPWU4/XbbEu0BCNoCEucBChxaMnl3Ry9yakRCdWljUXlPNEp5bnROTjhGaHc9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ0RXdnc2VnVmZwS1VoNU82N2EvaVV5YlFGaUhpSU1qWU5abmRIMnNyT0U4cGhjaGZGWTNWdEZEem5meWNRTUpxYzJxYkZRPT0YACABKAEw+IGp9Pyr/AI4juegxtcwQI7noMbXMEocMkVKRGZxbC9TYkxvTW5YN0N6OHdZbW96OWxjPVofIh3pY2dEOXhlV1JibEJxd3VYU1NMVU1BcmpNK25JPWUAAAAAEu4BCIcEEugBChxnT2pLMk1VVnFhWkh0eGVUVzhmREhyM3NWelk9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkI0d1ZDUTJsRmNKbFRFU3lCQThrTjFQZXZFQXdEamd6UHI3M2J2L0gyWFoySHIyS3FZMERBdkFGRkJhS2ROTDVMSHNTYmlBPT0YACACKAIwn9mX9fyr/AI4ruegxtcwQPTnoMbXMEocaFYxbHdodXNZVmR2M3A4MVIrR25IWHg2a0xzPVogIh7//jdTcCtaczhPSWN5Y0lxZWsvN2Q4TzhlQUFRQT1lOPk5MxL1AQjlAxLvAQocOGIyQm90SnFoZHZSL2FFOTBRbWpYSFVPUXJnPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCalF6dXdWOE13MUpqSVpIbFRFR3NBbTcxNVJ3S29CTWU3eHRhTGhwUWJkRHFTMVg3VEZqZEt1WldxN3NWSlRzZ3hramUwQT09GAAgAigCMMuB+vX8q/wCOKvnoMbXMEDs56DG1zBKHDBVTGtrbHRiWEwyVHBhMGdvTE9OSHl4ZTJpND1aJyIl/////wAAAAv9NVJlcWYyR3NGVGFoRytmck9oNHFWTHhhcFFrPWXY1mr0Eu8BCJUDEukBChx1Uk1BdkNROXBhcWdjb01idXcvV2lQZ0xiN289EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJ3UmhaVyt2dytNTVhkWUpsMmZzOG9RVTA0YzFzMmFZaHdyVHpPSUhmS09rRVpzbHl2VFJ2MDdiZHVRUVA0VHdPalJHTFBBPT0YACACKAIwn9mX9fyr/AI4n+egxtcwQNfnoMbXMEoccDY5cVl5bWVncWVvdU5yNkJnWDlZU2ZhRDh3PVohIh////syWWNadDg1TTVxRDJUemRCZGNTQ3BQQTVwblE9ZTj5OTMS7gEIwQIS6AEKHHVQZ1lWM1YxSlozNWd3cVNTUENWc1lIODRDYz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkxFbi9GaGw3WVFCcEFHR3l0WlEyMU1ZRTI0Y05KYS91ZUxIMHNEY1Z4WkhFNWU4MGtwaTNvZUhxdW45RThiYTM1VEE0WXc9PRgAIAIoAjD4gan0/Kv8AjiC56DG1zBAvOegxtcwShx0dU1JRzRabEsrUzEzRG9FeG5SZkl5ejU2Vnc9WiAiHv/7dE5xbFdyd1huRVErVXIyYkw1OTAxVHd0S0dvPWUmm7wAEu0BCIAEEucBChxXUys5OWhIYWdPdlhCTHFSSk02cW12ZFhpWUU9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJTREJtM2RFN1pERVoxS3dPZjl5TUY2bWRqREx0MnBUWVAwWFBzRWptZGwrbnhqaUhHOEI0THFDMUU1dXFHblQ0bFFQazJnPT0YACACKAIwn9mX9fyr/AI4reegxtcwQPHnoMbXMEocbmxuaTlxMERyaDRKNitCcWVoblJ1elEwMU9BPVofIh3/cUs2RjNSRVBJQi9zMEhObEJtekI1SG9GT2g4PWXY1mr0EuwBCLgEEuYBChxhMnJGTUxRMFQwWWNLeGN0MHAyYjFYL3hhZUE9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJjMVJ5WStPVENHeklYMmVlekh6NlZiSzh1T3pkZUppY052K2tnRitGdE1la1VTUFhVRSt4RFZMbzRGcEYzcHJvdzhjZS9RPT0YACADKAMw0YiI7f/R/AI4zf2ctdwwQJyYnbXcMEocSU1RdzEvZkgrU2lkQzJRYTViSG1KNkE1dXNnPVoeIhxoTXN1cHhFeHZaZ25VSzJENHR6VlY5WFBXK009ZfRxUDUS7gEIwgIS6AEKHGRXaW41aUNnaHRrQk5HYkxBQXhsdHdUSkNOTT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQkx6MmVGQVZMbDV3dVFBZm9pMTl3NVhZZUdBeHNYNFJPdmlOWG0wZCtId0lGUGdoaWV6eGVBUU91Y0ZFNU5yOUt2UmMvNkE9PRgAIAIoAjD4gan0/Kv8AjiD56DG1zBAvOegxtcwShx6VnB4cmR1aytYajNKQTJxODV0Si8zTGl3SVU9WiAiHv/9YzIvU3JmZkc5eE9wa0phM0FkWEpjaTZWalcwPWVbhUNjEvUBCLcEEu8BChxHa1FDbXd0V1RKS2NBK09OVXE0Y3pJUVc0UTA9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJVNVdUaG40aWtuM0xGRTltT2xibGpScmF6UWtkLzFNSGVwYlZMUVJNdDNIN2htd1lvcytickV2eFFZY0srTWMzejNlWEVnPT0YACACKAIw5MSV6f/R/AI4+JSctdwwQMHYnLXcMEocVjY3YTQ2RHdmNmd0WG9RVUp0cGhabDBqQUFNPVonIiX/////AAAACPl5bmV0K3AzNTNkUWh0YldQRXNJbzlDSHRlUDg9ZQAAAAAS9AEI5wMS7gEKHCt1K0Z1L2N2T1dzQUMzUldCUUdIVzNLb2krUT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnVGd0ZlUWZEZ3JKZmgwQ2F0ekRyRHJ2LzI5RWRJUDVSUDhkVnFOWWtaWERJeUpwczRmTjBtNHFpWHpHdE5wbTg4OGVrbEE9PRgAIAIoAjCf2Zf1/Kv8Ajir56DG1zBA7OegxtcwShxIeEVkSGJQNk5SSVExMGN6b0F3RFFwSmNBelU9WiYiJP////8AAAAMWDY5QWM0cUYwdkthMHRsL3dnMHNOYVQxaWpVPWU4+TkzEu4BCJ4EEugBChxBc1I5VzJ6TEYxRnM3NTA0blYwOXBicm9QYWs9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJOT2hzTUlwdFh4Vk5EYlVIVUZZMitOZ2Z3dW9wZ1ptZWVpQlBnMkFURTFLSldtT3JQeVd6NUhzS2xaZnFlbUU5QU1MSTdRPT0YACACKAIwy4H69fyr/AI4sOegxtcwQILooMbXMEocTHNITjRUZ3lJM2Q0Q2NoKysvaUxhTmt0QzdBPVogIh7//zM3L2M5WnE4b2tncUlzSEVNMUhEYVkzWlMzbz1l1ssP6hLtAQitAhLnAQocUFFFZUVhMm5RSjZ1VnZQSXdKakhsY3RMYjhzPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCcmZyb3hsb09sWnBFRkt4Mml4MXVHRzVnbDJGdENYSFBoWVM0SW50K3pZL21sL0ZJcmVhUU94clh2TW9DeW8vYzFKdEVrUT09GAAgAigCMPiBqfT8q/wCOOnmoMbXMECK6KDG1zBKHEJrNTJYbU4xanI5eXh6VTAybGpZdXlRNkVnND1aHyId01ZnMUtjN3VuUnlTMkRzYzdIQjZCbGY2MXl5az1lOPk5MxLuAQjEAhLoAQocZmRuQkMyYXJHdlc2elFXZWx3TnlCZlhrY3BBPRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCWUgwamdWdzdNQlFwWmJiWTdOdm5IK0FBbWVTeXcwUUp1MkRxSHlCUFhtajY0ZDdQQTZNTVNieHd2eW1vSmNxUjJEakIwUT09GAAgAigCMPiBqfT8q/wCOITnoMbXMEC956DG1zBKHEh2cGNUZ0FYWDhOMzJ2Wm9POUd6M252d1drcz1aICIe//9UTmdVSGJCa0s1a3dlbkxzcU9lamtTM0VCS2c9ZSxx9QYS7QEI/wMS5wEKHFdLSEQwWWxuY1d5MjJvZVRzb1lCMVdYWjVSVT0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQnNVblpmS0MyejlEZ3NsU0hCVWw3ajhOVW5NVTRPZUREb005dG85RGpIS0hSeWFYT2dsdnAwMXhuL0lrdHhVTHFJTllZYmc9PRgAIAIoAjCf2Zf1/Kv8Ajit56DG1zBA8eegxtcwShxrZE1SUHN2SzZvQzloWDk5U1g1MGlBUDNVTkE9Wh8iHf9ZeDFnRG9oTGFHMnR1eHcvZ2FGdUtBempxNHM9ZTj5OTMS9QEI4gMS7wEKHGR3TlhSaDFkZys3eHRXN0dBMHIrMG9XUFNHMD0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjk1ZHZ4S29RdFVQZFk1cS9ubjZiVlNLSmpWcnM0SnNTbW1BeUZ1N0szYk1iVitIbFNSaGNQVHZab2h1M0hSaWhweFdPaFE9PRgAIAIoAjDLgfr1/Kv8Ajiq56DG1zBA6+egxtcwShw5RWtEOVFFSXMrT1kyekpPbGJ1bmwzeXBNOVk9WiciJf////8AAAAL6XNJRnhPeC9wRE8yMHZHbXpRK2dUVWkycVBUcz1lTt0SnBL0AQiqAxLuAQocUUo2Z1NkQjB5TldmZUpaeGpUTk55bnJhVmJ3PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCNi91a2o0WWsxVVNleHQvQzk2M2d3UWtmUktDYlVtY0VEWWVtdDdkSmt0TlBMME1peUZiSzdsNHRaYmFIaytFTUlLdys0dz09GAAgAigCMJ/Zl/X8q/wCOKLnoMbXMEDc56DG1zBKHHBHZVVVQnpIY3FxQ1ErR3N6OFZ6eUFlTkFRST1aJiIk/////wAAAAVQRSs5OUsvNmdPcXdXVTFsRitvbmZmc3EzYzQ9ZdjWavQS9QEIugMS7wEKHC9wYmdmcS9TajM4RENZN3lFZ0FsdDUxekNwST0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQlhKYzU3UU8yWFUyQUFwSmt4RlZRT0tiM3IxUzJwR3dVWGxmV2YyaFFzQysvU2tIVU9kb1BqbkpKTTZqQk9nN3NUajJWNmc9PRgAIAIoAjDLgfr1/Kv8Ajil56DG1zBA4eegxtcwShxzb1JoRjMrSmxzc0N0dW01RXJhbHZ6blJMRVU9WiciJf////8AAAAG/jBFb3hwZ29xNmJNdjhQWE9iQWNYNjBvZVZ0OD1lOPk5MxL1AQjqAxLvAQocZjY3SWhnLzVFTnFNTGx0OFRVd2pQSDZEY2s4PRJmWjpBRHF0QVp4Q3hUaDdTOXRyc1lEczJqSGV3MVJCdU9LZ0lVMnVwR3NmejRHdVB6Nml3TTFlU2RWZ3k2Rm45UU5wRjFTZysrdTJ2L0JyQXh5eGZtKzI3NHhmaVdmU1JCYnh5dz09GAAgAigCMJ/Zl/X8q/wCOKvnoMbXMEDt56DG1zBKHFdWYkxFSVZFNU44RG9neCtrdUkzTTFtZk9qQT1aJyIl/////wAAAAzeSzhBZXdUOWcwMHdKY0MvMVZKbjlZL3o3bUpRPWUHgc+XEvUBCKkCEu8BChxsS29jTEZRMk5DdkJaN3pLR0NveGpTY3dwaDA9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJzWkNYa1IzbjVoaW9ERGMyTUYzS0NuYjVtcmM4STZPSEFyNytDRkdQMUdldTl4cVgwcHR5Yk9WNTZuMm1ld0NISzQ1MGdnPT0YACACKAIwl5bfj/2r/AI45OagxtcwQJHWpMbXMEocZGVkMGdLVjlUbzk0bXNLNFlJc2dwZjA4MCtjPVonIiX/////AAAACLhnNFdIeTBJRzRkWXNqWXJGMWpUYmZmUkRIK3M9ZQAAAAAS7gEIvwIS6AEKHDFESEY1SzFEbVlDV0d1ZTdXSmlFeEEwRWY1cz0SZlo6QURxdEFaeEN4VGg3Uzl0cnNZRHMyakhldzFSQjZJYjMvM09KZWMvM0dac2JkMjVPbmpsSm82ZGJkTEFHTVVpbXIvdDI0UmxFTnVhL3dteHVhNGM2ZEVmN2hiYTcrOEhsN1E9PRgAIAEoATD4gan0/Kv8AjiB56DG1zBAgeegxtcwShxHRGFRUFkxblQzMHE2VExGMzFMVWpVZG5wbkk9WiAiHv/tdGNha0VPNmxpbnBpOHF3V1ZmM0tIMnhVYTdnPWUAAAAAEu0BCIcDEucBChxWdzhzajJhL2NFWXUwcGhweWloTERMQWUySTA9EmZaOkFEcXRBWnhDeFRoN1M5dHJzWURzMmpIZXcxUkJCVjhoOFdzWXRiZXhQdDFjSldUZS9ZZDMyRk8vUmx5K1NuNXhLN1Y3ZjUyak5DYUtUaWh1bUhxTmlhS0V4azJCQTJsQktnPT0YACACKAIwn9mX9fyr/AI4m+egxtcwQNTnoMbXMEocdkRPNS9NNEJWRzF1Ym50RzhpME8xdFl4bGhjPVofIh3/REh4RzhUc28yTU5LaDlDZkoxQ2szZ1hqV1FZPWUvY9RDMAE4AA==",
+   "version": 1
+}

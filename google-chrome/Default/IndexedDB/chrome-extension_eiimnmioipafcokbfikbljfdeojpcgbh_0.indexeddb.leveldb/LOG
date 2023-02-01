@@ -1,0 +1,14 @@
+2023/02/01-18:53:02.445 58589 Reusing MANIFEST /home/tdu/.config/google-chrome/Default/IndexedDB/chrome-extension_eiimnmioipafcokbfikbljfdeojpcgbh_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/01-18:53:02.447 58589 Recovering log #15433
+2023/02/01-18:53:02.447 58589 Reusing old log /home/tdu/.config/google-chrome/Default/IndexedDB/chrome-extension_eiimnmioipafcokbfikbljfdeojpcgbh_0.indexeddb.leveldb/015433.log 
+2023/02/01-18:53:02.447 58589 Delete type=2 #15431
+2023/02/01-18:53:02.505 58589 Level-0 table #15438: started
+2023/02/01-18:53:02.512 58589 Level-0 table #15438: 3243 bytes OK
+2023/02/01-18:53:02.521 58589 Delete type=0 #15433
+2023/02/01-18:53:02.522 58589 Manual compaction at level-0 from ' \x94\x11\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x95\x11\x00\x00\x00' @ 0 : 0; will stop at ' \x94\x11\x00\x00\x05' @ 256204 : 1
+2023/02/01-18:53:02.522 58589 Compacting 1@0 + 1@1 files
+2023/02/01-18:53:02.529 58589 Generated table #15439@0: 412 keys, 6501 bytes
+2023/02/01-18:53:02.529 58589 Compacted 1@0 + 1@1 files => 6501 bytes
+2023/02/01-18:53:02.539 58589 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/01-18:53:02.540 58589 Delete type=2 #15438
+2023/02/01-18:53:02.540 58589 Manual compaction at level-0 from ' \x94\x11\x00\x00\x05' @ 256204 : 1 .. ' \x95\x11\x00\x00\x00' @ 0 : 0; will stop at (end)

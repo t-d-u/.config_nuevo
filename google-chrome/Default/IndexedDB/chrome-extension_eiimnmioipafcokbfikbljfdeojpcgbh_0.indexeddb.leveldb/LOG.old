@@ -1,0 +1,14 @@
+2023/02/01-18:47:37.140 569ad Reusing MANIFEST /home/tdu/.config/google-chrome/Default/IndexedDB/chrome-extension_eiimnmioipafcokbfikbljfdeojpcgbh_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/01-18:47:37.143 569ad Recovering log #15429
+2023/02/01-18:47:37.143 569ad Reusing old log /home/tdu/.config/google-chrome/Default/IndexedDB/chrome-extension_eiimnmioipafcokbfikbljfdeojpcgbh_0.indexeddb.leveldb/015429.log 
+2023/02/01-18:47:37.143 569ad Delete type=2 #15427
+2023/02/01-18:47:37.213 569ad Level-0 table #15434: started
+2023/02/01-18:47:37.225 569ad Level-0 table #15434: 3715 bytes OK
+2023/02/01-18:47:37.235 569ad Delete type=0 #15429
+2023/02/01-18:47:37.235 569ad Manual compaction at level-0 from ' \x93\x11\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x94\x11\x00\x00\x00' @ 0 : 0; will stop at ' \x93\x11\x00\x00\x05' @ 256147 : 1
+2023/02/01-18:47:37.235 569ad Compacting 1@0 + 1@1 files
+2023/02/01-18:47:37.243 569ad Generated table #15435@0: 412 keys, 6501 bytes
+2023/02/01-18:47:37.243 569ad Compacted 1@0 + 1@1 files => 6501 bytes
+2023/02/01-18:47:37.253 569ad compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/02/01-18:47:37.254 569ad Delete type=2 #15434
+2023/02/01-18:47:37.254 569ad Manual compaction at level-0 from ' \x93\x11\x00\x00\x05' @ 256147 : 1 .. ' \x94\x11\x00\x00\x00' @ 0 : 0; will stop at (end)

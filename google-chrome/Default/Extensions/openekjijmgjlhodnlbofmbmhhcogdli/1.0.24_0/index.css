@@ -1,0 +1,200 @@
+.chatGPTHistoryButtonContainer {
+  position: absolute;
+  right: 0;
+  top: 0em;
+  background-color: #202123;
+  color: springgreen;
+  z-index: 99999;
+}
+
+.chatGPTHistoryModal {
+  background-color: rgba(0, 0, 0, 0.8);
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: scroll;
+  z-index: 99999;
+}
+
+.chatGPTHistoryModal.hidden {
+  display: none;
+}
+
+.chatGPTHistoryModal .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 60%;
+  padding: 1em;
+}
+
+.chatGPTHistoryModal .body {
+  display: inline-block;
+  background-color: white;
+  border: 0.5px solid #202123;
+  border-radius: 0.5em;
+  width: 100%;
+  height: 90%;
+  overflow: scroll;
+}
+
+.dark .chatGPTHistoryModal .body {
+  background-color: rgba(52, 53, 65, 1);
+}
+
+.chatGPTHistoryModal button {
+  display: none;
+}
+
+.chatGPTHistoryModal .savedThreads {
+  padding: 2em;
+}
+
+.chatGPTHistoryModalHeader {
+  position: sticky;
+  top: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  padding: 1em 2em;
+  align-items: center;
+  background-color: #202123;
+  z-index: 999;
+}
+
+.chatGPTHistoryModalHeader .logoImgAndText a {
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.chatGPTHistoryModalHeader .logoImgAndText img {
+  width: 1.5em;
+  margin-right: 0.5em;
+}
+
+.chatGPTHistoryModalHeader .logoImgAndText span {
+  font-size: 1.3em;
+  margin-bottom: 0.2em;
+}
+
+.chatGPTHistoryModalHeader .searchThreads {
+  border-radius: 1em;
+  width: 30%;
+  font-size: 0.9em;
+}
+
+.dark .chatGPTHistoryModalHeader .searchThreads {
+  color: black;
+}
+
+.chatGPTHistoryModal .container .banner {
+  padding: 0.5em 2.5em;
+  background-color: rgba(247, 247, 248, 1);
+}
+
+.dark .chatGPTHistoryModal .container .banner {
+  color: black;
+}
+
+.chatGPTHistoryModal .container .banner .twitterLink {
+  float: right;
+  font-size: 1em;
+  color: #1e80f0;
+  font-weight: bold;
+  display: flex;
+}
+
+.chatGPTHistoryModal .container .banner .twitterLink img {
+  margin-left: 0.2em;
+  width: 1.5em;
+}
+
+.chatGPTHistoryDisplayThreadCount {
+  color: #1e80f0;
+  font-weight: bold;
+}
+
+.chatGPTHistoryQNA {
+  border-top: 1px solid black;
+  margin-bottom: 1em;
+}
+
+.dark .chatGPTHistoryQNA {
+  border-color: rgba(247, 247, 248, 1);
+}
+
+.chatGPTHistoryThreadHeader {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+  padding: 0.5em;
+  align-items: center;
+}
+
+.dark .chatGPTHistoryThreadHeader {
+  color: white;
+}
+
+.chatGPTHistoryThreadActions {
+  display: flex;
+}
+
+.chatGPTHistoryThreadActions img {
+  width: 2em;
+  cursor: pointer;
+  margin-left: 0.2em;
+}
+
+.chatGPTHistoryExportToImage, .chatGPTHistoryExportToPDF, .chatGPTHistoryDeleteThread {
+  display: none;
+}
+
+.chatGPTHistoryThreadTime {
+  font-size: 0.7em;
+}
+
+.chatGPTHistoryQuestion {
+  background-color: rgba(247, 247, 248, 1);
+  border-width: 0px 1px 1px 1px;
+  border-color: black;
+}
+
+.dark .chatGPTHistoryQuestion {
+  border-color: rgba(247, 247, 248, 1);
+}
+
+.chatGPTHistoryQuestion div {
+  border-bottom: none !important;
+}
+
+.dark .chatGPTHistoryQuestion div {
+  background-color: rgba(42, 53, 65, 1);
+}
+
+.chatGPTHistoryQuestion .m-auto {
+  margin-left: initial !important;
+  padding: 1em;
+}
+
+.chatGPTHistoryAnswer {
+  padding: 1em;
+  background-color: white;
+  border-width: 0px 1px 1px 1px;
+  border-color: black;
+}
+
+.dark .chatGPTHistoryAnswer {
+  background-color: #202123;
+  border-color: rgba(247, 247, 248, 1);
+}
+
+.chatGPTHistoryThreadSeparator {
+  height: 1em;
+}

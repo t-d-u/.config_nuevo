@@ -1,0 +1,29 @@
+{
+   "background": {
+      "service_worker": "background.js"
+   },
+   "content_scripts": [ {
+      "css": [ "index.css" ],
+      "js": [ "tooltip.js", "utils.js", "index.js" ],
+      "matches": [ "https://chat.openai.com/*" ],
+      "run_at": "document_end"
+   } ],
+   "description": "Save your ChatGPT conversations",
+   "differential_fingerprint": "1.f13be2e60261be13ff72e4cd9aec2b40bf15d25c8a13bad941a1caa4862a7690",
+   "icons": {
+      "128": "icons/history.png",
+      "16": "icons/history.png",
+      "32": "icons/history.png",
+      "48": "icons/history.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAq9V+J1f6nxCLzQBj7S2kf8RYqdgZja7aVOARGTl7Gs9GDDNHqXgN++P2IzxfJn24O441CgIaNo4qp6fVsRVMWCYPrIoSYj47a0qT4KTxSORzFiNTejkGg6yo5yPycRkN5HWfnG46okP0oMSFl5apvhuZ4eTnZCRGu+981l+lAUzhWhYSHf6GDoefeXfgQ0R/Wi9TaAveUu3pZDg0Wopq0DVVcsTur7qgzmJRLHOlZQNaEMIhgHab/AdVDOxWgqu7sRWGbMNAyeGH9F+Q+iMzC18MEj4M5q4/w7Puicwse2c70YXpD3j7/7BS9e3dLlZDFWXTufjlMJCmO0BdRMwBVQIDAQAB",
+   "manifest_version": 3,
+   "name": "SaveGPT",
+   "permissions": [ "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.24",
+   "web_accessible_resources": [ {
+      "matches": [ "https://chat.openai.com/*" ],
+      "resources": [ "icons/*" ]
+   } ]
+}

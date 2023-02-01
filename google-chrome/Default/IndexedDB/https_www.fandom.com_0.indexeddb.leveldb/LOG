@@ -1,0 +1,7 @@
+2023/01/16-16:39:47.526 f8103 Reusing MANIFEST /home/tdu/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/16-16:39:47.526 f8103 Recovering log #3
+2023/01/16-16:39:47.526 f8103 Reusing old log /home/tdu/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/000003.log 
+2023/01/16-17:01:19.189 103030 Level-0 table #5: started
+2023/01/16-17:01:19.198 103030 Level-0 table #5: 4389 bytes OK
+2023/01/16-17:01:19.209 103030 Delete type=0 #3
+2023/01/16-17:01:19.209 103030 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

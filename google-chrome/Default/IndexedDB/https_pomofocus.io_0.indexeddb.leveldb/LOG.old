@@ -1,0 +1,15 @@
+2023/01/23-10:58:17.838 20e78 Reusing MANIFEST /home/tdu/.config/google-chrome/Default/IndexedDB/https_pomofocus.io_0.indexeddb.leveldb/MANIFEST-000001
+2023/01/23-10:58:17.838 20e78 Recovering log #7
+2023/01/23-10:58:17.838 20e78 Reusing old log /home/tdu/.config/google-chrome/Default/IndexedDB/https_pomofocus.io_0.indexeddb.leveldb/000007.log 
+2023/01/24-03:25:59.897 1fd0cc Level-0 table #12: started
+2023/01/24-03:25:59.910 1fd0cc Level-0 table #12: 3723 bytes OK
+2023/01/24-03:25:59.920 1fd0cc Delete type=0 #7
+2023/01/24-03:25:59.921 1fd0cc Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/01/24-03:25:59.922 1fd0cc Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x02\x02\x01\x0b\x00u\x00p\x00d\x00a\x00t\x00e\x00d\x00D\x00a\x00t\x00e' @ 958 : 1
+2023/01/24-03:25:59.922 1fd0cc Compacting 1@1 + 1@2 files
+2023/01/24-03:25:59.930 1fd0cc Generated table #13@1: 56 keys, 1165 bytes
+2023/01/24-03:25:59.930 1fd0cc Compacted 1@1 + 1@2 files => 1165 bytes
+2023/01/24-03:25:59.941 1fd0cc compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/01/24-03:25:59.942 1fd0cc Delete type=2 #9
+2023/01/24-03:25:59.942 1fd0cc Delete type=2 #12
+2023/01/24-03:25:59.943 1fd0cc Manual compaction at level-1 from '\x00\x01\x02\x02\x01\x0b\x00u\x00p\x00d\x00a\x00t\x00e\x00d\x00D\x00a\x00t\x00e' @ 958 : 1 .. (end); will stop at (end)

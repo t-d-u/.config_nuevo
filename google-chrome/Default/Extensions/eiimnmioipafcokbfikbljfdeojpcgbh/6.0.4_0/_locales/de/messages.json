@@ -1,0 +1,2041 @@
+{
+   "100thSiteAddedUserActionCTA": {
+      "message": "Großartig"
+   },
+   "100thSiteAddedUserActionSubTitle": {
+      "message": "100 Sites wurden zu Ihrer Blockliste hinzugefügt"
+   },
+   "100thSiteAddedUserActionTitle": {
+      "message": "Wow!"
+   },
+   "5thSiteAddedUserActionCTA": {
+      "message": "Fantastisch"
+   },
+   "5thSiteAddedUserActionSubTitle": {
+      "message": "Gut gemacht, dass Sie 5 Websites zu Ihrer Sperrliste hinzugefügt haben"
+   },
+   "5thSiteAddedUserActionTitle": {
+      "message": "Juhu!"
+   },
+   "InsightsTab": {
+      "message": "Einblicke"
+   },
+   "PasswordProtectSecondStepSubtitle": {
+      "message": "Nutzer, die unten auf \"Abbrechen\" klicken, sparen im Durchschnitt 15 Minuten pro Tag zusätzlich."
+   },
+   "PasswordProtectSecondStepTitle": {
+      "message": "Sind Sie sicher, dass Sie diese Seite freischalten wollen?"
+   },
+   "PinToToolBarMessageBtnText": {
+      "message": "ALLES KLAR"
+   },
+   "PinToToolBarMessageText": {
+      "message": "Prüfen Sie die Erweiterungsliste, um sie sichtbar zu machen"
+   },
+   "PinToToolBarMessageTitle": {
+      "message": "Pin BlockSite zu 100% produktiv sein"
+   },
+   "aboutBlockCategoriesSubtitle": {
+      "message": "Schnelles Sperren einer ganzen Kategorie mit einem Tastendruck."
+   },
+   "aboutBlockCategoriesTitle": {
+      "message": "Blockkategorien"
+   },
+   "aboutContactSupport": {
+      "message": "Kontakt Support"
+   },
+   "aboutCreateBlockListsSubtitle": {
+      "message": "Fügen Sie einfach die gewünschten Websites oder Seiten zu Ihrer Liste hinzu und lassen Sie sich automatisch auf sicherere, positivere Websites weiterleiten. Oder erstellen Sie eine Liste erwünschter Websites und erlauben Sie nur den Zugriff auf bestimmte Websites, statt unerwünschte Seiten zu blockieren."
+   },
+   "aboutCreateBlockListsTitle": {
+      "message": "Erstellen Sie Blockierlisten"
+   },
+   "aboutHowToEnableInInPrivateStep1": {
+      "message": "Navigieren Sie zu edge://extensions"
+   },
+   "aboutHowToEnableInInPrivateStep2": {
+      "message": "Suchen und klicken Sie auf BlockSite"
+   },
+   "aboutHowToEnableInInPrivateStep3": {
+      "message": "Aktivieren Sie das Kontrollkästchen \"InPrivate zulassen\""
+   },
+   "aboutHowToEnableInInPrivateSubtitle": {
+      "message": "Gehen Sie folgendermaßen vor, um BlockSite im InPrivate-Modus von Edge zu aktivieren:"
+   },
+   "aboutHowToEnableInInPrivateTitle": {
+      "message": "So aktivieren Sie den InPrivate-Modus"
+   },
+   "aboutHowToEnableInIncognitoStep1": {
+      "message": "Gehen Sie zu „chrome://extensions“."
+   },
+   "aboutHowToEnableInIncognitoStep2": {
+      "message": "Suchen Sie nach BlockSite."
+   },
+   "aboutHowToEnableInIncognitoStep3": {
+      "message": "Aktivieren Sie das Kästchen neben „Im Inkognito-Modus zulassen“."
+   },
+   "aboutHowToEnableInIncognitoSubtitle": {
+      "message": "Führen Sie die folgenden Schritte aus, um \"Site blockieren\" im Inkognito-Modus von Chrome zu aktivieren:"
+   },
+   "aboutHowToEnableInIncognitoTitle": {
+      "message": "Wie funktioniert die Aktivierung im Inkognito-Modus?"
+   },
+   "aboutIncognitoCTA": {
+      "message": "Inkognito-Modus"
+   },
+   "aboutIncognitoSubtitle": {
+      "message": "Alle Funktionen von BlockSite stehen Ihnen auch im Inkognito-Modus zur Verfügung. Sie müssen nur die entsprechende Option aktivieren. Folgen Sie dafür einfach diesen Anweisungen: "
+   },
+   "aboutIncognitoTitle": {
+      "message": "Inkognito-Modus (nur bei Chrome verfügbar)"
+   },
+   "aboutKeepInternetSafeSubtitle": {
+      "message": "Aktivieren Sie das Blockieren nicht jugendfreier Inhalte über das Erweiterungsmenü, um alle Websites mit jugendgefährdenden Inhalten mit einem einzigen Klick zu blockieren. "
+   },
+   "aboutKeepInternetSafeTitle": {
+      "message": "Halten Sie Ihr Internet sicher"
+   },
+   "aboutPasswordSubtitle": {
+      "message": "Legen Sie auf der Einstellungs-Seite ein Passwort fest, um den Zugang zu Block-Site-Optionen einzuschränken oder um den Passwortzugriff auf blockierte Websites zu aktivieren."
+   },
+   "aboutPasswordTitle": {
+      "message": "Passwort festlegen"
+   },
+   "aboutPrivacyPolicy": {
+      "message": "Datenschutzrichtlinie"
+   },
+   "aboutRateUsSubtitle": {
+      "message": "Wenn Sie Block Site hilfreich finden, bewerten Sie uns bitte im Chrome Webstore. Wir würden uns sehr darüber freuen."
+   },
+   "aboutRateUsTitle": {
+      "message": "Finden Sie uns gut? Dann sagen Sie das gerne weiter."
+   },
+   "aboutRightClickMenuSubtitle": {
+      "message": "Das Schnellzugriff-Menü lässt sich per Rechtsklick auf einen beliebigen Punkt einer Website öffnen. Blockieren Sie Websites in Sekundenschnelle, um Zeitvergeudung zu vermeiden und konzentriert zu bleiben."
+   },
+   "aboutRightClickMenuTitle": {
+      "message": "Rechtsklick-Menü"
+   },
+   "aboutScheduleSubtitle": {
+      "message": "Wählen Sie aus, an welchen Tagen bzw. in welchen Zeitspannen Sie Block Site aktivieren möchten. Richten Sie individuelle, Ihrem Tagesrhythmus entsprechende Blockierzeiten ein (zum Beispiel: 09:00 – 17:00 Uhr), damit Sie tagsüber bei der Arbeit oder in der Uni keine Zeit vergeuden."
+   },
+   "aboutScheduleTitle": {
+      "message": "Zu bestimmten Zeiten blockieren"
+   },
+   "aboutSubtitle": {
+      "message": "BlockSite ermöglicht Ihnen, konzentrierter zu arbeiten und Ihre Produktivität zu steigern. Sie können leicht störende oder schädliche Websites blockieren. Funktioniert ganz ohne Willensstärke."
+   },
+   "aboutTermsOfUse": {
+      "message": "Nutzungsbedingungen"
+   },
+   "aboutTitle": {
+      "message": "Über BlockSite"
+   },
+   "addBlockInputAddButton": {
+      "message": "Artikel hinzufügen"
+   },
+   "addEmailAndPassword": {
+      "message": "E-Mail und Passwort hinzufügen"
+   },
+   "addFirstKeywordUserActionCTA": {
+      "message": "Hurra"
+   },
+   "addFirstKeywordUserActionSubTitle": {
+      "message": "Durch das Blockieren von Schlüsselwörtern werden Sie viel produktiver sein"
+   },
+   "addFirstKeywordUserActionTitle": {
+      "message": "Verbeugen Sie sich!"
+   },
+   "addFirstRedirectUserActionCTA": {
+      "message": "Ausgezeichnet"
+   },
+   "addFirstRedirectUserActionSubTitle": {
+      "message": "Gesperrte Seiten werden jetzt umgeleitet, damit Sie sich besser konzentrieren können"
+   },
+   "addFirstRedirectUserActionTitle": {
+      "message": "Fantastisch!"
+   },
+   "addSiteAddModePrimaryButton1": {
+      "message": "Zur Blockliste hinzufügen"
+   },
+   "addSiteAddModePrimaryButton2": {
+      "message": "Zur Blockliste hinzufügen"
+   },
+   "addSiteAddModePrimaryButton3": {
+      "message": "Zur Blockliste hinzufügen"
+   },
+   "addSiteAddModePrimaryButton4": {
+      "message": "Zur Blockliste hinzufügen"
+   },
+   "addSiteAddModeSecondaryButton1": {
+      "message": "Vielleicht später"
+   },
+   "addSiteAddModeSecondaryButton2": {
+      "message": "Vielleicht später"
+   },
+   "addSiteAddModeSecondaryButton3": {
+      "message": "Vielleicht später"
+   },
+   "addSiteAddModeSecondaryButton4": {
+      "message": "Vielleicht später"
+   },
+   "addSiteAddModeSubTitle1": {
+      "message": "Blockieren Sie diese Website, um sicherzustellen, dass Sie in der Zone bleiben!"
+   },
+   "addSiteAddModeSubTitle2": {
+      "message": "Verbessern Sie Ihre Produktivität, indem Sie diese Website zu Ihrer Blockierliste hinzufügen"
+   },
+   "addSiteAddModeSubTitle3": {
+      "message": "Steigern Sie Ihre Produktivität um 10%, indem Sie diese Website zu Ihrer Blockierliste hinzufügen"
+   },
+   "addSiteAddModeSubTitle4": {
+      "message": "Zeitverschwendende Website entdeckt! Jetzt blockieren, um konzentriert zu bleiben."
+   },
+   "addSiteAddModeTitle1": {
+      "message": "Lassen Sie sich nicht ablenken!"
+   },
+   "addSiteAddModeTitle2": {
+      "message": "Bleiben Sie in der Zone!"
+   },
+   "addSiteAddModeTitle3": {
+      "message": "Fügen Sie (website.com) hinzu, um Zeit zu sparen!"
+   },
+   "addSiteAddModeTitle4": {
+      "message": "Block (website.com), um eine zusätzliche Stunde pro Tag zu sparen!"
+   },
+   "addSiteAreYouSurePrimaryButton": {
+      "message": "Ja, tun Sie es"
+   },
+   "addSiteAreYouSureSecondaryButton": {
+      "message": "Nein, Abbrechen"
+   },
+   "addSiteAreYouSureSubTitle": {
+      "message": "BlockSite wird nicht mehr vorschlagen, störende Websites zu blockieren."
+   },
+   "addSiteAreYouSureTitle": {
+      "message": "Sind Sie sicher?"
+   },
+   "addSiteReachedLimitPrimaryButton": {
+      "message": "GO UNBEGRENZT"
+   },
+   "addSiteReachedLimitSecondaryButton": {
+      "message": "Vielleicht später"
+   },
+   "addSiteReachedLimitSubTitle": {
+      "message": "Aktualisieren Sie jetzt und erhalten Sie eine UNBEGRENZTE Blockliste und viele weitere Funktionen, die Ihre Produktivität steigern und Ihnen Zeit sparen!"
+   },
+   "addSiteReachedLimitTitle": {
+      "message": "Sie haben Ihr Limit für die Sperrliste erreicht"
+   },
+   "addSiteSuccessPrimaryButton": {
+      "message": "Jetzt blockieren"
+   },
+   "addSiteSuccessSecondaryButton": {
+      "message": "Zur Blockliste gehen"
+   },
+   "addSiteSuccessSubTitle": {
+      "message": "(website.com) wurde zu Ihrer Blockliste hinzugefügt. Sie können dies auf der Optionsseite Ihrer Erweiterung ändern"
+   },
+   "addSiteSuccessTitle": {
+      "message": "Website zur Sperrliste hinzugefügt"
+   },
+   "appDesc": {
+      "description": "Die Beschreibung der Anwendung, die im Web-Store angezeigt wird.",
+      "message": "Bleiben Sie konzentriert und steigern Sie Ihre Produktivität mit unseren Hauptfunktionen: Benutzerdefinierte Blockliste, zeitgesteuertes Blockieren von Websites und Passwortschutz"
+   },
+   "appName": {
+      "description": "Der Titel der Anwendung, der im Web-Store angezeigt wird.",
+      "message": "BlockSite: Websites blockieren & Konzentriert bleiben"
+   },
+   "appShortName": {
+      "description": "Der Kurztitel der Anwendung",
+      "message": "BlockSite"
+   },
+   "backgroundMultiPacksTitle": {
+      "message": "Blockpage Bild und Text"
+   },
+   "blockByCategoryTextAdult": {
+      "message": "Hoppla! %domain% ist nicht verfügbar, da es sich um eine Kategorie für Erwachsene handelt, die Sie gesperrt haben. Bleib konzentriert, du schaffst das."
+   },
+   "blockByCategoryTextGambling": {
+      "message": "Hoppla! %domain% ist nicht verfügbar, da es sich um Glücksspiel handelt, das eine Kategorie ist, die Sie blockiert haben. Bleib konzentriert, du schaffst das."
+   },
+   "blockByCategoryTextNewsAndMedia": {
+      "message": "Hoppla! %domain% ist nicht verfügbar, da es sich um Nachrichten handelt, die eine Kategorie sind, die Sie blockiert haben. Bleib konzentriert, du schaffst das."
+   },
+   "blockByCategoryTextShopping": {
+      "message": "Ups! %domain% ist nicht verfügbar, da es sich um eine Kategorie handelt, die Sie blockiert haben. Konzentrieren Sie sich, Sie schaffen das schon."
+   },
+   "blockByCategoryTextSocialNetworksAndOnlineCommunities": {
+      "message": "Hoppla! %domain% ist nicht verfügbar, da es sich um eine soziale Kategorie handelt, die Sie blockiert haben. Bleib konzentriert, du schaffst das."
+   },
+   "blockByCategoryTextSports": {
+      "message": "Hoppla! %domain% ist nicht verfügbar, da es sich um einen Sport handelt, der eine Kategorie ist, die Sie blockiert haben. Bleib konzentriert, du schaffst das."
+   },
+   "blockByCategoryTitleAdult": {
+      "message": "Kakerlaken. Abgetrennte Gliedmaßen. John Goodman."
+   },
+   "blockByCategoryTitleGambling": {
+      "message": "Lass das Haus nicht immer gewinnen."
+   },
+   "blockByCategoryTitleNewsAndMedia": {
+      "message": "Keine Nachrichten sind gute Nachrichten."
+   },
+   "blockByCategoryTitleShopping": {
+      "message": "Ein nicht ausgegebener Dollar ist ein verdienter Dollar!"
+   },
+   "blockByCategoryTitleSocialNetworksAndOnlineCommunities": {
+      "message": "Kein Beitrag, keine Sympathie, nur Leben."
+   },
+   "blockByCategoryTitleSports": {
+      "message": "Bleiben Sie ruhig und trennen Sie die Verbindung."
+   },
+   "blockExtensionsPageSubtitle": {
+      "message": "Bitte geben Sie für den Zugriff Ihr Passwort ein"
+   },
+   "blockExtensionsPageTitle": {
+      "message": "$BROWSER$ Erweiterungen Seite - Geschützt",
+      "placeholders": {
+         "browser": {
+            "content": "1 $"
+         }
+      }
+   },
+   "blockMoreDistractingSite": {
+      "message": "Blockieren Sie weitere ablenkende Websites."
+   },
+   "blockSitesBlockSite": {
+      "message": "Diese Website blockieren"
+   },
+   "blockSitesBlockedTitle": {
+      "message": "Diese Website ist momentan blockiert"
+   },
+   "blockSitesBlockedTitleNow": {
+      "message": "Website zu Ihrer Blockliste hinzugefügt"
+   },
+   "blockSitesEditBlockList": {
+      "message": "Blockliste bearbeiten"
+   },
+   "blockSitesNotAvailable": {
+      "message": "Nicht verfügbar auf dieser Seite"
+   },
+   "blockSitesOnBoardingDescription": {
+      "message": "Websites, die zu Ihrer Blockierliste hinzugefügt wurden, werden dauerhaft blockiert, bis Sie sie von Ihrer Liste entfernen oder einen Zeitplan festlegen."
+   },
+   "blockSitesOnBoardingTitle": {
+      "message": "Hinzufügen von Websites zu Ihrer Sperrliste"
+   },
+   "blockSitesOptionsOnboardingText": {
+      "message": "Beginnen Sie, Websites, die Sie blockieren möchten, zu Ihrer Liste hinzuzufügen."
+   },
+   "blockSitesOptionsSearchBarPlaceholder": {
+      "message": "Geben Sie eine Webadresse ein (z. B. facebook.com)."
+   },
+   "blockSitesOptionsSubtitle": {
+      "message": "Websites dauerhaft oder nach Zeitplan blockieren"
+   },
+   "blockSitesOptionsTableTitle": {
+      "message": "BLOCKIERTE WEBSITES"
+   },
+   "blockSitesOptionsTitle": {
+      "message": "Websites blockieren"
+   },
+   "blockSitesRefreshPage": {
+      "message": "Seite aktualisieren"
+   },
+   "blockSitesTab": {
+      "message": "Websites blockieren"
+   },
+   "blockWordsOnBoardingDescription": {
+      "message": "Alle URLs und Titel von Websites, die dieses spezifische Schlüsselwort enthalten, werden blockiert (ein Schlüsselwort kann Hunderte von Websites blockieren)"
+   },
+   "blockWordsOnBoardingTitle": {
+      "message": "Schlüsselwörter zum Block hinzufügen"
+   },
+   "blockWordsOptionsSearchBarPlaceholder": {
+      "message": "Geben Sie ein Wort oder eine Wortgruppe ein."
+   },
+   "blockWordsOptionsSubtitle": {
+      "message": "URLs blockieren, die bestimmte Wörter enthalten"
+   },
+   "blockWordsOptionsTableTitle": {
+      "message": "Blockierte Wörter"
+   },
+   "blockWordsOptionsTitle": {
+      "message": "Blockieren nach Wörtern"
+   },
+   "blockedHeaderFocusModeMinutes": {
+      "message": "$BREAK_TIME_LEFT$ Minuten",
+      "placeholders": {
+         "break_time_left": {
+            "content": "1 $",
+            "example": "25"
+         }
+      }
+   },
+   "blockedHeaderFocusModeUntilBreak": {
+      "message": "bis zur Pause"
+   },
+   "blockedHeaderMenuCustomizeBlockPage": {
+      "message": "Blockseite anpassen"
+   },
+   "blockedHeaderMenuEdit": {
+      "message": "Blockliste bearbeiten"
+   },
+   "blockedHeaderMenuPasswordProtection": {
+      "message": "Passwortschutz"
+   },
+   "blockedHeaderMenuRedirect": {
+      "message": "Weiterleiten"
+   },
+   "blockedHeaderMenuUpgradeButton": {
+      "message": "UPGRADE"
+   },
+   "blockedHeaderTitle": {
+      "message": "Diese Website wird von BlockSite blockiert"
+   },
+   "blockedTabMessage1": {
+      "message": "%domain% befindet sich in Ihrer BlockSite-Liste. Dies hat wahrscheinlich seine Gründe."
+   },
+   "blockedTabMessage2": {
+      "message": "Sie haben %domain% blockiert, damit Sie nicht von der Arbeit abgelenkt werden. Also zurück zur Arbeit."
+   },
+   "blockedTabMessage3": {
+      "message": "Puh, schon besser. Jetzt zurück an die Arbeit."
+   },
+   "blockedTabMessage4": {
+      "message": "%domain% wurde gesperrt. Fügen Sie weitere störende Websites hinzu, um Ihre Produktivität weiter zu steigern."
+   },
+   "blockedTabMessage5": {
+      "message": "Es sieht so aus, als hätten Sie das Wort „%domain%“ blockiert. Lassen Sie uns das beibehalten."
+   },
+   "blockedTabMessage6": {
+      "message": "Diese Website steht nicht auf Ihrer Whitelist. Wahrscheinlich aus gutem Grund."
+   },
+   "blockedTableApplyButton": {
+      "message": "Anwenden"
+   },
+   "blockedTableCancelButton": {
+      "message": "Beenden"
+   },
+   "blocklistOnBoardingDescriptionPrefix": {
+      "message": "Besuchen Sie"
+   },
+   "blocklistOnBoardingDescriptionSuffix": {
+      "message": "um die Blockierung in Aktion zu sehen"
+   },
+   "blocklistOnBoardingTitle": {
+      "message": "Diese Websites sind jetzt gesperrt"
+   },
+   "bundleImagesDownloadFailedText": {
+      "message": "Bitte versuchen Sie es erneut"
+   },
+   "bundleImagesDownloadFailedTitle": {
+      "message": "Bilder werden nicht heruntergeladen"
+   },
+   "bundleImagesDownloadInProgressText": {
+      "message": "Bitte schließen Sie den Browser nicht, bevor Sie fertig sind."
+   },
+   "bundleImagesDownloadInProgressTitle": {
+      "message": "Herunterladen von Bildern"
+   },
+   "bundleImagesDownloadSuccessTitle": {
+      "message": "Bilder erfolgreich heruntergeladen"
+   },
+   "bundleListPopupCancelButton": {
+      "message": "Beenden"
+   },
+   "bundleListPopupDoneButton": {
+      "message": "GESCHEHEN"
+   },
+   "bundleListPopupSubTitle": {
+      "message": "Wählen Sie ein Bild-Multipack, das zufällig angezeigt wird, wenn Sie versuchen, eine blockierte Seite aufzurufen."
+   },
+   "bundleListPopupTitle": {
+      "message": "Anpassen dieser Seite"
+   },
+   "bundleListPopupTooltip": {
+      "message": "Bilder aus dem ausgewählten Multipack werden nach dem Zufallsprinzip jedes Mal angezeigt, wenn eine Blockseite angezeigt wird."
+   },
+   "cannotAddBlockSiteWhichPartOfRedirect": {
+      "message": "Weiterleitungs-Website kann nicht blockiert werden"
+   },
+   "cantBlockRedirectWordMsg": {
+      "message": "Ein Wort, das Teil der Redirect-URL ist, kann nicht blockiert werden."
+   },
+   "cantRedirectToBlockedSite": {
+      "message": "Hoppla! Diese Umleitungsseite wird von Ihrer Block Sites Liste blockiert."
+   },
+   "cantRedirectToBlockedWord": {
+      "message": "Hoppla! Diese Weiterleitungsseite wird durch Ihre Block By Words Liste blockiert."
+   },
+   "cantRedirectToWorkModeBlockedSite": {
+      "message": "Ups! Diese Umleitungsseite wird von Ihrer Focus Mode-Liste blockiert"
+   },
+   "categoriesAdult": {
+      "message": "Erwachsene"
+   },
+   "categoriesGambling": {
+      "message": "Glücksspiel"
+   },
+   "categoriesGoUnlimitedButton": {
+      "message": "GO UNBEGRENZT"
+   },
+   "categoriesNewsAndMedia": {
+      "message": "Nachrichten"
+   },
+   "categoriesOnBoardingDescription": {
+      "message": "Wählen Sie Kategorien, um Tausende von Websites mit einem Klick zu blockieren"
+   },
+   "categoriesOnBoardingTitle": {
+      "message": "Blockieren von Websites nach Kategorie"
+   },
+   "categoriesOptionsSubtitle": {
+      "message": "Bitte wählen Sie aus, welche Kategorien Sie blockieren möchten."
+   },
+   "categoriesOptionsTitle": {
+      "message": "Kategorien"
+   },
+   "categoriesPrivacyText": {
+      "message": "Damit BlockSite Ihnen das Blockieren von Kategorien anbieten kann, benötigen wir Ihre Erlaubnis, auf Informationen über die von Ihnen besuchten Websites zuzugreifen. Bitte klicken Sie auf \"Ich akzeptiere\", um diesen Zugriff und die Verwendung dieser Informationen wie in unserem "
+   },
+   "categoriesPrivacyTitle": {
+      "message": "Block nach Kategorie"
+   },
+   "categoriesShopping": {
+      "message": "Einkaufen"
+   },
+   "categoriesSocialNetworksAndOnlineCommunities": {
+      "message": "Sozial-"
+   },
+   "categoriesSports": {
+      "message": "Sport"
+   },
+   "categoriesTableTitle": {
+      "message": "Liste der gesperrten Kategorien"
+   },
+   "clickHereToCheckOut": {
+      "message": "Klicken Sie hier, um zu überprüfen"
+   },
+   "clickingHereLink": {
+      "message": "hier klicken"
+   },
+   "contextMenusAllowThisLink": {
+      "message": "Diesen Link zulassen"
+   },
+   "contextMenusAllowThisLinkWorkMode": {
+      "message": "Erlauben Sie diesen Link für die Fokusmodusliste"
+   },
+   "contextMenusAllowThisSite": {
+      "message": "Diese Website zulassen"
+   },
+   "contextMenusAllowThisSiteWorkMode": {
+      "message": "Diese Seite für die Fokusmodusliste zulassen"
+   },
+   "contextMenusBlockThisLink": {
+      "message": "Diesen Link blockieren"
+   },
+   "contextMenusBlockThisLinkWorkMode": {
+      "message": "Link-Adresse zur Fokusmodus-Liste hinzufügen"
+   },
+   "contextMenusBlockThisSite": {
+      "message": "Diese Website blockieren"
+   },
+   "contextMenusBlockThisSiteWorkMode": {
+      "message": "Site zur Fokusmodusliste hinzufügen"
+   },
+   "copiedIconTitle": {
+      "message": "Kopiert"
+   },
+   "copyIconTitle": {
+      "message": "Kopieren"
+   },
+   "customizeBlockPageApplyChangeNo": {
+      "message": "Nein"
+   },
+   "customizeBlockPageApplyChangeSubTitle": {
+      "message": "Übernehmen Sie die Änderungen, die Sie an Ihrer blockierten Seite vorgenommen haben, indem Sie auf Ja klicken."
+   },
+   "customizeBlockPageApplyChangeTitle": {
+      "message": "Änderungen anwenden?"
+   },
+   "customizeBlockPageApplyChangeYes": {
+      "message": "Ja"
+   },
+   "customizeBlockPageApplyChanges": {
+      "message": "Änderungen übernehmen"
+   },
+   "customizeBlockPageBlack": {
+      "message": "Schwarz"
+   },
+   "customizeBlockPageBlockSiteFunnyImage": {
+      "message": "BlockSite Lustige Bilder"
+   },
+   "customizeBlockPageBlocksiteText": {
+      "message": "Text von BlockSite"
+   },
+   "customizeBlockPageChangesApplied": {
+      "message": "Ihre Änderungen sind übernommen worden."
+   },
+   "customizeBlockPageChangesFailed": {
+      "message": "Es ist ein Fehler aufgetreten. Bitte versuchen Sie es erneut."
+   },
+   "customizeBlockPageCurrentBackground": {
+      "message": "Aktueller Hintergrund"
+   },
+   "customizeBlockPageCustomizeText": {
+      "message": "Text anpassen"
+   },
+   "customizeBlockPageNoPremiumCTA": {
+      "message": "Benutzerdefinierte Blockseite erhalten"
+   },
+   "customizeBlockPageNoPremiumMacbookSubtitle": {
+      "message": "Ups! site.com ist nicht verfügbar, da es sich um eine soziale Kategorie handelt, die Sie blockiert haben. Konzentrieren Sie sich, Sie schaffen das schon."
+   },
+   "customizeBlockPageNoPremiumMacbookTitle": {
+      "message": "Kein Beitrag, keine Sympathie, nur Leben."
+   },
+   "customizeBlockPageNoPremiumSubtitle": {
+      "message": "Machen Sie es inspirierend oder lustig, damit Sie sich konzentrieren können."
+   },
+   "customizeBlockPageNoPremiumTitle": {
+      "message": "Erstellen Sie Ihre eigene gesperrte Seite"
+   },
+   "customizeBlockPagePreviewYourChanges": {
+      "message": "Vorschau Ihrer Änderungen vor dem Speichern"
+   },
+   "customizeBlockPageResetImage": {
+      "message": "Zurücksetzen zurück zu BlockSite Funny Images"
+   },
+   "customizeBlockPageResetToDefault": {
+      "message": "AUF STANDARD ZURÜCKSETZEN"
+   },
+   "customizeBlockPageSetBackground": {
+      "message": "HINTERGRUNDBILD EINSTELLEN"
+   },
+   "customizeBlockPageSetPageText": {
+      "message": "SEITE EINSTELLEN TEXT"
+   },
+   "customizeBlockPageSetSubTitleText": {
+      "message": "Untertiteltext eingeben"
+   },
+   "customizeBlockPageSetTitleText": {
+      "message": "Titeltext eingeben"
+   },
+   "customizeBlockPageSubtitle": {
+      "message": "Passen Sie Ihre Blockseiten mit eigenen Bildern und Texten an. Sehen Sie sich die Änderungen auf dem Bildschirm unten in Echtzeit an, bevor Sie speichern!"
+   },
+   "customizeBlockPageTextColor": {
+      "message": "Textfarbe"
+   },
+   "customizeBlockPageTitle": {
+      "message": "Benutzerdefinierte Blockseite"
+   },
+   "customizeBlockPageUploadImage": {
+      "message": "BENUTZERDEFINIERTES BILD HOCHLADEN"
+   },
+   "customizeBlockPageUserCustomImage": {
+      "message": "Benutzerdefinierter Hintergrund"
+   },
+   "customizeBlockPageWhite": {
+      "message": "Weiß"
+   },
+   "customizePage": {
+      "message": "Seite anpassen"
+   },
+   "customizedBlockPageNonPremiumTry": {
+      "message": "BlockSite Unlimited KOSTENLOS ausprobieren"
+   },
+   "dailyBonusCollect": {
+      "message": "Sammeln"
+   },
+   "dailyBonusSubTitle": {
+      "message": "BlockSite hat Ihnen einen täglichen Bonus geschenkt!"
+   },
+   "dailyBonusTitle": {
+      "message": "Herzlichen Glückwunsch"
+   },
+   "doNotShowAgainMessage": {
+      "message": "Nicht mehr anzeigen"
+   },
+   "editYourList": {
+      "message": "Bearbeiten Sie Ihre Liste"
+   },
+   "emailVerificationCTA": {
+      "message": "Alles klar"
+   },
+   "emailVerificationInstructions": {
+      "message": "Bitte klicken Sie auf den Link in demselben Browserfenster, in dem auch BlockSite installiert ist."
+   },
+   "emailVerificationSubTitle": {
+      "message": "Wir haben einen Verifizierungslink an Ihre E-Mail geschickt, der 24 Stunden lang gültig ist. Zur Verifizierung prüfen Sie bitte Ihren Posteingang unter"
+   },
+   "emailVerificationTitle": {
+      "message": "Fast fertig"
+   },
+   "emailVerificationTitle1": {
+      "message": "BlockSite sendet Ihnen eine E-Mail mit einem Link zur Verifizierung Ihrer E-Mail-Adresse."
+   },
+   "emailVerificationTitle2": {
+      "message": "Ihre E-Mail-Adresse wird nur für den Zweck des Passwortschutzes verwendet."
+   },
+   "emptyResultsBlockedKeywordsSubtitle": {
+      "message": "Wenn Sie Schlüsselwörter zum Block hinzufügen, sehen Sie sie hier."
+   },
+   "emptyResultsBlockedKeywordsTitle": {
+      "message": "Noch keine blockierten Schlüsselwörter"
+   },
+   "emptyResultsBlockedSitesSubtitle": {
+      "message": "Wenn Sie zu blockierende Websites hinzufügen, werden diese hier angezeigt."
+   },
+   "emptyResultsBlockedSitesTitle": {
+      "message": "Noch keine gesperrten Seiten"
+   },
+   "enableInInPrivateMode": {
+      "message": "Aktivieren im InPrivate-Modus"
+   },
+   "enableInIncognitoMode": {
+      "message": "Im Inkognito-Modus aktivieren"
+   },
+   "enterPasswordToGainAccess": {
+      "message": "Für Zugriff Passwort eingeben"
+   },
+   "enterYourEmail": {
+      "message": "Geben Sie Ihre E-Mail-Adresse ein"
+   },
+   "enterYourPassword": {
+      "message": "Geben Sie Ihr Passwort ein."
+   },
+   "firstSiteAddedUserActionCTA": {
+      "message": "Kühl"
+   },
+   "firstSiteAddedUserActionSubTitle": {
+      "message": "Herzlichen Glückwunsch zu Ihrem ersten Standort!"
+   },
+   "firstSiteAddedUserActionTitle": {
+      "message": "Tolles Zeug!"
+   },
+   "firstTimeFocusModeCTA": {
+      "message": "Los geht's"
+   },
+   "firstTimeFocusModeSubtitle": {
+      "message": "Blockieren Sie ablenkende Seiten und bleiben Sie in der Zone, während der Fokusmodus aktiviert ist."
+   },
+   "firstTimeFocusModeTitle": {
+      "message": "Konzentrieren Sie sich. Konzentriert bleiben."
+   },
+   "firstTimeGamblingCategoryUserActionCTA": {
+      "message": "Fabelhaft"
+   },
+   "firstTimeGamblingCategoryUserActionSubTitle": {
+      "message": "Das Glücksspiel wurde blockiert. Es gibt jetzt viel weniger Ablenkungen."
+   },
+   "firstTimeGamblingCategoryUserActionTitle": {
+      "message": "Hurra!"
+   },
+   "firstTimeNewsCategoryUserActionCTA": {
+      "message": "Fabelhaft"
+   },
+   "firstTimeNewsCategoryUserActionSubTitle": {
+      "message": "Die Nachrichten wurden blockiert. Jetzt gibt es viel weniger Ablenkungen."
+   },
+   "firstTimeNewsCategoryUserActionTitle": {
+      "message": "Hurra!"
+   },
+   "firstTimeScheduleUserActionCTA": {
+      "message": "Wunderbar"
+   },
+   "firstTimeScheduleUserActionSubTitle": {
+      "message": "Jetzt können Sie in der Spur bleiben!"
+   },
+   "firstTimeScheduleUserActionTitle": {
+      "message": "Bravo!"
+   },
+   "firstTimeShoppingCategoryUserActionCTA": {
+      "message": "Fabelhaft"
+   },
+   "firstTimeShoppingCategoryUserActionSubTitle": {
+      "message": "Das Einkaufen wurde blockiert. Es gibt jetzt viel weniger Ablenkungen."
+   },
+   "firstTimeShoppingCategoryUserActionTitle": {
+      "message": "Hurra!"
+   },
+   "firstTimeSocialCategoryUserActionCTA": {
+      "message": "Fabelhaft"
+   },
+   "firstTimeSocialCategoryUserActionSubTitle": {
+      "message": "Soziale Netzwerke wurden blockiert. Jetzt gibt es viel weniger Ablenkungen."
+   },
+   "firstTimeSocialCategoryUserActionTitle": {
+      "message": "Hurra!"
+   },
+   "firstTimeSportsCategoryUserActionCTA": {
+      "message": "Fabelhaft"
+   },
+   "firstTimeSportsCategoryUserActionSubTitle": {
+      "message": "Der Sport wurde blockiert. Jetzt gibt es viel weniger Ablenkungen."
+   },
+   "firstTimeSportsCategoryUserActionTitle": {
+      "message": "Hurra!"
+   },
+   "firstTimeSyncUserActionCTA": {
+      "message": "ALLES KLAR"
+   },
+   "firstTimeSyncUserActionSubTitle": {
+      "message": "Synchronisieren Sie jetzt alle Geräte für maximale Produktivität 😉"
+   },
+   "firstTimeSyncUserActionTitle": {
+      "message": "Gut gemacht!"
+   },
+   "focusModeActionsPause": {
+      "message": "Pause"
+   },
+   "focusModeActionsReset": {
+      "message": "Zurücksetzen"
+   },
+   "focusModeActionsResume": {
+      "message": "Lebenslauf"
+   },
+   "focusModeAddSiteOnBoardingDescription": {
+      "message": "Die Blockliste für den Fokusmodus funktioniert zufällig mit Ihrer Hauptblockliste."
+   },
+   "focusModeAddSiteOnBoardingTitle": {
+      "message": "Hinzufügen von Websites zu Ihrer Fokusmodusliste"
+   },
+   "focusModeAreYouSureBackToSession": {
+      "message": "Zurück zur Sitzung"
+   },
+   "focusModeAreYouSureSubtitle": {
+      "message": "Sind Sie sicher, dass es an der Zeit ist, die Uhr anzuhalten?"
+   },
+   "focusModeAreYouSureTitle": {
+      "message": "Sind Sie sicher?"
+   },
+   "focusModeBreakInterval": {
+      "message": "Pause für %MINUTES% Minuten"
+   },
+   "focusModeBreakText": {
+      "message": "Zugriff auf Ihre gesperrten Seiten während der Pause"
+   },
+   "focusModeBreakTimeLeftText": {
+      "message": "$BREAK_TIME_LEFT$ Minuten bis zur Pausenzeit",
+      "placeholders": {
+         "break_time_left": {
+            "content": "1 $",
+            "example": "25"
+         }
+      }
+   },
+   "focusModeCircleBarTooltip": {
+      "message": "Aktuelle Restzeit im Intervall"
+   },
+   "focusModeCyclesTooltip": {
+      "message": "Aktueller, abgeschlossener und zukünftiger Zyklusstatus"
+   },
+   "focusModeEnterPassToPauseOrReset": {
+      "message": "Für %TIMER_ACTION% geben Sie Ihr Passwort ein"
+   },
+   "focusModeFocusInterval": {
+      "message": "Fokus für %MINUTES% Minuten"
+   },
+   "focusModeFocusText": {
+      "message": "Fokus-Sitzungs-Sites sind blockiert"
+   },
+   "focusModeHourUnit": {
+      "message": "hr"
+   },
+   "focusModeMinutesUnit": {
+      "message": "min"
+   },
+   "focusModeNoSitesText": {
+      "message": "Keine Seiten in der Blockliste gesperrt"
+   },
+   "focusModeNotificationEndOfCycleMessage": {
+      "message": "$CYCLES_COMPLETED$ von $CYCLES$ Zyklen abgeschlossen. Es ist Zeit, sich zu konzentrieren!",
+      "placeholders": {
+         "cycles": {
+            "content": "$2",
+            "example": "2"
+         },
+         "cycles_completed": {
+            "content": "1 $",
+            "example": "1"
+         }
+      }
+   },
+   "focusModeNotificationEndOfCycleTitle": {
+      "message": "Die Pausenzeit ist vorbei."
+   },
+   "focusModeNotificationEndOfCyclesButton": {
+      "message": "Start Sitzung"
+   },
+   "focusModeNotificationEndOfCyclesMessage": {
+      "message": "Eine weitere Fokusmodus-Sitzung starten?"
+   },
+   "focusModeNotificationEndOfCyclesTitle": {
+      "message": "Die Pausenzeit ist vorbei."
+   },
+   "focusModeNotificationEndOfCyclesTitleWithStars": {
+      "message": "Die Pause ist vorbei. Sie haben $STARS$ Sterne verdient.",
+      "placeholders": {
+         "stars": {
+            "content": "1 $",
+            "example": "25"
+         }
+      }
+   },
+   "focusModeNotificationEndOfFocusIntervalMessage": {
+      "message": "Zeit für eine Pause!"
+   },
+   "focusModeNotificationEndOfFocusIntervalTitle": {
+      "message": "Das Fokusintervall ist beendet."
+   },
+   "focusModeOptionsStartFocusSession": {
+      "message": "Fokus-Sitzung starten"
+   },
+   "focusModeOptionsSubtitle": {
+      "message": "Um sich auf eine Aufgabe zu konzentrieren und produktiver zu sein, verwenden Sie den Fokusmodus, um Ihre Arbeitszeiten und Pausenintervalle festzulegen. Fügen Sie Websites zu Ihrer Blockliste hinzu, um Ablenkungen während einer Fokussierungssitzung zu vermeiden"
+   },
+   "focusModeOptionsTimerSetup": {
+      "message": "TIMER-EINSTELLUNG"
+   },
+   "focusModeOptionsTitle": {
+      "message": "Fokus-Modus"
+   },
+   "focusModeSessionOnBoardingDescription": {
+      "message": "Beginnen Sie damit, diese Aufgaben zu erledigen, indem Sie hier klicken, um Ihre Fokusmodus-Sitzung zu starten."
+   },
+   "focusModeSessionOnBoardingTitle": {
+      "message": "Starten Sie Ihren Timer"
+   },
+   "focusModeSettingsBreakTime": {
+      "message": "Pausenzeit"
+   },
+   "focusModeSettingsCycles": {
+      "message": "Zyklen"
+   },
+   "focusModeSettingsFocusTime": {
+      "message": "Fokus Zeit"
+   },
+   "focusModeSettingsGoToOptions": {
+      "message": "Zu den Optionen gehen"
+   },
+   "focusModeSettingsMinutes": {
+      "message": "Protokoll"
+   },
+   "focusModeSettingsNumberOfCycles": {
+      "message": "Anzahl der Zyklen"
+   },
+   "focusModeSettingsStartSession": {
+      "message": "Start Sitzung"
+   },
+   "focusModeSettingsSubtitle": {
+      "message": "Sich auf eine Aufgabe konzentrieren & produktiver sein"
+   },
+   "focusModeSettingsTitle": {
+      "message": "Fokusmodus-Timer"
+   },
+   "focusModeSettingsTooltipFirst": {
+      "message": "Stellen Sie die gewünschte Zeit für den Fokus ein. Die Seiten in Ihrer Fokusmodusliste werden blockiert."
+   },
+   "focusModeSettingsTooltipSecond": {
+      "message": "Stellen Sie die gewünschte Pausenzeit ein und besuchen Sie frei die Websites aus Ihrer Liste."
+   },
+   "focusModeSettingsTooltipThird": {
+      "message": "Die Anzahl der Zyklen der Fokuszeit und der Pausen, die Sie automatisch ausführen möchten."
+   },
+   "focusModeTab": {
+      "message": "Fokus-Modus"
+   },
+   "focusModeTimerOnBoardingDescription": {
+      "message": "Legen Sie eine spezifische Blockierliste fest, um Websites zu blockieren & belohnen Sie sich am Ende eines Zyklus mit einer Pause, indem Sie auf diese Websites zugreifen können."
+   },
+   "focusModeTimerOnBoardingTitle": {
+      "message": "Einrichten einer Fokusmodus-Sitzung"
+   },
+   "focusModeToPauseOrResetEnterPassword": {
+      "message": "Passwort in %TIMER_ACTION% eingeben"
+   },
+   "focusModeWrongPassword": {
+      "message": "Falsches Passwort"
+   },
+   "focusModesSecondsUnit": {
+      "message": "sec"
+   },
+   "forgotPassSentOkBtn": {
+      "message": "OK"
+   },
+   "forgotPassSentText": {
+      "message": "Ihr Passwort wurde gesendet an:"
+   },
+   "forgotPassSentTitle": {
+      "message": "Passwort gesendet"
+   },
+   "forgotPassword": {
+      "message": "Passwort vergessen?"
+   },
+   "goBack": {
+      "message": "Zurück"
+   },
+   "goBackToWork": {
+      "message": "Zurück an die Arbeit"
+   },
+   "goPremium": {
+      "message": "GO PREMIUM"
+   },
+   "headerGoUnlimited": {
+      "message": "GO UNBEGRENZT"
+   },
+   "headerLogin": {
+      "message": "Anmeldung"
+   },
+   "headerLogout": {
+      "message": "Ausloggen"
+   },
+   "importPopupMerge": {
+      "message": "Zusammenführen"
+   },
+   "importPopupOverride": {
+      "message": "Überschreiben"
+   },
+   "importPopupTitle": {
+      "message": "Möchten Sie Ihre aktuelle Liste damit zusammenführen oder überschreiben?"
+   },
+   "insightsCategory_entertainment": {
+      "message": "Unterhaltung"
+   },
+   "insightsCategory_games": {
+      "message": "Spiele"
+   },
+   "insightsCategory_news": {
+      "message": "Nachrichten"
+   },
+   "insightsCategory_other": {
+      "message": "Sonstiges"
+   },
+   "insightsCategory_shopping": {
+      "message": "Einkaufen"
+   },
+   "insightsCategory_social": {
+      "message": "Sozial-"
+   },
+   "insightsCategory_sports": {
+      "message": "Sport"
+   },
+   "insightsDescription": {
+      "message": "Sehen Sie, wie Sie Ihre Zeit online verbringen, um produktiver zu sein"
+   },
+   "insightsEmptyDescription": {
+      "message": "Wir sind noch dabei, Ihre Erkenntnisse zu berechnen, bitte schauen Sie bald für Updates zurück!"
+   },
+   "insightsEmptyTitle": {
+      "message": "Noch keine Erkenntnisse. Versuchen Sie es in 24 Stunden erneut."
+   },
+   "insightsErrorDescription": {
+      "message": "Keine Sorge! Wir arbeiten hart daran, dieses Problem zu lösen, also versuchen Sie es bitte später noch einmal."
+   },
+   "insightsErrorTitle": {
+      "message": "Ups! Etwas ist schief gelaufen!"
+   },
+   "insightsPrivacyText": {
+      "message": "Damit BlockSite in der Lage ist, Seiten mit nicht jugendfreien Inhalten zu erkennen und zu blockieren, benötigen wir Ihre Erlaubnis, auf Informationen über die von Ihnen besuchten Seiten zuzugreifen. Bitte klicken Sie auf \"Zustimmen\", um diesen Zugriff und die Verwendung dieser Informationen wie in unserem "
+   },
+   "insightsPrivacyTitle": {
+      "message": "Hoppla!"
+   },
+   "insightsTimeSaved": {
+      "message": "Wie viel Zeit habe ich gespart?"
+   },
+   "insightsTitle": {
+      "message": "Einblicke"
+   },
+   "insightsTopVisit": {
+      "message": "Meist besuchte Kategorien"
+   },
+   "invalidPassBlockedPage": {
+      "message": "Ungültiges Passwort. Bitte versuchen Sie es erneut."
+   },
+   "leaveWithoutSaving": {
+      "message": "Ohne Speichern verlassen"
+   },
+   "levelUpCongrats": {
+      "message": "Herzlichen Glückwunsch! Du hast $POINTS$ Sterne erreicht",
+      "placeholders": {
+         "points": {
+            "content": "1 $",
+            "example": "25"
+         }
+      }
+   },
+   "levelUpGainStars": {
+      "message": "Bleiben Sie produktiv, um mehr Sterne zu erhalten."
+   },
+   "levelUpGotIt": {
+      "message": "ALLES KLAR"
+   },
+   "levelUpStayProductive": {
+      "message": "Bleiben Sie produktiv und konzentriert, um weiterhin Fortschritte zu machen und Sterne zu gewinnen."
+   },
+   "levelUpUnlocked": {
+      "message": "Entriegelt!"
+   },
+   "levelUpViewProgress": {
+      "message": "Fortschritt anzeigen"
+   },
+   "levelUpWellDone": {
+      "message": "Gut gemacht, dass Sie eine neue Stufe erreicht haben!"
+   },
+   "limitListBannerCounter": {
+      "message": "Sites übrig, die Sie zu Ihrer Blockierliste hinzufügen können."
+   },
+   "limitListBannerCounterReached": {
+      "message": "Sie haben das Limit Ihrer Blockliste erreicht."
+   },
+   "limitListBannerUpgrade": {
+      "message": "GO UNBEGRENZT"
+   },
+   "limitListBannerUpgradeTip": {
+      "message": "Klicken Sie hier, um ein Upgrade durchzuführen und in den Genuss einer unbegrenzten Blockliste zu kommen."
+   },
+   "limitListBannerUpgradeTipPopup": {
+      "message": "Klicken Sie für ein Upgrade &und genießen Sie eine unbegrenzte Blockliste."
+   },
+   "limitListBannerUpgradeTipReachedPopup": {
+      "message": "Ihre Sperrliste hat die maximale Anzahl von Websites erreicht."
+   },
+   "limitListOverlayContentTitle": {
+      "message": "Unsere Premium-Benutzer sparen eine Stunde pro Tag wertvolle Zeit. Holen Sie sich alle Premium-Funktionen und fangen Sie noch heute an, produktiver zu werden!"
+   },
+   "limitListOverlayEditBlockListPopup": {
+      "message": "Blockliste bearbeiten"
+   },
+   "limitListOverlayFeatureFirstSubtitle": {
+      "message": "Blockieren Sie so viele Websites, wie Sie möchten"
+   },
+   "limitListOverlayFeatureFirstTitle": {
+      "message": "Unbegrenzte Blockliste"
+   },
+   "limitListOverlayFeatureFourthSubtitle": {
+      "message": "In der Wolke gespeichert"
+   },
+   "limitListOverlayFeatureFourthTitle": {
+      "message": "Synchronisierung zwischen Erweiterungen"
+   },
+   "limitListOverlayFeatureSecondSubtitle": {
+      "message": "Der schnellste Weg zum Blockieren"
+   },
+   "limitListOverlayFeatureSecondTitle": {
+      "message": "Block in loser Schüttung mit Kategorien"
+   },
+   "limitListOverlayFeatureThirdSubtitle": {
+      "message": "Wählen Sie Bilder und Texte, die für Sie einzigartig sind"
+   },
+   "limitListOverlayFeatureThirdTitle": {
+      "message": "Anpassen Ihrer Blockseite"
+   },
+   "limitListOverlayImportTitle": {
+      "message": "Importlimit erreicht"
+   },
+   "limitListOverlayMaybeLater": {
+      "message": "Vielleicht später"
+   },
+   "limitListOverlaySpecialOfferTitle": {
+      "message": "Exklusives Angebot!"
+   },
+   "limitListOverlaySubtitle": {
+      "message": "Mehr bekommen. Unbegrenzt gehen"
+   },
+   "limitListOverlaySubtitlePopup": {
+      "message": "Führen Sie jetzt ein Upgrade durch, um unbegrenzte Sites auf allen Geräten zu erhalten."
+   },
+   "limitListOverlayTitle": {
+      "message": "Blockliste Standortgrenze erreicht"
+   },
+   "limitListOverlayTitlePopup": {
+      "message": "Sie haben das Limit Ihrer Blockliste erreicht!"
+   },
+   "limitListOverlayUpgradeNow": {
+      "message": "GO UNBEGRENZT"
+   },
+   "limitListOverlayUpgradePopup": {
+      "message": "GO UNBEGRENZT"
+   },
+   "limitPopupDiscountSpecialOfferSubTitle": {
+      "message": "Unser niedrigster EVER-Abonnementpreis"
+   },
+   "loginSyncGotIt": {
+      "message": "ALLES KLAR"
+   },
+   "loginSyncLoginToSite": {
+      "message": "Um die Erweiterung zu synchronisieren, melden Sie sich bitte an / Login"
+   },
+   "loginSyncPleaseLogin": {
+      "message": "Bitte anmelden, um zu synchronisieren"
+   },
+   "logoutPopupQuestionApproveText": {
+      "message": "Ja, tun Sie es"
+   },
+   "logoutPopupQuestionCancelText": {
+      "message": "Nein, Abbrechen"
+   },
+   "logoutPopupQuestionDescription": {
+      "message": "Alle Änderungen, die Sie vornehmen, während Sie abgemeldet sind, werden nicht mit der Cloud synchronisiert."
+   },
+   "logoutPopupQuestionTitle": {
+      "message": "Sind Sie sicher?"
+   },
+   "mandatoryConsentAgree": {
+      "message": "Zustimmen"
+   },
+   "mandatoryConsentDisagree": {
+      "message": "Ablehnen"
+   },
+   "mandatoryConsentDisclaimer": {
+      "message": "Wenn Sie auf „Ablehnen“ klicken, können Sie BlockSite weiterhin verwenden, jedoch ist die Funktion zum Blockieren nicht jugendfreier Inhalte dann nicht verfügbar."
+   },
+   "mandatoryConsentPrivacyPolicy": {
+      "message": "Datenschutzrichtlinie"
+   },
+   "mandatoryConsentSubtitle": {
+      "message": "Damit BlockSite in der Lage ist, Seiten mit nicht jugendfreien Inhalten zu erkennen und zu blockieren, benötigen wir Ihre Erlaubnis, auf Informationen über die von Ihnen besuchten Seiten zuzugreifen. Bitte klicken Sie auf \"Zustimmen\", um diesen Zugriff und die Verwendung dieser Informationen wie in unserem"
+   },
+   "mandatoryConsentTitle1": {
+      "message": "Bitte treffen Sie eine Auswahl in"
+   },
+   "mandatoryConsentTitle2": {
+      "message": "um zur BlockSite zu gelangen."
+   },
+   "motivationalText1": {
+      "message": "Vergiss es."
+   },
+   "motivationalText10": {
+      "message": "Stopp!"
+   },
+   "motivationalText11": {
+      "message": "Oh je!"
+   },
+   "motivationalText12": {
+      "message": "Netter Versuch …"
+   },
+   "motivationalText2": {
+      "message": "Auf gar keinen Fall!"
+   },
+   "motivationalText3": {
+      "message": "Netter Versuch …"
+   },
+   "motivationalText4": {
+      "message": "Im Ernst?"
+   },
+   "motivationalText5": {
+      "message": "Wo wollen wir denn hin?"
+   },
+   "motivationalText6": {
+      "message": "Zurück an die Arbeit!"
+   },
+   "motivationalText7": {
+      "message": "Welpen. Komische braune Muttermale. Justin Bieber."
+   },
+   "motivationalText8": {
+      "message": "Kakerlaken. Abgetrennte Gliedmaßen. John Goodman."
+   },
+   "motivationalText9": {
+      "message": "Oma. Kobe Bryant. Chirurgische Eingriffe."
+   },
+   "offTitle": {
+      "message": "BlockSite ist momentan deaktiviert"
+   },
+   "onBoardingDismiss": {
+      "message": "Ablehnen"
+   },
+   "onBoardingNextStep": {
+      "message": "Weiter"
+   },
+   "optionMenuBannerCTASignupNow": {
+      "message": "Jetzt registrieren"
+   },
+   "optionsLockedSubtitle": {
+      "message": "Bitte geben Sie Ihr Passwort ein, um auf die BlockSite-Optionsseite zuzugreifen."
+   },
+   "optionsLockedTitle": {
+      "message": "BlockSite-Optionen gesperrt"
+   },
+   "optionsMenuAbout": {
+      "message": "Über"
+   },
+   "optionsMenuBannerCTAGoUnlimited": {
+      "message": "GO UNBEGRENZT"
+   },
+   "optionsMenuBannerCTATryNow": {
+      "message": "Jetzt versuchen"
+   },
+   "optionsMenuBannerSubtitleCategory": {
+      "message": "Sparen Sie mehr Zeit, indem Sie Tausende von Websites mit einem einzigen Klick blockieren"
+   },
+   "optionsMenuBannerSubtitleCustomizeBlockPage": {
+      "message": "Wählen Sie Bilder & Texte, um sie zu gestalten"
+   },
+   "optionsMenuBannerSubtitleDesktop": {
+      "message": "Blockieren Sie zeitraubende Websites in Edge, Firefox und Chrome mit einer einzigen Anwendung!"
+   },
+   "optionsMenuBannerSubtitleGoUnlimited": {
+      "message": "Seien Sie der Erste, der unsere neuesten Funktionen nutzt"
+   },
+   "optionsMenuBannerSubtitleInsights": {
+      "message": "Erforschen Sie Ihre Browsing-Trends & wie Sie Ihre Zeit online verbringen "
+   },
+   "optionsMenuBannerSubtitleMobile": {
+      "message": "Scannen Sie den QR-Code & und bleiben Sie auch unterwegs produktiv."
+   },
+   "optionsMenuBannerSubtitlePasswordProtection": {
+      "message": "Erschweren Sie das Entfernen von Websites aus Ihrer Sperrliste"
+   },
+   "optionsMenuBannerSubtitleSignup": {
+      "message": "Verdienen Sie Belohnungen und synchronisieren Sie Ihre Blockliste auf allen Geräten"
+   },
+   "optionsMenuBannerSubtitleSlack": {
+      "message": "Automatisches Einschalten des Modus \"Bitte nicht stören\" im Fokusmodus"
+   },
+   "optionsMenuBannerSubtitleUnlimitedBlockList": {
+      "message": "Fügen Sie beliebig viele Websites zu Ihrer Sperrliste hinzu"
+   },
+   "optionsMenuBannerTitleCategory": {
+      "message": "Block nach Kategorie"
+   },
+   "optionsMenuBannerTitleCustomizeBlockPage": {
+      "message": "Blockseite anpassen"
+   },
+   "optionsMenuBannerTitleDesktop": {
+      "message": "BlockSite für Windows BETA"
+   },
+   "optionsMenuBannerTitleGoUnlimited": {
+      "message": "Mehr bekommen. Unbegrenzt gehen"
+   },
+   "optionsMenuBannerTitleInsights": {
+      "message": "Einblicke"
+   },
+   "optionsMenuBannerTitleMobile": {
+      "message": "BlockSite App auf Ihrem Smartphone"
+   },
+   "optionsMenuBannerTitlePasswordProtection": {
+      "message": "Passwortschutz"
+   },
+   "optionsMenuBannerTitleSignup": {
+      "message": "Registrieren Sie sich für mehr Produktivität"
+   },
+   "optionsMenuBannerTitleSlack": {
+      "message": "Slack-Anwendung von BlockSite"
+   },
+   "optionsMenuBannerTitleUnlimitedBlockList": {
+      "message": "Unbegrenzte Blockliste"
+   },
+   "optionsMenuBlockByWords": {
+      "message": "Blockieren nach Wörtern"
+   },
+   "optionsMenuBlockSites": {
+      "message": "Websites blockieren"
+   },
+   "optionsMenuBlocking": {
+      "message": "Blockieren von"
+   },
+   "optionsMenuCategories": {
+      "message": "Kategorien"
+   },
+   "optionsMenuCustomizeBlockPage": {
+      "message": "Benutzerdefinierte Blockseite"
+   },
+   "optionsMenuFocusMode": {
+      "message": "Fokus-Modus"
+   },
+   "optionsMenuPasswordProtection": {
+      "message": "Passwortschutz"
+   },
+   "optionsMenuSettings": {
+      "message": "Einstellungen"
+   },
+   "optionsMenuSyncWithOtherDevices": {
+      "message": "Synchronisierung mit anderen Geräten"
+   },
+   "optionsMenuSyncedOff": {
+      "message": "Behinderte"
+   },
+   "optionsMenuSyncedOn": {
+      "message": "Aktiviert"
+   },
+   "optionsNotificationEmptyList": {
+      "message": "Ihre Liste ist leer! Es kann nichts exportiert werden."
+   },
+   "optionsNotificationEmptyWord": {
+      "message": "Kann kein leeres Wort hinzufügen"
+   },
+   "optionsNotificationIncorrectFileStructure": {
+      "message": "Falsche Dateistruktur. Bitte versuchen Sie, Ihre aktuelle Liste zu exportieren, um das erforderliche csv-Format zu sehen."
+   },
+   "optionsNotificationIncorrectURL": {
+      "message": "Falsche URL"
+   },
+   "optionsNotificationListExported": {
+      "message": "Ihre Liste wurde erfolgreich exportiert."
+   },
+   "optionsNotificationListImported": {
+      "message": "Ihre Liste wurde erfolgreich importiert."
+   },
+   "optionsNotificationSiteAdded": {
+      "message": "Website hinzugefügt"
+   },
+   "optionsNotificationURLAlreadyExist": {
+      "message": "URL bereits vorhanden"
+   },
+   "optionsNotificationWordAlreadyExist": {
+      "message": "Wort bereits vorhanden"
+   },
+   "optionsPageRedirectButton": {
+      "message": "Weiterleiten"
+   },
+   "optionsPageRedirectOK": {
+      "message": "OK"
+   },
+   "optionsPageRedirectPlaceHolder": {
+      "message": "Webadresse (z. B: google.com)"
+   },
+   "optionsPageRedirectRemove": {
+      "message": "Entfernen"
+   },
+   "optionsPageRedirectTitle": {
+      "message": " Umleiten Ihrer blockierten Seiten"
+   },
+   "optionsPageRedirectTooltipNotSet": {
+      "message": "Hier klicken, um eine Weiterleitungs-URL festzulegen"
+   },
+   "optionsPageRedirectTooltipSet": {
+      "message": "Weiterleitung an $URL$",
+      "placeholders": {
+         "url": {
+            "content": "1 $",
+            "example": "https://example.com"
+         }
+      }
+   },
+   "optionsPageScheduleAddInterval": {
+      "message": "Intervall hinzufügen"
+   },
+   "optionsPageScheduleButton": {
+      "message": "Zeitplan"
+   },
+   "optionsPageScheduleClickDay": {
+      "message": "(Auf einen Tag klicken, um diesen zu deaktivieren)"
+   },
+   "optionsPageScheduleEveryDay": {
+      "message": "Jeden Tag"
+   },
+   "optionsPageScheduleRemoveSchedule": {
+      "message": "Entfernen"
+   },
+   "optionsPageScheduleSelectDays": {
+      "message": "AUSGEWÄHLTE TAGE"
+   },
+   "optionsPageScheduleSetBlocking": {
+      "message": "Zeitplan für das Blockieren von Websites erstellen"
+   },
+   "optionsPageScheduleSetSchedule": {
+      "message": "Zeitplan festlegen"
+   },
+   "optionsPageScheduleSetTimes": {
+      "message": "ZEITEN EINSTELLEN"
+   },
+   "optionsPageScheduleTo": {
+      "message": "an"
+   },
+   "passwordProtectionGoUnlimitedButton": {
+      "message": "GO UNBEGRENZT"
+   },
+   "passwordProtectionHookSubtitle": {
+      "message": "Erschweren Sie das Zögern, indem Sie Ihre Einstellungen mit einem Passcode sperren"
+   },
+   "passwordProtectionHookTitleRemoveSite": {
+      "message": "Versuchen Sie nicht länger, Websites zu entfernen! Passwortschutz erhalten"
+   },
+   "passwordProtectionHookTitleToggleOff": {
+      "message": "Betrügen Sie sich nicht selbst! Besorgen Sie sich einen Passwortschutz."
+   },
+   "passwordProtectionLoseAccessApprove": {
+      "message": "Ja, tun Sie es"
+   },
+   "passwordProtectionLoseAccessCancel": {
+      "message": "Nein, Abbrechen"
+   },
+   "passwordProtectionLoseAccessSubtitle": {
+      "message": "Der Passwortschutz ist jetzt eine Premium-Funktion. Als treuer Benutzer ist er für Sie kostenlos. Damit dies so bleibt, muss er aktiviert werden."
+   },
+   "passwordProtectionLoseAccessTitleFirst": {
+      "message": "Sie sind dabei, den Zugriff zu verlieren."
+   },
+   "passwordProtectionLoseAccessTitleSecond": {
+      "message": "Sind Sie sicher?"
+   },
+   "passwordProtectionMaybeLaterButton": {
+      "message": "Vielleicht später"
+   },
+   "passwordProtectionNonPremiumCTA": {
+      "message": "Passwortschutz erhalten"
+   },
+   "passwordProtectionNonPremiumSubtitle": {
+      "message": "Erschweren Sie das Ändern Ihrer Einstellungen und das Entfernen von Websites aus Ihrer Sperrliste"
+   },
+   "passwordProtectionNonPremiumTitle": {
+      "message": "Produktiv bleiben mit Passwortschutz"
+   },
+   "passwordProtectionOptionAddChallenge": {
+      "message": "Blockierte Seite Herausforderung - zusätzlicher Schritt zur Freigabe der Seite"
+   },
+   "passwordProtectionOptionBlockBlockedPage": {
+      "message": "Den Passwortzugriff für blockierte Websites aktivieren"
+   },
+   "passwordProtectionOptionBlockSettings": {
+      "message": "Schützen Sie Ihre bevorzugten BlockSite-Optionen und die Erweiterungsseite $BROWSER$ mit einem Passwort",
+      "placeholders": {
+         "browser": {
+            "content": "1 $"
+         }
+      }
+   },
+   "passwordProtectionOptionNotifyUninstalled": {
+      "message": "Per E-Mail benachrichtigt werden, wenn BlockSite deinstalliert wird"
+   },
+   "passwordProtectionPreferences": {
+      "message": "Passwortschutz-Präferenzen"
+   },
+   "passwordProtectionSetupNowButton": {
+      "message": "Jetzt einrichten"
+   },
+   "passwordProtectionUnlockButton": {
+      "message": "Jetzt freischalten"
+   },
+   "passwordProtectionUnlockPageSubtitle": {
+      "message": "Bitte geben Sie Ihr Passwort ein, um die Seite freizuschalten"
+   },
+   "passwordProtectionUnlockPageTitle": {
+      "message": "Diese Seite ist gesperrt!"
+   },
+   "passwordProtectionVerificationEmail": {
+      "message": "E-MAIL-ADRESSE"
+   },
+   "passwordProtectionVerificationMinimumPass": {
+      "message": "Mindestens 5 Zeichen"
+   },
+   "passwordProtectionVerificationPassword": {
+      "message": "PASSWORT"
+   },
+   "passwordProtectionVerificationRequired": {
+      "message": "Verifizierung erforderlich"
+   },
+   "passwordQuestionBack": {
+      "message": "Zurück"
+   },
+   "passwordQuestionClickBack": {
+      "message": "Benutzer, die unten auf `BACK` klicken"
+   },
+   "passwordQuestionDontShowAgain": {
+      "message": "NICHT MEHR ZEIGEN"
+   },
+   "passwordQuestionPleaseTryAgain": {
+      "message": "Falsch. Bitte versuchen Sie es erneut."
+   },
+   "passwordQuestionReallyToDo": {
+      "message": "Willst du das wirklich tun?"
+   },
+   "passwordQuestionSaveMinutes": {
+      "message": "sparen Sie im Durchschnitt 15 Minuten pro Tag."
+   },
+   "passwordQuestionToUnlock": {
+      "message": "Zum Freischalten geben Sie bitte ein"
+   },
+   "passwordVerificationWarning": {
+      "message": "Der Passwortschutz ist nicht aktiviert. Um dies zu aktivieren, öffnen Sie bitte den Link in der E-Mail im gleichen Browserfenster, mit dem Sie ursprünglich Ihr Konto eingerichtet haben."
+   },
+   "popupHeaderUpgradeNow": {
+      "message": "GO UNBEGRENZT"
+   },
+   "popupLockedSubtitle": {
+      "message": "Geben Sie Ihr Passwort ein, um zu den Erweiterungseinstellungen zu gelangen"
+   },
+   "popupLockedTitle": {
+      "message": "BlockSite ist gesperrt"
+   },
+   "popupQuestionApprove": {
+      "message": "Ja"
+   },
+   "popupQuestionCancel": {
+      "message": "Nein"
+   },
+   "premiumBannerCTA": {
+      "message": "GO UNBEGRENZT"
+   },
+   "premiumBannerNew": {
+      "message": "Neu!"
+   },
+   "premiumBannerSubtitleA": {
+      "message": "Wählen Sie Ihr eigenes Bild und Ihren eigenen Text, um eine einzigartige blockierte Seite zu erstellen."
+   },
+   "premiumBannerSubtitleB": {
+      "message": "Lassen Sie sich nicht durch eine Vorauswahl ablenken. Fügen Sie so viele Websites hinzu, wie Sie möchten."
+   },
+   "premiumBannerTitleA": {
+      "message": "Erstellen Sie Ihre eigene Blockseite!"
+   },
+   "premiumBannerTitleB": {
+      "message": "Unbegrenzte Blockliste erhalten!"
+   },
+   "premiumHookCTA": {
+      "message": "GRATIS TESTEN"
+   },
+   "premiumHookTitle": {
+      "message": "GO UNBEGRENZT"
+   },
+   "premiumOverlayCategorySubtitle": {
+      "message": "Schnellster Weg zum Blockieren"
+   },
+   "premiumOverlayCategoryTitle": {
+      "message": "Block nach Kategorie"
+   },
+   "premiumOverlayCustomizationSubtitle": {
+      "message": "Bilder einstellen & text"
+   },
+   "premiumOverlayCustomizationTitle": {
+      "message": "Blockseite anpassen"
+   },
+   "premiumOverlayGoUnlimited": {
+      "message": "GO UNBEGRENZT"
+   },
+   "premiumOverlayInsightsSubtitle": {
+      "message": "Browsing-Trends erforschen"
+   },
+   "premiumOverlayInsightsTitle": {
+      "message": "Nützliche Einblicke"
+   },
+   "premiumOverlayMaybeLater": {
+      "message": "Vielleicht später"
+   },
+   "premiumOverlaySubtitle": {
+      "message": "3 Tage kostenlos testen"
+   },
+   "premiumOverlayTitle": {
+      "message": "BlockSite Unbegrenzt"
+   },
+   "premiumOverlayUnlimitedSubtitle": {
+      "message": "Überall. Jederzeit."
+   },
+   "premiumOverlayUnlimitedTitle": {
+      "message": "Unbegrenzte Sperrliste"
+   },
+   "privacyIAccept": {
+      "message": "Ich akzeptiere"
+   },
+   "privacySettingsPrivacyPolicy": {
+      "message": "Datenschutzrichtlinie."
+   },
+   "privacySettingsSubtitle": {
+      "message": "Erlaubt BlockSite den Zugriff auf die von Ihnen besuchten URLs, die IP-Adresse, das Betriebssystem und die Browser-Informationen, zur Verwendung gemäß unserer "
+   },
+   "privacySettingsTitle": {
+      "message": "Aktivieren \"Blockieren nach Kategorie\" Blockieren"
+   },
+   "protectionSettingsSaved": {
+      "message": "Schutzeinstellungen gespeichert"
+   },
+   "pushToAccountCTA": {
+      "message": "Jetzt registrieren"
+   },
+   "pushToAccountSubTitle": {
+      "message": "Erstellen Sie ein kostenloses BlockSite-Konto, um Belohnungen für produktives Arbeiten zu erhalten und BlockSite über verschiedene Geräte zu synchronisieren"
+   },
+   "pushToAccountTitle": {
+      "message": "Angemeldete Nutzer erreichen ihre Ziele schneller"
+   },
+   "pushToBlockListCTA": {
+      "message": "GO UNBEGRENZT"
+   },
+   "pushToBlockListSubTitle": {
+      "message": "Aktualisieren Sie noch heute, um beliebig viele Websites zu Ihrer Blockierliste hinzuzufügen"
+   },
+   "pushToBlockListTitle": {
+      "message": "Erhalten Sie eine unbegrenzte Blockliste, indem Sie noch heute ein Upgrade durchführen"
+   },
+   "pushToCategoriesCTA": {
+      "message": "GO UNBEGRENZT"
+   },
+   "pushToCategoriesSubTitle": {
+      "message": "Sparen Sie Zeit und bleiben Sie konzentriert, indem Sie Tausende von Websites mit einem einzigen Klick blockieren."
+   },
+   "pushToCategoriesTitle": {
+      "message": "Blockieren Sie Tausende von Websites mit einem Klick!"
+   },
+   "pushToCustomizedPageSubTitle": {
+      "message": "Wählen Sie Bilder und Texte und erstellen Sie Ihre eigene gesperrte Seite"
+   },
+   "pushToCustomizedPageTitle": {
+      "message": "Erstellen Sie & und passen Sie Ihre eigenen\ngesperrten Seiten an."
+   },
+   "pushToCustomizedPagedCTA": {
+      "message": "GO UNBEGRENZT"
+   },
+   "pushToDesktopCTA": {
+      "message": "Jetzt versuchen"
+   },
+   "pushToDesktopOverlayCTAMaybeLater": {
+      "message": "Vielleicht später"
+   },
+   "pushToDesktopOverlayCTAUpgrade": {
+      "message": "Mehr erfahren"
+   },
+   "pushToDesktopOverlaySubtitleA": {
+      "message": "Sie können jetzt alle Ablenkungen auf Edge, Firefox und Chrome mit einer App blockieren! Laden Sie die brandneue App noch heute herunter"
+   },
+   "pushToDesktopOverlaySubtitleB": {
+      "message": "Sie können jetzt alle Ablenkungen in Chrome, Firefox und Edge mit unserer neuen Windows-Desktop-App blockieren"
+   },
+   "pushToDesktopOverlayTitleA": {
+      "message": "Blockieren in mehreren Browsern"
+   },
+   "pushToDesktopOverlayTitleB": {
+      "message": "Die neue Windows-App ist jetzt LIVE!"
+   },
+   "pushToDesktopSubTitle": {
+      "message": "Sie können jetzt alle Ablenkungen auf Edge, Firefox und Chrome mit einer App blockieren! Laden Sie die brandneue App noch heute herunter"
+   },
+   "pushToDesktopTitle": {
+      "message": "BlockSite Windows App BETA\nJetzt verfügbar!"
+   },
+   "pushToGoUnlimitedCTA": {
+      "message": "GO UNBEGRENZT"
+   },
+   "pushToGoUnlimitedSubTitle": {
+      "message": "Premium-Benutzer sparen jeden Tag mehr Zeit. Das können auch Sie, indem Sie auf BlockSite Unlimited upgraden."
+   },
+   "pushToGoUnlimitedTitle": {
+      "message": "Mehr bekommen. Unbegrenzt gehen"
+   },
+   "pushToInsightsCTA": {
+      "message": "GO UNBEGRENZT"
+   },
+   "pushToInsightsSubTitle": {
+      "message": "Untersuchen Sie Ihre Online-Surftrends im Laufe der Zeit und erfahren Sie, wie Sie Ihre Produktivität verbessern können"
+   },
+   "pushToInsightsTitle": {
+      "message": "Erforschen Sie Ihre Browsing-Trends\nmit Insights!"
+   },
+   "pushToMobileOverlayCTA": {
+      "message": "Vielleicht später"
+   },
+   "pushToMobileOverlaySubtitle": {
+      "message": "Bleiben Sie unterwegs produktiv, indem Sie den Barcode einscannen, um die BlockSite für mobile Endgeräte zu erhalten"
+   },
+   "pushToMobileOverlayTitle": {
+      "message": "Holen Sie sich BlockSite auf Ihr Handy"
+   },
+   "redirectOnBoardingDescription": {
+      "message": "Fügen Sie eine Website hinzu, auf die Sie umgeleitet werden möchten, wenn Sie versuchen, auf eine gesperrte Website oder ein Schlüsselwort zuzugreifen, oder wenn Sie den Fokusmodus verwenden"
+   },
+   "redirectOnBoardingTitle": {
+      "message": "Umleitungsseite festlegen"
+   },
+   "resetPasswordSuccessBtnText": {
+      "message": "OK"
+   },
+   "resetPasswordSuccessSubTitle": {
+      "message": "Ihr Passwort wurde gesendet an $MAIL$",
+      "placeholders": {
+         "mail": {
+            "content": "$1",
+            "example": "example@mail.com"
+         }
+      }
+   },
+   "resetPasswordSuccessTitle": {
+      "message": "Passwort gesendet"
+   },
+   "rewardUnlockCta": {
+      "message": "Alle Belohnungen durchsuchen"
+   },
+   "rewardUnlockDescription": {
+      "message": "Gut gemacht! Ihre harte Arbeit hat sich gelohnt und Sie haben eine Belohnung dafür gewonnen! Sie können sie jetzt verwenden oder für später aufheben."
+   },
+   "rewardUnlockTitle": {
+      "message": "Belohnung freigeschaltet!"
+   },
+   "saveEmailSettings": {
+      "message": "Speichern"
+   },
+   "scheduleOnBoardingDescription": {
+      "message": "Sperren Sie Websites an bestimmten Tagen und in bestimmten Zeiträumen. Außerhalb dieser Zeiträume werden die Seiten nicht gesperrt."
+   },
+   "scheduleOnBoardingTitle": {
+      "message": "Erstellen eines Blockierungsplans"
+   },
+   "setFirstPassProtectUserActionCTA": {
+      "message": "Fantastisch"
+   },
+   "setFirstPassProtectUserActionSubTitle": {
+      "message": "Es wird nun viel einfacher sein, Ablenkungen zu vermeiden"
+   },
+   "setFirstPassProtectUserActionTitle": {
+      "message": "Gute Arbeit!"
+   },
+   "setUpEmailAndPass": {
+      "message": "Richten Sie zur Aktivierung Ihre E-Mail-Adresse und Ihr Passwort ein"
+   },
+   "settingEnableFocusModeFaviconSubtitle": {
+      "message": "Aktivieren Sie diese Option, um die im aktuellen Intervall verbleibende Zeit auf dem Favicon der Erweiterung anzuzeigen."
+   },
+   "settingEnableFocusModeFaviconTitle": {
+      "message": "Verbleibende Zeit auf Favicon anzeigen"
+   },
+   "settingEnableSyncStatusSubtitle": {
+      "message": "Aktivieren, um eine Verknüpfung zum einfachen Aktivieren/Deaktivieren der Synchronisierung mit mobilen und/oder anderen Erweiterungen anzuzeigen."
+   },
+   "settingEnableSyncStatusTitle": {
+      "message": "Kontextmenü der Seite Synchronisierungsoptionen anzeigen"
+   },
+   "settingsChangedTitle1": {
+      "message": "Bitte speichern Sie Ihre E-Mail-Adresse und Ihr Passwort, um die zusätzlichen Schutzfunktionen zu aktivieren."
+   },
+   "settingsEnableBlockSiteShortcutSubtitle": {
+      "message": "Fügen Sie Websites zu Ihrer Blockliste oder Ihrer Fokusmodusliste hinzu, indem Sie mit der rechten Maustaste auf eine Website klicken und das Menü BlockSite auswählen."
+   },
+   "settingsEnableBlockSiteShortcutTitle": {
+      "message": "Aktivieren Sie die BlockSite-Verknüpfungsoption mit der rechten Maustaste"
+   },
+   "settingsGeneralHeader": {
+      "message": "ALLGEMEINES"
+   },
+   "settingsIntegrationsHeader": {
+      "message": "Integrationen"
+   },
+   "settingsNotSaved": {
+      "message": "Einstellungen wurden nicht gespeichert"
+   },
+   "settingsOptionSubtitle": {
+      "message": ""
+   },
+   "settingsOptionTitle": {
+      "message": "Einstellungen"
+   },
+   "settingsShowMotivationalSubtitle": {
+      "message": "Wenn Sie dies aktivieren, werden Bilder auf einer gesperrten Website angezeigt. Bei Deaktivierung wird ein weißer Hintergrund angezeigt."
+   },
+   "settingsShowMotivationalTitle": {
+      "message": "Blockierte Seitenmotivations-Bilder anzeigen"
+   },
+   "settingsSlackDNDSubtitle": {
+      "message": "Slack automatisch in den Modus \"Nicht stören\" setzen, wenn Sie sich in einer Fokus-Sitzung befinden"
+   },
+   "settingsSlackDNDTitle": {
+      "message": "Slack DND während Fokus-Sitzung"
+   },
+   "settingsSlackDNDTurnOffOverlayNoThanks": {
+      "message": "Nein Danke"
+   },
+   "settingsSlackDNDTurnOffOverlaySubtitle": {
+      "message": "Wenn du Slack für BlockSite ausschaltest, wirst du viel leichter abgelenkt werden. Willst du Slack immer noch ausschalten?"
+   },
+   "settingsSlackDNDTurnOffOverlayTitle": {
+      "message": "Sind Sie sicher?"
+   },
+   "settingsSlackDNDTurnOffOverlayYesPlease": {
+      "message": "Ja Bitte"
+   },
+   "settingsSlackDNDTurnOnOverlayGoUnlimitedSlackAccount": {
+      "message": "GO UNBEGRENZT"
+   },
+   "settingsSlackDNDTurnOnOverlayLinkSlackAccount": {
+      "message": "Slack-Konto verknüpfen"
+   },
+   "settingsSlackDNDTurnOnOverlayMaybeLater": {
+      "message": "Vielleicht später"
+   },
+   "settingsSlackDNDTurnOnOverlayNotifications": {
+      "message": "Stellen Sie Benachrichtigungen während des Fokusmodus auf lautlos, indem Sie automatisch den Modus \"Nicht stören\" einstellen"
+   },
+   "settingsSlackDNDTurnOnOverlayPrivacy": {
+      "message": "Bitte beachten Sie: BlockSite hält Ihre Nachrichten privat. Wir speichern oder sehen keine Nachrichten oder Chats, die gesendet oder empfangen werden."
+   },
+   "settingsSlackDNDTurnOnOverlayTitle": {
+      "message": "Vermeiden Sie noch mehr Ablenkungen durch die Integration von Slack mit BlockSite"
+   },
+   "settingsSlackDNDTurnOnUpgradeOverlayTitle": {
+      "message": "Upgrade auf Unlimited zur Integration von Slack mit BlockSite"
+   },
+   "settingsSlackDNDUpgradeButton": {
+      "message": "GO UNBEGRENZT"
+   },
+   "settingsSlackSubtitleNonPremium": {
+      "message": "Upgraden Sie auf BlockSite Unlimited, um Ihren Fokus mit BlockSites-Automatisierungen für Slack zu stärken."
+   },
+   "settingsSlackSubtitlePremium": {
+      "message": "Stärken Sie Ihren Fokus mit BlockSites-Automatisierungen für Slack."
+   },
+   "settingsSyncHeader": {
+      "message": "Synchronisieren"
+   },
+   "settingsSyncSubtitle": {
+      "message": "Sichern Sie die Einstellungen Ihrer aktuellen Erweiterung und die Blockierliste Ihrer aktuellen Erweiterung in der Cloud oder synchronisieren Sie sie mit bis zu 4 anderen Geräten von unseren Android- und/oder Erweiterungsplattformen, wenn Sie sich mit demselben Benutzerkonto angemeldet haben."
+   },
+   "settingsSyncTitle": {
+      "message": "Synchronisierung mit anderen Geräten"
+   },
+   "settingsViewHeader": {
+      "message": "Ansicht"
+   },
+   "shareFacebookIconTitle": {
+      "message": "Facebook"
+   },
+   "shareLinkedinIconTitle": {
+      "message": "Linkedin"
+   },
+   "sharePopupSubTitle": {
+      "message": "Helfen Sie anderen und informieren Sie sie über BlockSite"
+   },
+   "sharePopupTitle": {
+      "message": "Teilen Sie Ihre Liebe zur Produktivität und Konzentration"
+   },
+   "shareTwitterIconTitle": {
+      "message": "Twitter"
+   },
+   "specialOfferPopupFinePrint": {
+      "message": "Jährliche Abrechnung. Wiederkehrende Abrechnung. Jederzeit aus beliebigem Grund kündbar"
+   },
+   "specialOfferPopupGoMaybeLater": {
+      "message": "Vielleicht später"
+   },
+   "specialOfferPopupGoUnlimited": {
+      "message": "GO UNBEGRENZT"
+   },
+   "specialOfferPopupSave": {
+      "message": "Speichern"
+   },
+   "specialOfferPopupSubtitle": {
+      "message": " Außerdem erhalten Sie Funktionen wie Massensperrung, Passwortschutz und mehr. Nur für begrenzte Zeit!"
+   },
+   "specialOfferPopupTitle": {
+      "message": "Unbegrenzte Blockierung für $"
+   },
+   "specialOfferPopupYear": {
+      "message": "Jahr"
+   },
+   "syncOverrideConfirmationApprove": {
+      "message": "Ja"
+   },
+   "syncOverrideConfirmationCancel": {
+      "message": "Nein"
+   },
+   "syncOverrideConfirmationSubTitle": {
+      "message": "Alle Änderungen, die im Offline-Modus vorgenommen wurden, werden NICHT auf anderen Geräten aktualisiert und gehen verloren."
+   },
+   "syncOverrideConfirmationTitle": {
+      "message": "Sind Sie sicher?"
+   },
+   "tagTextLatestNews": {
+      "message": "NEUESTE NACHRICHTEN"
+   },
+   "tagTextPremium": {
+      "message": "Premium"
+   },
+   "tagTextQuickTip": {
+      "message": "SCHNELLER TIPP"
+   },
+   "tooltipExportList": {
+      "message": "Liste exportieren"
+   },
+   "tooltipImportList": {
+      "message": "Liste importieren"
+   },
+   "updateEmailAndPassword": {
+      "message": "E-Mail und Passwort aktualisieren"
+   },
+   "updateThemHereLink": {
+      "message": "Aktualisieren Sie sie hier"
+   },
+   "userActionStars": {
+      "message": "Du hast +$STARS$ Sterne verdient",
+      "placeholders": {
+         "stars": {
+            "content": "1 $",
+            "example": "25"
+         }
+      }
+   },
+   "verificationCheckYourEmail": {
+      "message": "Um ihn zu aktivieren, überprüfen Sie bitte Ihre E-Mail-Adresse für den Verifizierungslink."
+   },
+   "verificationClickToResend": {
+      "message": "bitte hier klicken, um erneut zu senden."
+   },
+   "verificationDidntReceiveEmail": {
+      "message": "Wenn Sie die E-Mail nicht erhalten haben,"
+   },
+   "verifyResetPasswordAcceptBtn": {
+      "message": "Ja, Passwort zurücksetzen"
+   },
+   "verifyResetPasswordCancelBtn": {
+      "message": "Nein, Abbrechen"
+   },
+   "verifyResetPasswordText": {
+      "message": "Wir setzen Ihr Passwort zurück und senden Ihnen ein neues an Ihre E-Mail-Adresse."
+   },
+   "verifyResetPasswordTitle": {
+      "message": "Sind Sie sicher?"
+   },
+   "viewAccount": {
+      "message": "Konto ansehen"
+   },
+   "whatsNewFeature1": {
+      "message": "Was haben Sport, Lego und der Weltraum gemeinsam? Unsere neue Blockseite ermöglicht es Ihnen jetzt, thematische Bilderpakete mit motivierenden Zitaten auszuwählen - sehen Sie sich Ihre Blockseite für diese Funktion an!"
+   },
+   "whatsNewGotIt": {
+      "message": "ALLES KLAR"
+   },
+   "whatsNewSubtitle": {
+      "message": "Hier ist, was neu auf BlockSite ist:"
+   },
+   "whatsNewTitle": {
+      "message": "Willkommen zurück"
+   },
+   "whiteListRedirectRemovePopupDescription": {
+      "message": "Beim Wechsel zwischen dem Modus der weißen und der schwarzen Liste müssen wir Ihre Umleitungsseite löschen"
+   },
+   "whitelistInfoToolTip": {
+      "message": "Blockieren Sie alle Websites mit Ausnahme derjenigen in Ihrer Whitelist."
+   },
+   "whitelistModeTitle": {
+      "message": "Whitelist-Modus"
+   },
+   "whitelistPopUpDescription": {
+      "message": "Alle Websites mit Ausnahme der Websites in der Liste werden gesperrt."
+   },
+   "whitelistPopUpTitle": {
+      "message": "Sind Sie sicher?"
+   },
+   "workModeEnterPassToPauseOrReset": {
+      "message": "Für %TIMER_ACTION% geben Sie Ihr Passwort ein",
+      "placeholders": {
+         "timer_action": {
+            "content": "1 $",
+            "example": "25"
+         }
+      }
+   },
+   "workModeToPauseOrResetEnterPassword": {
+      "message": "Passwort in %TIMER_ACTION% eingeben",
+      "placeholders": {
+         "timer_action": {
+            "content": "1 $",
+            "example": "25"
+         }
+      }
+   },
+   "workModeWrongPassword": {
+      "message": "Falsches Passwort"
+   },
+   "wrongPassword": {
+      "message": "Hoppla! Das war nicht ganz richtig. Bitte versuchen Sie es erneut."
+   }
+}

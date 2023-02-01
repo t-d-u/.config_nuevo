@@ -1,0 +1,6 @@
+2023/01/31-20:00:28.101 78a Reusing MANIFEST /home/tdu/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/01/31-20:00:28.102 78a Recovering log #43
+2023/01/31-20:00:28.104 78a Reusing old log /home/tdu/.config/google-chrome/Default/Sync Data/LevelDB/000043.log 
+2023/02/01-15:56:00.666 78b Level-0 table #48: started
+2023/02/01-15:56:00.675 78b Level-0 table #48: 182840 bytes OK
+2023/02/01-15:56:00.685 78b Delete type=0 #43

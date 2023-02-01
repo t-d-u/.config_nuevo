@@ -1,0 +1,51 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA8AAAAJOAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+eDP1 DP1 Height 960x648=627
+eDP1 DP1 Width 960x648=960
+eDP1 DP1 XPosition 960x648=0
+eDP1 DP1 YPosition 960x648=22
+
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABDoAAAKSAAAABAAAAAQAAAAIAAAACPwAAAADAAAAAQAAAAEAAAAsAHEAdQBpAGMAawBBAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHICAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAFgBtAGEAaQBuAFQAbwBvAGwAQgBhAHIBAAAAAP////8AAAAAAAAAAAAAAAIAAAABAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP1 DP1 Height 1095x730=703
+eDP1 DP1 Height 960x648=614
+eDP1 DP1 Width 1095x730=1090
+eDP1 DP1 Width 960x648=947
+eDP1 DP1 XPosition 1095x730=1923
+eDP1 DP1 XPosition 960x648=7
+eDP1 DP1 YPosition 1095x730=25
+eDP1 DP1 YPosition 960x648=28
+eDP1 Height 1095x730=695
+eDP1 Width 1095x730=1082
+eDP1 XPosition 1095x730=7
+eDP1 YPosition 1095x730=29
+
+[Recent Files]
+File1[$e]=$HOME/pdfs/science/biblio/Tesis_Tomas_Bossi.pdf
+File10[$e]=$HOME/pdfs/science/biblio/Mindlin_Laje-Physics_of_Birdsong.pdf
+File2[$e]=$HOME/pdfs/science/papers/Tubaro_Mindlin_2019_data_aug.pdf
+File3[$e]=$HOME/pdfs/science/papers/iv-forced-oscillations-in-nonlinear-systems_subharm3.pdf
+File4[$e]=$HOME/pdfs/science/papers/horneros_2003.pdf
+File5[$e]=$HOME/pdfs/science/papers/laje_mindlin-diversity-2002.pdf
+File6[$e]=$HOME/pdfs/science/papers/horneros_2005.pdf
+File7[$e]=$HOME/pdfs/science/biblio/strogatz.pdf
+File8[$e]=$HOME/pdfs/science/papers/laje_mindlin_gardner-neuromuscular_siringe.pdf
+File9[$e]=$HOME/pdfs/science/papers/chinos_estudio_van_der_pol.pdf
+Name1[$e]=Tesis_Tomas_Bossi.pdf
+Name10[$e]=Mindlin_Laje-Physics_of_Birdsong.pdf
+Name2[$e]=Tubaro_Mindlin_2019_data_aug.pdf
+Name3[$e]=iv-forced-oscillations-in-nonlinear-systems_subharm3.pdf
+Name4[$e]=horneros_2003.pdf
+Name5[$e]=laje_mindlin-diversity-2002.pdf
+Name6[$e]=horneros_2005.pdf
+Name7[$e]=strogatz.pdf
+Name8[$e]=laje_mindlin_gardner-neuromuscular_siringe.pdf
+Name9[$e]=chinos_estudio_van_der_pol.pdf
+
+[Shortcuts]
+annotationToolBar=B

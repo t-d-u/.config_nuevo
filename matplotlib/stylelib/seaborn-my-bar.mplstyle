@@ -1,0 +1,41 @@
+#el único cambio respecto de my-grid es que le saco las gridlines verticales al bar plot.
+# Seaborn common parameters
+
+# .15 = dark_gray
+# .8 = light_gray
+figure.facecolor: white
+#figure.facecolor: EAEAF2
+text.color: .15
+axes.labelcolor: .15
+#legend.frameon: False
+legend.frameon: True
+legend.numpoints: 1
+legend.scatterpoints: 1
+xtick.direction: out
+ytick.direction: out
+#xtick.color: .15
+#ytick.color: .15
+axes.axisbelow: True
+image.cmap: Greys
+font.family: sans-serif
+font.sans-serif: Arial, Liberation Sans, DejaVu Sans, Bitstream Vera Sans, sans-serif
+grid.linestyle: -
+lines.solid_capstyle: round
+
+# Seaborn darkgrid parameters
+axes.grid: True
+axes.grid.axis:y
+axes.facecolor: EAEAF2
+#axes.facecolor: C6C6CF
+axes.edgecolor: black
+axes.linewidth: 0
+#grid.color: black
+xtick.major.size: 0
+ytick.major.size: 0
+xtick.minor.size: 0
+ytick.minor.size: 0
+
+xtick.color: 000000
+ytick.color: 000000
+grid.color: grey
+

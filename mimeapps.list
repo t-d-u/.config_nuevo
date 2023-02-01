@@ -1,0 +1,30 @@
+[Default Applications]
+image/jpeg=sxiv.desktop
+image/bmp=sxiv.desktop
+image/gif=sxiv.desktop
+image/jpg=sxiv.desktop
+image/png=sxiv.desktop
+image/tiff=sxiv.desktop
+image/x-bmp=sxiv.desktop
+image/x-portable-anymap=sxiv.desktop
+image/x-portable-bitmap=sxiv.desktop
+image/x-portable-graymap=sxiv.desktop
+image/x-tga=sxiv.desktop
+image/x-xpixmap=sxiv.desktop
+
+[Added Associations]
+image/bmp=sxiv.desktop;
+image/gif=sxiv.desktop;
+image/jpg=sxiv.desktop;
+image/png=sxiv.desktop;
+image/tiff=sxiv.desktop;
+image/x-bmp=sxiv.desktop;
+image/x-portable-anymap=sxiv.desktop;
+image/x-portable-bitmap=sxiv.desktop;
+image/x-portable-graymap=sxiv.desktop;
+image/x-tga=sxiv.desktop;
+image/x-xpixmap=sxiv.desktop;
+
+[Removed Associations]
+x-scheme-handler/com.googleusercontent.apps.916137916439-evn6skqan91m96fmsskk8102e3iepv22=org.gnome.DejaDup.desktop;
+text/plain=libreoffice-writer.desktop;org.gnome.gedit.desktop;

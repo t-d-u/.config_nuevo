@@ -1,0 +1,37 @@
+" onedark color scheme for vifm
+
+" Reset all styles first
+highlight clear
+
+highlight Border	cterm=none	ctermfg=default ctermbg=default
+"0.35
+
+"TopLine es la que en el preview dice "File: ...""
+highlight TopLine	cterm=bold ctermfg=228	ctermbg=000
+
+"toplinesel es la barra arriba con el directory
+highlight TopLineSel	cterm=bold	ctermfg=007 ctermbg=000
+
+"win es los relativenumber, tamaños de archivos y archivos.
+highlight Win		cterm=none	ctermfg=013	ctermbg=default
+highlight Directory	cterm=bold	ctermfg=006	ctermbg=default
+highlight CurrLine	cterm=bold,reverse ctermfg=228 ctermbg=default
+highlight OtherLine	cterm=bold	ctermfg=default	ctermbg=default
+highlight Selected	cterm=bold ctermfg=default	ctermbg=243
+
+highlight JobLine	cterm=bold	ctermfg=default	ctermbg=008
+highlight StatusLine	cterm=none	ctermfg=000	ctermbg=004
+highlight ErrorMsg	cterm=bold	ctermfg=001	ctermbg=default
+highlight WildMenu	cterm=bold	ctermfg=015	ctermbg=250
+highlight CmdLine	cterm=none	ctermfg=007	ctermbg=default
+
+" executable verde cursiva
+highlight Executable	cterm=italic ctermfg=002 ctermbg=default
+" symlink azul
+highlight Link		cterm=none	ctermfg=004	ctermbg=default
+highlight BrokenLink	cterm=bold	ctermfg=001	ctermbg=default
+highlight Device	cterm=bold,standout	ctermfg=013 ctermbg=002
+highlight Fifo		cterm=none	ctermfg=003	ctermbg=default
+highlight Socket	cterm=bold	ctermfg=005	ctermbg=default
+
+" no encuentro donde esta el naranja, pero se que son hardlinks.
